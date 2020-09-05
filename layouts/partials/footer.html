@@ -7,7 +7,7 @@
 				<div class="social-icon">
 					<ul class="list-inline">
 						{{ range site.Params.social }}
-						<li class="mt-2 mb-2 list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+						<li class="mb-2 list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
 						{{ end }}
 					</ul>
 				</div>
