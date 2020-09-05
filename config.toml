@@ -1,0 +1,191 @@
+################################### Default Configuration ############################
+baseurl = "https://www.spinenuances.com"
+title = "SpineNuances"
+theme = "vex-hugo"
+# post excert
+summarylength = "50"
+# google analytics
+googleAnalytics = "" # Ex: UA-123-45
+# disable language
+disableLanguages = ["fr", "ja"] # disable language from here
+
+#################################### Plugins ##########################################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themefisher-font/themefisher-font.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.min.css"
+# needs to be uncommented to activate the cart
+# [[params.plugins.css]]
+# link = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+# needs to be uncommented to activate the cart
+# [[params.plugins.js]]
+# link = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.js"
+
+
+###################################### Navigation ######################################
+
+# homepage section menu
+[[menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+# main menu
+[[menu.main]]
+name = "ostaPek®"
+URL = "ostapek"
+weight = 2
+
+# main menu
+[[menu.main]]
+name = "Products"
+URL = "products"
+weight = 3
+
+# main menu
+[[menu.main]]
+name = "Download"
+URL = "download"
+weight = 4
+
+# main menu
+[[menu.main]]
+name = "News"
+URL = "news"
+weight = 5
+
+[[menu.main]]
+name = "About"
+URL = "aboutus"
+weight = 6
+
+[[menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 7
+
+# footer menu
+[[menu.footer]]
+name = "News"
+URL = "news"
+weight = 1
+
+[[menu.footer]]
+name = "Download"
+URL = "download"
+weight = 2
+
+[[menu.footer]]
+name = "Terms & Conditions"
+URL = "terms-conditions"
+weight = 3
+
+[[menu.footer]]
+name = "Privacy Policy"
+URL = "privacy-policy"
+weight = 4
+
+[[menu.footer]]
+name = "About"
+URL = "aboutus"
+weight = 5
+
+[[menu.footer]]
+name = "Contact"
+URL = "contact"
+weight = 6
+
+########################### Default parameters ##########################
+[params]
+logo = "images/Logo.png"
+logo_width = "150px"
+# Meta data
+description = "SpineNuances website"
+author = "PS"
+# currency
+currency = "$"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# snipcart public api key
+# snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
+
+# Subscription
+[params.subscription]
+# mailchimp subsciption
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+
+# google map
+[params.map]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+############################# social icons ##########################
+[[params.social]]
+icon = "tf-facebook" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "tf-twitter" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "tf-ion-social-youtube" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "tf-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.linkedin.com/in/patrick-stepanek-72742443"
+
+[[params.social]]
+icon = "tf-ion-social-pinterest" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "tf-ion-social-instagram" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "tf-ion-social-reddit" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+# copyright
+# copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+
+
+################################### French language #####################################
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 2
+# copyright
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
