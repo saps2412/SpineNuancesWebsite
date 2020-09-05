@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = ""
+baseurl = "www.spinenuances.com"
 title = "SpineNuances"
 theme = "vex-hugo"
 # post excert
