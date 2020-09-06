@@ -6,6 +6,9 @@ description : "this is a meta description"
 draft: false
 ---
 
-Compared to PEEK carbon composite implants show 4 times more cell growth. Human osseous cells are distributed homogeneously on the carbon composite implant surfaces compared to multi-layered discontinuous cell clusters on PEEK.
+Compared to PEEK carbon composite implants show 4 times more cell growth. 
+Human osseous cells are distributed homogeneously on the carbon composite implant surfaces compared to multi-layered discontinuous cell clusters on PEEK.
+<!-- [Relevant Publication](https://saps2412.github.io/publications/Composite%20Barbanti%20Brodano%202007.pdf) -->
 
-Moreover, even in comparison to Titanium surfaces carbon composite implants show improved results in terms of cellular density and viability.
+Moreover, even in comparison to Titanium surfaces carbon composite implants show improved results in terms of cellular density and viability. 
+<!-- [Relevant Publication](https://saps2412.github.io/publications/Composite%20Sigot%20Luizard%202000.pdf) -->

@@ -13,21 +13,22 @@ banner:
 ############################# Feature ############################
 features:
   enable : true
-  title : "ostaPek® for the cervical spine --- Trabis® & ACIF"
+  title : "ostaPek® for the cervical spine"
   image : "images/trabis.jpg"
+  text: "Trabis® corpectomy and ACIF interbody fusion cages"
 
   # feature at the left of the image
   left_side:
     # feature item loop (D)
   - title : "Innovation"
     icon : "tf-ion-ios-checkmark-outline"
-    content : "Trabis® & ACIF cages have been cleared by the FDA for cervical indication in 2018."
+    content : "Trabis® and ACIF cages have been cleared by the FDA for cervical indication in 2018, respectively, 2017."
     # content : "Proven best-in-class bone growth with no coating."
     
     # feature item loop (D, TR, TU)
   - title : "Lightness"
     icon : "tf-ion-ios-infinite"
-    content : "The specific orientation of the carbon fibre bundles allows for thin wall design, unparalleled bone to cage volume and maximized space for bone graft."
+    content : "The specific orientation of the carbon fibre bundles allows for thin wall design, unparalleled graft to cage volume ratio."
     # content : "Carbon fibre orientation engineered for optimal axial compression and torsion properties."
     
     # feature item loop (TU)
@@ -38,7 +39,7 @@ features:
 
     button:
         enable : true
-        label : "Learn More"
+        label : "Learn more about cervical cages"
         link : "products"
         
   # feature at the right of the image (D)
@@ -46,13 +47,13 @@ features:
     # feature item loop
   - title : "Safety"
     icon : "tf-ion-ios-checkmark-outline"
-    content : "Both Trabis® & ACIF cages have been in clinical use in Europe since 2000. Safety and effectiveness have been proven in thousands of procedures and described in multiple peer-reviewed publications."
+    content : "Both Trabis® and ACIF cages have been in clinical use in Europe since more than 20 years. Safety and effectiveness have been proven in thousands of procedures and described in multiple peer-reviewed publications."
     # content : "Modulus of elasticity close to bone preserves remodeling."
 
     # feature item loop
   - title : "Strength"
     icon : "tf-ion-ios-analytics"
-    content : "ostaPek® cages are engineered to resist cervical loads in the earliest phases of the fusion process."
+    content : "ostaPek® cages are engineered to resist cervical loads from the earliest phases of the fusion process."
     # content : "Cage designed for both maximum primary stability and fusion. Best-in-class bone to cage volume ratio for maximum bone graft."
 
     # feature item loop
