@@ -27,7 +27,7 @@ The ostaPek® VBR system consists of one or multiple stackable cages to be used 
 
 Clinically used in Europe since 2004. Cleared by the FDA under MQP code in 2008 [510(k) K072326](https://www.accessdata.fda.gov/cdrh_docs/pdf7/K072326.pdf).
 
-ostaPek® VBR is [patented](http://localhost:1313/download/patents) and made in the USA based on Swiss technology.
+ostaPek® VBR is [patented](https://www.spinenuances.com/download/patents) and made in the USA based on Swiss technology.
 
 The coLigne ostaPek® VBR system are vertebral body (partial or total) replacement (VBR) devices intended for use in the thoracolumbar spine (T1-L5) to replace and restore height to a collapsed, damaged, or unstable vertebral body or portion thereof, due to tumor, trauma, or disease.
 
@@ -35,6 +35,6 @@ Examples of indications are Tumor, Metastases and Trauma.
 
 The ostaPek® vertebral body replacement cages are available in various sizes with and without lordosis.
 
-For complete details on the use of the ostaPek® VBR system refer to the valid  [Information for Use](http://localhost:1313/download/ifu).
+For complete details on the use of the ostaPek® VBR system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_VBR_System_IFU_2020-05.pdf).
 
-[Peer-reviewed clinical publications on the ostaPek® VBR system](http://localhost:1313/publications)
+[Peer-reviewed clinical publications on the ostaPek® VBR system](https://www.spinenuances.com/download/publications)

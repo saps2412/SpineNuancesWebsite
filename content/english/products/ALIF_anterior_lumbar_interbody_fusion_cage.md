@@ -36,6 +36,6 @@ Example of indications discogenic lombalgy on 1 or 2 levels without canal stenos
 
 The ALIF Cage has a trapezoidal lateral profile and an approximate oval footprint. It is available in one width, two lengths, four heights and three lordosis angles. It has six bone graft windows in the horizontal plane.
 
-For complete details on the use of the ALIF system refer to the valid  [Information for Use](http://localhost:1313/download/ifu).
+For complete details on the use of the ALIF system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_ostaPek_Interbody_Fusion_Cages_IFU_2018-10.pdf).
 
-[Peer-reviewed clinical publications on the ALIF system](http://localhost:1313/download/publications)
+[Peer-reviewed clinical publications on the ALIF system](https://www.spinenuances.com/download/publications)

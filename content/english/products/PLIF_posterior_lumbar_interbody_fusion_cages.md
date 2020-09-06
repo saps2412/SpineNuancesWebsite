@@ -35,6 +35,6 @@ Examples of indications are discogenic lombalgy on 1 or 2 levels with bilateral 
 
 Different combinations of width and length are available to cover the range of anatomical needs. The PLIF cages are designed in two lengths: standard = 25 mm and small = 20 mm, both types are available in three angles: 2˚, 5˚ and 7˚. The PLIF Bullet cages are designed in four lengths (standard = 25.8 mm, small = 20.8. mm, long = 30.8mm and X-long = 35.8mm) and are available in three angles: 2˚, 5˚ and 7˚.
 
-For complete details on the use of the PLIF system refer to the valid  [Information for Use](http://localhost:1313/download/ifu).
+For complete details on the use of the PLIF system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_ostaPek_Interbody_Fusion_Cages_IFU_2018-10.pdf).
 
-[Peer-reviewed clinical publications on the PLIF system](http://localhost:1313/download/publications)
+[Peer-reviewed clinical publications on the PLIF system](https://www.spinenuances.com/download/publications)

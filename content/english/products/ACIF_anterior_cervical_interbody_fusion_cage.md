@@ -35,6 +35,6 @@ Examples of indications are Myelopathy, Narrow Canal and Trauma.
 
 The ACIF cage has a trapezoidal footprint of different sizes, multiple heights, and lordotic angle of 0° and 5°. Cages with a domed shape are available as well.
 
-For complete details on the use of the ACIF system refer to the valid  [Information for Use](http://localhost:1313/download/ifu).
+For complete details on the use of the ACIF system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_ACIF_IFU_2017-09.pdf).
 
-[Peer-reviewed clinical publications on the ACIF system](http://localhost:1313/download/publications)
+[Peer-reviewed clinical publications on the ACIF system](https://www.spinenuances.com/download/publications)
