@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = ""
+baseurl = "https://www.spinenuances.com"
 title = "SpineNuances"
 theme = "vex-hugo"
 # post excert
@@ -20,7 +20,6 @@ link = "plugins/bootstrap/bootstrap.min.css"
 link = "plugins/themefisher-font/themefisher-font.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.min.css"
-# needs to be uncommented to activate the cart
 
 # JS Plugins
 [[params.plugins.js]]
@@ -38,25 +37,21 @@ name = "Home"
 URL = "/"
 weight = 1
 
-# main menu
 [[menu.main]]
 name = "ostaPek®"
 URL = "ostapek"
 weight = 2
 
-# main menu
 [[menu.main]]
 name = "Products"
 URL = "products"
 weight = 3
 
-# main menu
 [[menu.main]]
 name = "Download"
 URL = "download"
 weight = 4
 
-# main menu
 [[menu.main]]
 name = "News"
 URL = "news"
@@ -114,8 +109,6 @@ author = "PS"
 currency = "$"
 # contact form action
 contact_form_action = "https://formspree.io/xvowegnj" # contact form works with https://formspree.io
-# snipcart public api key
-# snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 
 # Preloader
 [params.preloader]
