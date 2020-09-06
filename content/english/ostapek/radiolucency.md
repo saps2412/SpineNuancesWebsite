@@ -10,4 +10,4 @@ The ostaPek® carbon composite material is radiolucent and therefore allows for 
 
 67% of the ostaPek® carbon composite material are long, oriented carbon fibers embedded in a 33% PeKeKK matrix.
 
-PeKeKK, a part of the PAEK family of polymers, has a noticeably higher strength level and overall loading capacity compared to PEEK. 
+PeKeKK, a part of the PAEK family of polymers, has a noticeably higher strength level and overall stability compared to PEEK. 

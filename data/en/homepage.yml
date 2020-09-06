@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Carbon composite technology for spine fusion"
   content : "ostaPek® implants introduce high-tech carbon composite material to spine fusion. 
-  Based on fibre pattern design specific to each indication surgeons and patients can now consider treatment options not available based on traditional methods and materials."
+  Based on fiber pattern design specific to each indication, surgeons and patients can now consider treatment options not available based on traditional methods and materials."
   image : "images/VBR_new.jpg"
   button:
    enable : true
@@ -28,8 +28,8 @@ features:
     # feature item loop (D, TR, TU)
   - title : "Lightness"
     icon : "tf-ion-ios-infinite"
-    content : "The specific orientation of the carbon fibre bundles allows for thin wall design, unparalleled graft to cage volume ratio."
-    # content : "Carbon fibre orientation engineered for optimal axial compression and torsion properties."
+    content : "The specific orientation of the carbon fiber bundles allows for thin wall design, unparalleled graft to cage volume ratio."
+    # content : "Carbon fiber orientation engineered for optimal axial compression and torsion properties."
     
     # feature item loop (TU)
   - title : "Radiolucency"
@@ -69,7 +69,7 @@ promo:
   title : "ostaPek® VBR for tumor"
   content : "ostaPek® VBR is designed for the most demanding spine tumor cases. 
   The contruct is versatile in terms of height and lordosis angle via stackable cages.
-  The artifical pedicle connecting anterior and posterior elements adds torsional stability. 
+  The artificial pedicles protect the cage from dislocation. 
   Radiolucency of the material makes both radiological treatment and post-operative visual assessment possible."
   button:
         enable : true
@@ -85,7 +85,7 @@ about_product:
     - image : "images/cages.png"
       title : "Interbody fusion cages"
       content : "The ostaPek® interbody fusion cages differ in shape but follow the same design principles: vertical struts for strength for primary stabilization, 
-      maximised space for bone graft for fusion, large cage-bone surface in contact with the endplates and design features to facilitate surgical gestures during implantation for each approach."
+      maximised space for bone graft, large cage-graft surface in contact with the endplates and design features to facilitate surgical gestures during implantation for each approach."
       
       button:
         enable : true
@@ -96,7 +96,7 @@ about_product:
     - image : "images/pedicletool.jpg"
       title : "GII Pedicle fixation"
       content : "The GII system, initially cleared by the FDA in 1998 in stainless steel, 
-                includes orthogonal and poliaxial screws to be combined with either titanium or ostaPek® plates or titanium rods for the non-cervical posterior spine."
+                includes orthogonal and poliaxial screws to be combined with either titanium or ostaPek® plates or titanium rods for the non-cervical spine."
       button:
         enable : true
         label : "Learn More"
@@ -107,7 +107,8 @@ instrument:
   enable : true
   image : "images/instrument.png"
   title : "Instruments in the surgeon's hands"
-  content : "Only by deciphering the surgical gesture and its aim a functional and effective instrument can be created. Since 1994, ostaPek® product development has moved forward hand-in-hand with instrument design."
+  content : "Only by deciphering the surgical gesture and its aim a functional and effective instrument can be created. 
+  Since 1994, ostaPek® product development has moved hand-in-hand with instrument design and exploration of surgical techniques."
   button:
         enable : true
         label : "Learn More about Coligne Courses"
