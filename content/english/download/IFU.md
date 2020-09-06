@@ -10,21 +10,13 @@ Step-by-step detailed information for both ostaPek® cage and pedicle fixation s
 
 <!--more-->
 
-### Trabis® 
+### [Trabis®](https://saps2412.github.io/IFUs/US_Trabis_IFU_2018-04.pdf) 
 
+### [ACIF cage system](https://saps2412.github.io/IFUs/US_ACIF_IFU_2017-09.pdf)
 
+### [ostaPek® interbody fusion cages - ALIF, PLIF, TLIF and ELIF](https://saps2412.github.io/IFUs/US_ostaPek_Interbody_Fusion_Cages_IFU_2018-10.pdf)
 
-### ACIF cage system
+### [ostaPek® VBR](https://saps2412.github.io/IFUs/US_VBR_System_IFU_2020-05.pdf)
 
-
-
-### ostaPek® interbody fusion cages - ALIF, PLIF, TLIF and ELIF
-
-
-
-### ostaPek® VBR
-
-
-
-### GII pedicle fixation
+### [GII pedicle fixation](https://saps2412.github.io/IFUs/US_GII_spinal_fixation_system_IFU_2020-05.pdf)
 
