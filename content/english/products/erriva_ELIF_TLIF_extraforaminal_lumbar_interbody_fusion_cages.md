@@ -2,10 +2,10 @@
 title: "ostaPek® interbody fusion erriva™"
 date: 2019-10-14T11:22:16+06:00
 images: 
+  - "images/showcase/erriva3.jpg"
   - "images/showcase/erriva.jpg"
   - "images/showcase/erriva_only.jpg"
   - "images/showcase/erriva_tool.jpg"
-  - "images/showcase/erriva_alt.jpg"
 
 # meta description
 description : "erriva extraforaminal lumbar interbody fusion ELIF TLIF"
