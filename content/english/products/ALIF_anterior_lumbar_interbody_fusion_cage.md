@@ -38,4 +38,4 @@ The ALIF Cage has a trapezoidal lateral profile and an approximate oval footprin
 
 For complete details on the use of the ALIF system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_ostaPek_Interbody_Fusion_Cages_IFU_2018-10.pdf).
 
-[Peer-reviewed clinical publications on the ALIF system](https://www.spinenuances.com/download/publications)
+[Peer-reviewed clinical publications on the ALIF system](https://spinenuances.com/download/publications)

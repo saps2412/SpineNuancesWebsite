@@ -15,10 +15,10 @@ AddOutputFilterByType DEFLATE image/jpeg
 AddOutputFilterByType DEFLATE image/svg+xml
 </IfModule>
 
-<IfModule mod_deflate.c>
+<IfModule mod_expires.c>
 # Images
-ExpiresByType image/jpeg "access plus 1 year"
-ExpiresByType image/png "access plus 1 year"
+ExpiresByType image/jpeg "access plus 1 month"
+ExpiresByType image/png "access plus 1 month"
 
 # Video
 

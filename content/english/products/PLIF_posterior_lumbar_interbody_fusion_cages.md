@@ -37,4 +37,4 @@ Different combinations of width and length are available to cover the range of a
 
 For complete details on the use of the PLIF system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_ostaPek_Interbody_Fusion_Cages_IFU_2018-10.pdf).
 
-[Peer-reviewed clinical publications on the PLIF system](https://www.spinenuances.com/download/publications)
+[Peer-reviewed clinical publications on the PLIF system](https://spinenuances.com/download/publications)
