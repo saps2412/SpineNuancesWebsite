@@ -27,11 +27,11 @@ The ostaPek® gemitra cages are specifically designed to be translated on the tr
 
 Clinically used in Europe since 2004. Cleared by the FDA under MAX code in 2018 [510(k) K181963](https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181963.pdf).
 
-TLIF cages are [patented](https://www.spinenuances.com/download/patents) and made in the USA based on Swiss technology.
+TLIF cages are [patented](https://www.spinenuances.com/download/patents), have been developed in the USA and are manufactured in Switzerland.
 
 The ostaPek® Interbody Fusion Cages system is indicated for use as an intervertebral body fusion device in skeletally mature patients at one or two contiguous levels of the sacro-lumbar spine (L2-S1) to facilitate fusion in case of degenerative disc disease (DDD) defined as discogenic pain with degeneration of the disc confirmed by patient history and radiographic studies. DDD patients may also have up to Grade 1 spondylolisthesis or retrolisthesis at the involved level(s). The ostaPek Interbody Fusion Cages are placed via an anterior, posterior or lateral approach using autogenous bone graft and/or allograft comprised of cancellous and/or corticocancellous bone graft. The ostaPek Interbody Fusion Cages are to be used with supplemental fixation cleared by the FDA for use in the lumbar spine. Patients should have at least six weeks of non-operative treatment prior to surgery. Patients with previous non-fusion spinal surgery at involved level may be treated with the device.
 
-Example of indications discogenic lombalgy on 1 or 2 levels with unilateral canal stenosis, 2nd recidive of lateral disc herniation.
+Example of indications discogenic lombalgy of 1 or 2 levels with unilateral canal stenosis, second recidive of lateral disc herniation.
 
 The TLIF has a generally rectangular footprint. It is available in two widths, seven heights, one length, and a 1° lordosis angle. It has three bone graft chambers in both the sagittal and horizontal planes. For each size an IPSI and a CONTRA cage is available.
 

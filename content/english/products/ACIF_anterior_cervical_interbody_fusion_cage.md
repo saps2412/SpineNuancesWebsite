@@ -27,11 +27,11 @@ ACIF cages are designed for anterior cervical discectomy and fusion surgery with
 
 Clinically used in Europe since 1996. Cleared by the FDA under ODP code in 2017 [510(k) K173148](https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173148.pdf).
 
-ACIF cages are made in the USA based on Swiss technology.
+ACIF cages have been developed in the USA and are manufactured in Switzerland.
 
 The ACIF system is indicated for use as an intervertebral body fusion device in skeletally mature patients at one or two contiguous levels of the cervical spine (C2-T1) to facilitate fusion in case of degenerative disc disease (DDD) defined as discogenic pain with degeneration of the disc confirmed by patient history and radiographic studies. The ACIF implants are placed via an anterior approach using autogenous bone graft and/or allograft comprised of cancellous and/or corticocancellous bone graft. The ACIF implants are to be used with supplemental fixation. Patients should have at least six weeks of non-operative treatment prior to surgery.
 
-Examples of indications are Myelopathy, Narrow Canal and Trauma.
+Examples of indications are Myelopathy, Canal Stenosis and Trauma.
 
 The ACIF cage has a trapezoidal footprint of different sizes, multiple heights, and lordotic angle of 0° and 5°. Cages with a domed shape are available as well.
 

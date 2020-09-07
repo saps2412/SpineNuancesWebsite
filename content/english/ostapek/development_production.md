@@ -6,4 +6,4 @@ description : "made in the USA technology Swiss"
 draft: false
 ---
 
-ostaPek® carbon composite has been developed in the USA and is made in Switzerland.
+ostaPek® carbon composite has been developed in the USA and is manufactured in Switzerland.

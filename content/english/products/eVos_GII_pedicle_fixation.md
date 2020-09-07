@@ -25,7 +25,7 @@ The GII pedicle fixation system is designed for the thoracolumbar and sacral spi
 
 Clinically used in Europe since 1996. Cleared by the FDA under codes MNH, KWP and MNI in 1998 -- 510(k) [K98082](https://www.accessdata.fda.gov/cdrh_docs/pdf/K980852.pdf), [K032604](https://www.accessdata.fda.gov/cdrh_docs/pdf3/K032604.pdf), [K051089](https://www.accessdata.fda.gov/cdrh_docs/pdf5/K051089.pdf) and [K083567](https://www.accessdata.fda.gov/cdrh_docs/pdf8/K083567.pdf).
 
-The GII pedicle fixation is [patented](https://www.spinenuances.com/download/patents) and made in the USA based on Swiss technology.
+The GII pedicle fixation is [patented](https://www.spinenuances.com/download/patents), has been developed in the USA and is manufactured in Switzerland.
 
 The GII spinal fixation system when used as a pedicle screw system in the non-cervical posterior spine,  is to be used in skeletally mature patients as an adjunct to fusion using autograft and/or allograft for one or more of the following:
 (1) Degenerative or severe spondylolisthesis (Grades 3 and 4) of the fifth lumbar/first sacral (L5-S1) joint with objective evidence of neurologic impairment,
