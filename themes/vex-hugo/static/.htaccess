@@ -16,18 +16,10 @@ AddOutputFilterByType DEFLATE image/svg+xml
 </IfModule>
 
 <IfModule mod_expires.c>
-# Images
+ExpiresActive On
 ExpiresByType image/jpeg "access plus 1 month"
 ExpiresByType image/png "access plus 1 month"
-
-# Video
-
-# Fonts
-
-# CSS, JavaScript
 ExpiresByType text/css "access plus 1 month"
 ExpiresByType text/javascript "access plus 1 month"
 ExpiresByType application/javascript "access plus 1 month"
-
-# Others
 </IfModule>
