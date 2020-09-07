@@ -34,13 +34,13 @@ Cawley DT, and al.: [Carbon-fibre cage reconstruction in anterior cervical corpe
 
 ## ACIF
 
-JP Elsig, F Sgier: [Anterior cervical interboy fusion (ACIF) with carbon composite cages.](https://saps2412.github.io/publications/ACIF%Elsig%1999.pdf) Rivista di Neuroradiologia, 1999;12(Suppl.1):125-7
+JP Elsig, F Sgier: [Anterior cervical interboy fusion (ACIF) with carbon composite cages.](https://saps2412.github.io/publications/ACIF_Elsig_1999.pdf) Rivista di Neuroradiologia, 1999;12(Suppl.1):125-7
 
-M Payer, D May, A Reverdin, E Tessitore: [Implantation of an empty carbon composite ostaPek frame cage after single level anterior cervical discectomy in the treatment of cervical disc herniation: radiological and clinical evaluation of a new technique.](https://saps2412.github.io/publications/ACIF%Payern%2003.pdf) J Neurosurg. 2003 Mar; 98(2 Suppl):143-8
+M Payer, D May, A Reverdin, E Tessitore: [Implantation of an empty carbon composite ostaPek frame cage after single level anterior cervical discectomy in the treatment of cervical disc herniation: radiological and clinical evaluation of a new technique.](https://saps2412.github.io/publications/ACIF_Payern_2003.pdf) J Neurosurg. 2003 Mar; 98(2 Suppl):143-8
 
-JP Elsig, F Sgier, K E Warden: [Anterior cervical interbody fusion using PEKEKK composite cages.](https://saps2412.github.io/publications/ACIF%Elsig%2002.pdf) Chapter 18, Spinal restabilization procedures. Edited by DL Kaech and JR Jinkins. Elsevier 2002
+JP Elsig, F Sgier, K E Warden: [Anterior cervical interbody fusion using PEKEKK composite cages.](https://saps2412.github.io/publications/ACIF_Elsig_2002.pdf) Chapter 18, Spinal restabilization procedures. Edited by DL Kaech and JR Jinkins. Elsevier 2002
 
-K W Han, JS Kim, KH Kim, YW Cho, IC Lee, SD Bae: [Anterior cervical interbody fusion with the carbon composite ostaPek frame cage in degenerative cervical diseases.](https://saps2412.github.io/publications/ACIF%Han%2005.pdf) J Korean Neurosurg Soc. 2005;37:422-6
+K W Han, JS Kim, KH Kim, YW Cho, IC Lee, SD Bae: [Anterior cervical interbody fusion with the carbon composite ostaPek frame cage in degenerative cervical diseases.](https://saps2412.github.io/publications/ACIF_Han_2005.pdf) J Korean Neurosurg Soc. 2005;37:422-6
 
 ## ostaPek® interbody fusion cages - ALIF
 
