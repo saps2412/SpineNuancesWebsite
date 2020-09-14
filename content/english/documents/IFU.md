@@ -6,7 +6,7 @@ description : "coligne ostapek trabis ACIF VBR instruction for use"
 draft: false
 ---
 
-Step-by-step detailed information for both ostaPek® cage and pedicle fixation system's intended purpose, proper use and any precautions to be taken.
+Detailed information for both ostaPek® cages and pedicle fixation systems intended use, precautions to be taken, risks and reprocessing instructions.
 
 <!--more-->
 

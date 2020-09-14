@@ -6,7 +6,7 @@ description : "coligne ostapek trabis ACIF VBR patents"
 draft: false
 ---
 
-List of relevant US Coligne implant, instrumentation, design and technology patents for both ostaPek® cage and pedicle fixation systems.
+Over the years, Coligne's innovative approach has lead to international patents for implants, instrumentation, design and technology for both ostaPek® cage and pedicle fixation systems.
 
 <!--more-->
 

@@ -33,7 +33,7 @@ The ostaPek® Interbody Fusion Cages system is indicated for use as an intervert
 
 Example of indications discogenic lombalgy of 1 or 2 levels with unilateral canal stenosis, second recidive of lateral disc herniation.
 
-The TLIF has a generally rectangular footprint. It is available in two widths, seven heights, one length, and a 1° lordosis angle. It has three bone graft chambers in both the sagittal and horizontal planes. For each size an IPSI and a CONTRA cage is available.
+The Gemitra cage has a generally rectangular footprint. It is available in two widths, one length and incremental steps of 1 mm in height. It has three large graft chambers. For each size an IPSI and a CONTRA cage is available.
 
 For complete details on the use of the TLIF system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_ostaPek_Interbody_Fusion_Cages_IFU_2018-10.pdf).
 

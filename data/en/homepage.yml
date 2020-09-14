@@ -108,11 +108,12 @@ instrument:
   image : "images/instrument.png"
   title : "Instruments in the surgeon's hands"
   content : "Only by deciphering the surgical gesture and its aim a functional and effective instrument can be created. 
-  Since 1994, ostaPek® product development has moved hand-in-hand with instrument design and exploration of surgical techniques."
+  Since 1994, ostaPek® product development has moved hand-in-hand with instrument design and exploration of surgical techniques.
+  International courses and discussion sessions are organized yearly."
   button:
         enable : true
         label : "Learn More about Coligne Courses"
-        link : "news"
+        link : "coalliance"
 
 #################################### Products ########################
 products:

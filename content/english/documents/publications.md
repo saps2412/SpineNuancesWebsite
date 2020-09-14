@@ -6,7 +6,7 @@ description : "peer-reviewed publications on ostaPek cage and pedicoe fixations 
 draft: false
 ---
 
-The main peer-reviewed scientific and clinical publications that provide evidence for the long-term safety and effectiveness of both the ostaPek® cage and pedicle fixation systems.
+Since 1999, clinical use of Coligne products has been presented in international congresses, and was published in peer-reviewed clinical and scientific publications.
 
 <!--more-->
 
