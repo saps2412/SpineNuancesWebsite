@@ -44,37 +44,37 @@ K W Han, JS Kim, KH Kim, YW Cho, IC Lee, SD Bae: [Anterior cervical interbody fu
 
 ## ostaPek® interbody fusion cages - ALIF
 
-E Laloux, JP Elsig: [Anterior lumbar interbody fusion (ALIF) with carbon composite cages.](https://saps2412.github.io/publications/ALIF%Laloux%1999.pdf) Rivista di Neuroradiologia. 1999;12(Suppl.1):111-4
+E Laloux, JP Elsig: [Anterior lumbar interbody fusion (ALIF) with carbon composite cages.](https://saps2412.github.io/publications/ALIF%20Laloux%201999.pdf) Rivista di Neuroradiologia. 1999;12(Suppl.1):111-4
 
-JP Elsig, E Laloux, M Bisserié, KE Warden: [ostaPek cages in lumbar interbody fusion. PLIF vs ALIF: patient outcome in 331 cases.](https://saps2412.github.io/publications/ALIF%PLIF%Elsig%2002%Poster.pdf) 53rd Annual meeting DGNC. June 2-5 2002. Halle (Saale), Germany
+JP Elsig, E Laloux, M Bisserié, KE Warden: [ostaPek cages in lumbar interbody fusion. PLIF vs ALIF: patient outcome in 331 cases.](https://saps2412.github.io/publications/ALIF%20PLIF%20Elsig%202002%20Poster.pdf) 53rd Annual meeting DGNC. June 2-5 2002. Halle (Saale), Germany
 
-JP Elsig, E Laloux, J Commarmond, M Bisserié, KE Warden: [Lumbar interbody fusion with PEKEKK composite cages.](https://saps2412.github.io/publications/ALIF%PLIF%Elsig%2002.pdf) Chapter 14, Spinal restabilization procedures. Edited by DL Kaech and JR Jinkins. Elsevier 2002
+JP Elsig, E Laloux, J Commarmond, M Bisserié, KE Warden: [Lumbar interbody fusion with PEKEKK composite cages.](https://saps2412.github.io/publications/ALIF%20PLIF%20Elsig%202002.pdf) Chapter 14, Spinal restabilization procedures. Edited by DL Kaech and JR Jinkins. Elsevier 2002
 
-TM Markwalder, M Wenger, JP Elsig, E Laloux: [The wilhelm tell technique for anterior lumbar interbody fusion, technical note.](https://saps2412.github.io/publications/ALIF%Markwalder%2003.pdf) J Neurosurg. 2003:98(Suppl.2):222-5
+TM Markwalder, M Wenger, JP Elsig, E Laloux: [The wilhelm tell technique for anterior lumbar interbody fusion, technical note.](https://saps2412.github.io/publications/ALIF%20Markwalder%202003.pdf) J Neurosurg. 2003:98(Suppl.2):222-5
 
 ## ostaPek® interbody fusion cages - PLIF
 
-S Agazzi, A Reverdin, D May: [Posterior lumbar interbody fusion with cages: an independent review of 71 cases.](https://saps2412.github.io/publications/PLIF_Agazzi_1999.pdf) J Neurosurg. 1999;91(Suppl.2):186-92
+S Agazzi, A Reverdin, D May: [Posterior lumbar interbody fusion with cages: an independent review of 71 cases.](https://saps2412.github.io/publications/PLIF%20Agazzi%201999.pdf) J Neurosurg. 1999;91(Suppl.2):186-92
 
-M Bisserié, JP Elsig, K Uehlinger, E Laloux, F Sgier: [Posterior lumbar interbody fusion (PLIF) with carbon composite cages.](https://saps2412.github.io/publications/PLIF_Bisserie_1999.pdf) Rivista Di Neuroradiologia. 1999;12(Suppl.1):103-6
+M Bisserié, JP Elsig, K Uehlinger, E Laloux, F Sgier: [Posterior lumbar interbody fusion (PLIF) with carbon composite cages.](https://saps2412.github.io/publications/PLIF%20Bisserie%201999.pdf) Rivista Di Neuroradiologia. 1999;12(Suppl.1):103-6
 
 ## ostaPek® interbody fusion cages - ELIF
 
-Dr Recoules-Arche, D Alcaix: [ELIF at L5-S1 with composite cages. Extraforaminal lumbar interbody fusion.](https://saps2412.github.io/publications/ELIF%Recoules%2003.pdf) Eurospine. October 1-4 2003. Prague, Czech Republic
+Dr Recoules-Arche, D Alcaix: [ELIF at L5-S1 with composite cages. Extraforaminal lumbar interbody fusion.](https://saps2412.github.io/publications/ELIF%20Recoules%202003.pdf) Eurospine. October 1-4 2003. Prague, Czech Republic
 
-D Recoules-Arche, D Alcaix, T Somon: [The unilateral ELIF for treatment of post-discectomy disc disease.](https://saps2412.github.io/publications/ELIF%Recoules%2007.pdf) Eurospine. October 2-6 2007. Brussels, Belgium
+D Recoules-Arche, D Alcaix, T Somon: [The unilateral ELIF for treatment of post-discectomy disc disease.](https://saps2412.github.io/publications/ELIF%20Recoules%202007.pdf) Eurospine. October 2-6 2007. Brussels, Belgium
 
-D Recoules-Arche, D Alcaix, T Somon: [Unilateral ELIF. Surgical technique, fusion assessment by CT scan on 75 cases.](https://saps2412.github.io/publications/ELIF%Recoules%2008.pdf) Spineweek. May 26-31 2008. Geneva, Switzerland
+D Recoules-Arche, D Alcaix, T Somon: [Unilateral ELIF. Surgical technique, fusion assessment by CT scan on 75 cases.](https://saps2412.github.io/publications/ELIF%20Recoules%202008.pdf) Spineweek. May 26-31 2008. Geneva, Switzerland
 
-D Recoules-Arche, T Somon, DL Kaech: [ELIF through a muscle sparing unilateral approach: biological and radiological follow-up.](https://saps2412.github.io/publications/ELIF%Recoules%2014.pdf) EJOST. 2014;24:50-3
+D Recoules-Arche, T Somon, DL Kaech: [ELIF through a muscle sparing unilateral approach: biological and radiological follow-up.](https://saps2412.github.io/publications/ELIF%20Recoules%202014.pdf) EJOST. 2014;24:50-3
 
-D Recoules-Arche, C Druschel, P Fayada, L Vinikoff, AC Disch: [Unilateral extraforaminal lumbar interbody fusion (ELIF): surgical technique and clinical outcome in 107 patients.](https://saps2412.github.io/publications/ELIF%Recoules%2016.pdf) Clinical Spine Surgery V29(3) April 2016
+D Recoules-Arche, C Druschel, P Fayada, L Vinikoff, AC Disch: [Unilateral extraforaminal lumbar interbody fusion (ELIF): surgical technique and clinical outcome in 107 patients.](https://saps2412.github.io/publications/ELIF%20Recoules%202016.pdf) Clinical Spine Surgery V29(3) April 2016
 
-A.R. Kurzbuch, D. Kaech, P. Baranowski, A. Baranowska, D. Recoules-Arche: [Extraforaminal Lumbar Interbody Fusion at the L5-S1 Level: Technical Considerations and Feasibility.](https://saps2412.github.io/publications/ELIF%Kurzbuch%2016.pdf) J Neurol Surg A, Thieme E-Journals, 2016
+A.R. Kurzbuch, D. Kaech, P. Baranowski, A. Baranowska, D. Recoules-Arche: [Extraforaminal Lumbar Interbody Fusion at the L5-S1 Level: Technical Considerations and Feasibility.](https://saps2412.github.io/publications/ELIF%20Kurzbuch%202016.pdf) J Neurol Surg A, Thieme E-Journals, 2016
 
-A.R. Kurzbuch, D. Recoules-Arche: [Epidural Fibrosis Seen from a Different Angle: Extraforaminal Lumbar Interbody Fusion.](https://saps2412.github.io/publications/ELIF%Kurzbuch%2017.pdf)  J Neurol Surg A Centr Eur Neurosurg 2017 Jan:78(1):82-86
+A.R. Kurzbuch, D. Recoules-Arche: [Epidural Fibrosis Seen from a Different Angle: Extraforaminal Lumbar Interbody Fusion.](https://saps2412.github.io/publications/ELIF%20Kurzbuch%202017.pdf)  J Neurol Surg A Centr Eur Neurosurg 2017 Jan:78(1):82-86
 
-A. Kurzbuch, D. Recoules-Arche: [Minimal invasive lumbar spine revision surgery at distance from the dura and postsurgical scar tissue: Extraforaminal Lumbar Interbody Fusion. (ELIF).](https://saps2412.github.io/publications/ELIF%Kurzbuch%2018.pdf) J Clin Neurosci. 2018 Jan; 47:332-336
+A. Kurzbuch, D. Recoules-Arche: [Minimal invasive lumbar spine revision surgery at distance from the dura and postsurgical scar tissue: Extraforaminal Lumbar Interbody Fusion. (ELIF).](https://saps2412.github.io/publications/ELIF%20Kurzbuch%202018.pdf) J Clin Neurosci. 2018 Jan; 47:332-336
 
 ## ostaPek® interbody fusion cages - TLIF
 
@@ -82,18 +82,18 @@ J Commarmond: Unilateral vs bilateral posterior lumbar interbody fusion. Advanta
 
 ## ostaPek® VBR
 
-AC Disch, A Luzzati, I Melcher, KD Schaser, F Feraboli, W Schmoelz: [Three-dimensional stiffness in a thoracolumbar en-bloc spondylectomy model: a biomechanical in vitro study.](https://saps2412.github.io/publications/VBR%Disch%2007.pdf) Clinical Biomechanics. 2007;22:957-64
+AC Disch, A Luzzati, I Melcher, KD Schaser, F Feraboli, W Schmoelz: [Three-dimensional stiffness in a thoracolumbar en-bloc spondylectomy model: a biomechanical in vitro study.](https://saps2412.github.io/publications/VBR%20Disch%202007.pdf) Clinical Biomechanics. 2007;22:957-64
 
-AC Disch, KD Schaser, I Melcher, A Luzzati, F Feraboli, W Schmoelz: [En-bloc spondylectomy reconstruction in a biomechanical in vitro study.](https://saps2412.github.io/publications/VBR%Disch%2008.pdf) Eur Spine j. 2008;17(5):715-25
+AC Disch, KD Schaser, I Melcher, A Luzzati, F Feraboli, W Schmoelz: [En-bloc spondylectomy reconstruction in a biomechanical in vitro study.](https://saps2412.github.io/publications/VBR%20Disch%202008.pdf) Eur Spine j. 2008;17(5):715-25
 
-AC Disch, KD Schaser, I Melcher, F Feraboli, W Schmoelz, C Druschel, A Luzzati: [Oncosurgical results of multilevel thoracolumbar en-bloc spondylectomy and reconstruction with a carbon composite vertebral body replacement system.](https://saps2412.github.io/publications/VBR%Disch%2011.pdf) Spine. 2011;36(10):E647-55
+AC Disch, KD Schaser, I Melcher, F Feraboli, W Schmoelz, C Druschel, A Luzzati: [Oncosurgical results of multilevel thoracolumbar en-bloc spondylectomy and reconstruction with a carbon composite vertebral body replacement system.](https://saps2412.github.io/publications/VBR%20Disch%202011.pdf) Spine. 2011;36(10):E647-55
 
-C Druschel, AC Disch, I Melcher, T Engelhardt, A Luzzati, NP Haas, KD Schaser: [Surgical management of recurrent thoracolumbar spinal sarcoma with 4 level total en-bloc spondylectomy: description of technique and report of two cases.](https://saps2412.github.io/publications/VBR%Druschel%2012.pdf) Eur Spine J. 2012;21(1):1-9
+C Druschel, AC Disch, I Melcher, T Engelhardt, A Luzzati, NP Haas, KD Schaser: [Surgical management of recurrent thoracolumbar spinal sarcoma with 4 level total en-bloc spondylectomy: description of technique and report of two cases.](https://saps2412.github.io/publications/VBR%20Druschel%202012.pdf) Eur Spine J. 2012;21(1):1-9
 
-AD Luzzati, SP Shah, FS Gagliano, GG Perrucchini, W Fontanella, M Alloisio: [Four and five level en-bloc spondylectomy for malignant spinal tumors.](https://saps2412.github.io/publications/VBR%Luzzati%2014.pdf)  Spine. 2014;39(2):E129-39
+AD Luzzati, SP Shah, FS Gagliano, GG Perrucchini, W Fontanella, M Alloisio: [Four and five level en-bloc spondylectomy for malignant spinal tumors.](https://saps2412.github.io/publications/VBR%20Luzzati%202014.pdf)  Spine. 2014;39(2):E129-39
 
-AD Luzzati, SP Shah, FS Gagliano, GG Perrucchini, G Scotto, M Alloisio: [Multilevel en-bloc spondylectomy for tumors of the thoracic and lumbar spine is challenging but rewarding.](https://saps2412.github.io/publications/VBR%Luzzati%2014%2.pdf) Clin Orthop Relat res. 2014; Epub 17May.
+AD Luzzati, SP Shah, FS Gagliano, GG Perrucchini, G Scotto, M Alloisio: [Multilevel en-bloc spondylectomy for tumors of the thoracic and lumbar spine is challenging but rewarding.](https://saps2412.github.io/publications/VBR%20Luzzati%202014%202.pdf) Clin Orthop Relat res. 2014; Epub 17May.
 
 ## GII pedicle fixation
 
-F Sgier, JP Elsig, J Commarmond, JP Rakover: [Carbon composite pedicle fixation and interbody cages. Retrospective analysis of 40 cases at 5 years.](https://saps2412.github.io/publications/GII%Sgier%2004.pdf) Spineweek. May 30-June 5 2004. Porto, Portugal
+F Sgier, JP Elsig, J Commarmond, JP Rakover: [Carbon composite pedicle fixation and interbody cages. Retrospective analysis of 40 cases at 5 years.](https://saps2412.github.io/publications/GII%20Sgier%202004.pdf) Spineweek. May 30-June 5 2004. Porto, Portugal
