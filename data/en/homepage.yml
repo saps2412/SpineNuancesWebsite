@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "Carbon composite technology for spine fusion"
-  content : "ostaPek® implants introduce high-tech carbon composite material to spine fusion. 
+  content : "ostaPek® implants introduce high-tech long fiber carbon composite material to spine fusion. 
   Based on fiber pattern design specific to each indication, surgeons and patients can now consider treatment options not available based on traditional methods and materials."
   image : "images/VBR_new.jpg"
   button:
@@ -69,12 +69,12 @@ promo:
   title : "ostaPek® VBR for tumor"
   content : "ostaPek® VBR is designed for the most demanding spine tumor cases. 
   The contruct is versatile in terms of height and lordosis angle via stackable cages.
-  The artificial pedicles protect the cage from dislocation. 
+  The artificials pedicles allow a complete reconstruction of the spinal column and protect the spinal cord. 
   Radiolucency of the material makes both radiological treatment and post-operative visual assessment possible."
   button:
         enable : true
         label : "Learn More"
-        link : "products"
+        link : "products/vbr_vertebral_body_replacement_system"
 
 ############################# About Product #######################
 about_product:
@@ -100,7 +100,7 @@ about_product:
       button:
         enable : true
         label : "Learn More"
-        link : "products"
+        link : "products/evos_gii_pedicle_fixation"
 
 ############################# surgery ############################
 instrument:

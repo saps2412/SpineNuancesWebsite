@@ -7,7 +7,7 @@
         <h1>{{.Title}}</h1>
       </div>
     </div>
-    {{ range $index, $element := (where .Site.RegularPages "Section" "coalliance") }}
+    {{ range $index, $element := (where .Site.RegularPages "Section" "events") }}
     {{- if ne (mod $index 2) 1 }}
     <div class="row mb-40">
       <div class="col-md-6 text-center mb-5 mb-lg-0">
@@ -17,7 +17,7 @@
         <div class="content">
           <h4 class="subheading">{{ .Title | markdownify }}</h4>
           <p>{{ .Summary }}</p>
-          <a href="{{ .Permalink }}" class="btn btn-main">{{ i18n "read_more" }}</a>
+          <a href="https://spinenuances.com/contact" class="btn btn-main">{{ i18n "contact" }}</a>
         </div>
       </div>
     </div>
@@ -27,7 +27,7 @@
         <div class="content">
           <h4 class="subheading">{{ .Title | markdownify }}</h4>
           <p>{{ .Summary }}</p>
-          <a href="{{ .Permalink }}" class="btn btn-main">{{ i18n "read_more" }}</a>
+          <a href="https://spinenuances.com/contact" class="btn btn-main">{{ i18n "contact" }}</a>
         </div>
       </div>
       <div class="col-md-6 order-md-2 order-1 text-center mb-5 mb-lg-0">

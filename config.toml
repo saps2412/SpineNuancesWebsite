@@ -48,8 +48,8 @@ URL = "products"
 weight = 3
 
 [[menu.main]]
-name = "coAlliance"
-URL = "coalliance"
+name = "Events"
+URL = "events"
 weight = 4
 
 [[menu.main]]

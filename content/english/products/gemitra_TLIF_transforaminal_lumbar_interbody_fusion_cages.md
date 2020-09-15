@@ -1,5 +1,5 @@
 ---
-title: "ostaPek® interbody fusion TLIF"
+title: "ostaPek® interbody fusion gemitra"
 date: 2019-10-11T11:22:16+06:00
 images: 
   - "images/showcase/gemitra.jpg"
@@ -29,7 +29,8 @@ Clinically used in Europe since 2004. Cleared by the FDA under MAX code in 2018 
 
 TLIF cages are [patented](https://spinenuances.com/download/patents), have been developed in the USA and are manufactured in Switzerland.
 
-The ostaPek® Interbody Fusion Cages system is indicated for use as an intervertebral body fusion device in skeletally mature patients at one or two contiguous levels of the sacro-lumbar spine (L2-S1) to facilitate fusion in case of degenerative disc disease (DDD) defined as discogenic pain with degeneration of the disc confirmed by patient history and radiographic studies. DDD patients may also have up to Grade 1 spondylolisthesis or retrolisthesis at the involved level(s). The ostaPek Interbody Fusion Cages are placed via an anterior, posterior or lateral approach using autogenous bone graft and/or allograft comprised of cancellous and/or corticocancellous bone graft. The ostaPek Interbody Fusion Cages are to be used with supplemental fixation cleared by the FDA for use in the lumbar spine. Patients should have at least six weeks of non-operative treatment prior to surgery. Patients with previous non-fusion spinal surgery at involved level may be treated with the device.
+The ostaPek® Interbody Fusion Cages system is indicated for use as an intervertebral body fusion device in skeletally mature patients at one or two contiguous levels of the sacro-lumbar spine (L2-S1) to facilitate fusion in case of degenerative disc disease (DDD) defined as discogenic pain with degeneration of the disc confirmed by patient history and radiographic studies. DDD patients may also have up to Grade 1 spondylolisthesis or retrolisthesis at the involved level(s). 
+The ostaPek gemitra Interbody Fusion Cages are placed via a Posterior or postero-lateral approach using autogenous bone graft and/or allograft comprised of cancellous and/or corticocancellous bone graft. The ostaPek Interbody Fusion Cages are to be used with supplemental fixation cleared by the FDA for use in the lumbar spine, i.e. [GII System](https://spinenuances.com/products/evos_gii_pedicle_fixation). Patients should have at least six weeks of non-operative treatment prior to surgery. Patients with previous non-fusion spinal surgery at involved level may be treated with the device.
 
 Example of indications discogenic lombalgy of 1 or 2 levels with unilateral canal stenosis, second recidive of lateral disc herniation.
 

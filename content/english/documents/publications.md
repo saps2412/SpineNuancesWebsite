@@ -12,13 +12,13 @@ Since 1999, clinical use of Coligne products has been presented in international
 
 ## ostaPek®
 
-JY Rho and al.: Young’s modulus of trabecular and cortical bone material: ultrasonic and microtensile measurements. J Biomech. 1993;26(2):111-9
+<!-- JY Rho and al.: Young’s modulus of trabecular and cortical bone material: ultrasonic and microtensile measurements. J Biomech. 1993;26(2):111-9
 
-K Choi and al.: The elastic moduli of human subchondral, trabecular and cortical bone tissue and the size-dependency of cortical bone modulus. J Biomech. 1990;23(11):1103-13
+K Choi and al.: The elastic moduli of human subchondral, trabecular and cortical bone tissue and the size-dependency of cortical bone modulus. J Biomech. 1990;23(11):1103-13 -->
 
 MF Sigot-Luizard: [Biological evaluation of the ostaPek (carbon PEKEKK) composite used in spinal surgery.](https://saps2412.github.io/publications/Composite%20Sigot%20Luizard%202000.pdf) Rachis, J Vertebral Pathology, Spinal Surgery. May 2000;12(1)
 
-HM Frost: Bone’s mechanostat: a 2003 update. The anatomical record. Part A. Discoveries in molecular, cellular and evolutionary biology. 275(2):1081-101
+<!-- HM Frost: Bone’s mechanostat: a 2003 update. The anatomical record. Part A. Discoveries in molecular, cellular and evolutionary biology. 275(2):1081-101 -->
 
 G Barbanti Brodano, C Di Bona, A Gasbarrini, M Tognon, S Boriani, P Parisini: [Carbon fiber reinforced polymer (CFRP) cage induces better cells adhesion, spreading and proliferation than PolyEtherEtherKetone (PEEK) cage.](https://saps2412.github.io/publications/Composite%20Barbanti%20Brodano%202007.pdf) European Cells and Materials. 2007;14(suppl. 1):19
 

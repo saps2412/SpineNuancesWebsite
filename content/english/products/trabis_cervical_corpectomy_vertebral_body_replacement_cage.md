@@ -1,5 +1,5 @@
 ---
-title: "Trabis®"
+title: "ostaPek® Trabis"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/showcase/trabis_instrument.jpg"
@@ -32,7 +32,7 @@ Trabis® technology is [patented](https://spinenuances.com/download/patents), ha
 Trabis® is a vertebral body replacement system indicated for use in the cervical spine (from C2 to T1 vertebral bodies) in skeletally mature patients to replace a diseased or damaged vertebral body caused by tumor, fracture, or osteomyelitis, or for reconstruction following corpectomy performed to achieve decompression of the spinal cord and neural tissues in cervical degenerative disorders. Trabis® is intended to be used with supplemental fixation cleared by the FDA for use in the cervical spine.
 These implants are intended for use with autograft or allogenic bone graft comprising cancellous and/or corticocancellous bone graft, as an adjunct to fusion. Trabis® is also intended to restore the integrity of the spinal column even in the absence of fusion for a limited time period in patients with advanced stage tumors involving the cervical spine in whom life expectancy is of insufficient duration to permit achievement of fusion, with bone graft used at the surgeon’s discretion.
 
-Examples of indications are Myelopathy and Trauma.
+Examples of indications are Trauma and Tumor.
 
 Trabis® cages are available in 1.5 mm increments from 17.6 mm to 25.1 mm and 2.5 mm increments from 25.1 mm to 52.6 mm in height with 4° lordosis.
 
