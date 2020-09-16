@@ -1,6 +1,6 @@
 ---
 title: "ostaPek® interbody fusion ACIF"
-date: 2019-10-16T11:22:16+06:00
+date: 2020-09-16
 images: 
   - "images/showcase/ACIF_small.jpg"
   - "images/showcase/ACIF_Dome.jpg"
@@ -8,7 +8,7 @@ images:
   - "images/showcase/ACIF_range.jpg"
 
 # meta description
-description : "anterior cervical interbody fusion ACIF"
+description : "ostaPek® anterior cervical interbody fusion (ACIF) cages for spine fusion."
 
 # product Price
 price: "30.00"

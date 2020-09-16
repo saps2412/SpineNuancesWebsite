@@ -1,5 +1,6 @@
 ---
 title: "ostaPek® carbon composite technology"
-description : "carbon composite fiber pattern material ostaPek®"
+date: 2020-09-16
+description : "ostaPek® is Colignes proprietary carbon composite material developed for spine implants and spinal fixations systems."
 draft: false
 ---

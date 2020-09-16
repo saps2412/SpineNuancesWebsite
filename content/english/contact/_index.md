@@ -1,6 +1,7 @@
 ---
 title: "Contact us"
-description : "this is a meta description"
+date: 2020-09-16
+description : "Contact details and contact form Spine Nuances."
 
 office:
   title : "Contact Details"

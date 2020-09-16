@@ -1,5 +1,6 @@
 ---
 title: "News"
-description : "this is a meta description"
+date: 2020-09-16
+description : "Spine Nuances news around spine fusion."
 draft: false
 ---

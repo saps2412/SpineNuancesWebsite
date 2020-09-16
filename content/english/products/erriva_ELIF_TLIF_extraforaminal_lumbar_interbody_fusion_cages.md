@@ -1,6 +1,6 @@
 ---
 title: "ostaPek® interbody fusion erriva"
-date: 2019-10-14T11:22:16+06:00
+date: 2020-09-14
 images: 
   - "images/showcase/erriva3.jpg"
   - "images/showcase/erriva.jpg"
@@ -8,7 +8,7 @@ images:
   - "images/showcase/erriva_tool.jpg"
 
 # meta description
-description : "erriva extraforaminal lumbar interbody fusion ELIF TLIF"
+description : "ostaPek® erriva extraforaminal and transforaminal lumbar interbody fusion (ELIF) and (TLIF) cages for spine fusion."
 
 # product Price
 price: "30.00"

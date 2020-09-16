@@ -1,6 +1,7 @@
 ---
 title: "Privacy Policy"
-description : "legal disclaimer privacy policy"
+date: 2020-09-16
+description : "Spine Nuances Privacy Policy."
 draft: false
 ---
 

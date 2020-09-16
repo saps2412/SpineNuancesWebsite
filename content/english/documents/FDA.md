@@ -1,8 +1,8 @@
 ---
 title: "510(k) Clearance"
-date: 2019-10-16T11:22:16+06:00
+date: 2020-09-16
 image: "images/showcase/510ksmall.jpg"
-description : "coligne ostapek trabis ACIF VBR 510(k) FDA clearance"
+description : "Downloadable FDA clearance or 510(k) for both ostaPek® cages and pedicle fixation systems."
 draft: false
 ---
 

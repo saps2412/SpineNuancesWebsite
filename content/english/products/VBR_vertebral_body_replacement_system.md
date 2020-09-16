@@ -1,6 +1,6 @@
 ---
 title: "ostaPek® VBR"
-date: 2019-10-15T11:22:16+06:00
+date: 2020-09-15
 images: 
   - "images/showcase/VBR.jpg"
   - "images/showcase/VBR_system.jpg"
@@ -8,7 +8,7 @@ images:
   - "images/showcase/VBR_chain.jpg"
 
 # meta description
-description : "vertebral body replacement cage system"
+description : "ostaPek® vertebral body replacement (VBR) cage system."
 
 # product Price
 price: "30.00"

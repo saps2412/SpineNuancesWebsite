@@ -1,8 +1,8 @@
 ---
 title: "Radiolucency"
-date: 2019-10-14T11:22:16+06:00
+date: 2020-09-14
 image: "images/showcase/ostaPekMat.jpg"
-description : "this is a meta description"
+description : "ostapek® carbon composite material is radiolucent and has a noticeably higher strength and stability level than PEEK."
 draft: false
 ---
 

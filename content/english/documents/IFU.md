@@ -1,8 +1,8 @@
 ---
 title: "Instruction for Use"
-date: 2019-10-17T11:22:16+06:00
+date: 2020-09-17
 image: "images/showcase/InForUse.jpg"
-description : "coligne ostapek trabis ACIF VBR instruction for use"
+description : "Downloadable information for use (IFU) documents for both ostaPek® cages and pedicle fixation systems."
 draft: false
 ---
 

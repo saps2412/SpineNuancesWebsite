@@ -1,8 +1,8 @@
 ---
 title: "Smart Structural Design"
-date: 2019-10-16T11:22:16+06:00
+date: 2020-09-16
 image: "images/showcase/wolfslawsmall.jpg"
-description : "this is a meta description"
+description : "ostapek® carbon composite cages are designed to maximise space for bone graft without compromising mechanical strength."
 draft: false
 ---
 

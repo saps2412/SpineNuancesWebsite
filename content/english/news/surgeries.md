@@ -1,8 +1,8 @@
 ---
-title: "Latest Surgeries"
-date: 2019-10-16T11:22:16+06:00
+title: "Benchmark Surgeries"
+date: 2020-09-16
 image: "images/showcase/surgeries.jpg"
-description : "this is a meta description"
+description : "Spine Nuances collection of benchmark surgeries using ostaPek® cages and pedicle fixation systems."
 draft: false
 ---
 

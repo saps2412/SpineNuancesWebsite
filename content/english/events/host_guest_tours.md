@@ -1,8 +1,8 @@
 ---
 title: "Host & guest tours"
-date: 2019-10-14T11:22:16+06:00
+date: 2020-09-14
 image: "images/showcase/guest.jpg"
-description : "this is a meta description"
+description : "Coligne courses host and guest tours are about learning by observation of experts performing surgery."
 draft: false
 ---
 

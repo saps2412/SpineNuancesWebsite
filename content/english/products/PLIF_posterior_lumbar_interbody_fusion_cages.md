@@ -1,6 +1,6 @@
 ---
 title: "ostaPek® interbody fusion PLIF"
-date: 2019-10-12T11:22:16+06:00
+date: 2020-09-12
 images: 
   - "images/showcase/PLIF_bullets.jpg"
   - "images/showcase/PLIF.jpg"
@@ -8,7 +8,7 @@ images:
   - "images/showcase/PLIF_side.jpg"
 
 # meta description
-description : "posterior lumbar interbody fusion PLIF"
+description : "ostaPek® posterior lumbar interbody fusion (PLIF) cages for spine fusion."
 
 # product Price
 price: "30.00"

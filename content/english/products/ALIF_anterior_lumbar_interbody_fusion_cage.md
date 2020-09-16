@@ -1,6 +1,6 @@
 ---
 title: "ostaPek® interbody fusion ALIF"
-date: 2019-10-13T11:22:16+06:00
+date: 2020-09-13
 image: "images/showcase/ALIF.jpg"
 images: 
   - "images/showcase/ALIF.jpg"
@@ -9,7 +9,7 @@ images:
   - "images/showcase/ALIF_new.jpg"
 
 # meta description
-description : "anterior lumbar interbody fusion ALIF"
+description : "ostaPek® anterior lumbar interbody fusion (ALIF) cages for spine fusion."
 
 # product Price
 price: "30.00"

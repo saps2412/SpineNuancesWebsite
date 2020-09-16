@@ -1,6 +1,7 @@
 ---
 title: "Terms & Conditions"
-description : "legal disclaimer terms and conditions"
+date: 2020-09-16
+description : "Spine Nuances Terms and Conditions."
 draft: false
 ---
 

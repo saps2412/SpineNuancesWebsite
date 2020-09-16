@@ -1,8 +1,8 @@
 ---
 title: "Patents"
-date: 2019-10-18T11:22:16+06:00
+date: 2020-09-18
 image: "images/showcase/patents.jpg"
-description : "coligne ostapek trabis ACIF VBR patents"
+description : "Coligne's international patent list for implants, instrumentation, design and technology for both ostaPek® cage and pedicle fixation systems"
 draft: false
 ---
 

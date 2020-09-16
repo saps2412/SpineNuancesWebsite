@@ -1,7 +1,7 @@
 ---
 title: "About us"
-date: 2019-10-17T11:22:16+06:00
-description : "legal disclaimer privacy policy"
+date: 2020-09-16
+description : "About Spine Nuances and Coligne."
 draft: false
 ---
 

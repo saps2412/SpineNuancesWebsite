@@ -1,6 +1,6 @@
 ---
 title: "ostaPek® interbody fusion gemitra"
-date: 2019-10-11T11:22:16+06:00
+date: 2020-09-11
 images: 
   - "images/showcase/gemitra.jpg"
   - "images/showcase/gemitra_sideways.jpg"
@@ -8,7 +8,7 @@ images:
   - "images/showcase/gemitra_tool.jpg"
 
 # meta description
-description : "gemitra transforaminal lumbar interbody cage"
+description : "ostaPek® gemitra transforaminal lumbar interbody cage (TLIF) cages for spine fusion."
 
 # product Price
 price: "30.00"

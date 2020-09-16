@@ -1,8 +1,8 @@
 ---
 title: "Live Surgeries"
-date: 2019-10-15T11:22:16+06:00
+date: 2020-09-15
 image: "images/showcase/livesurgery.jpg"
-description : "this is a meta description"
+description : "Coligne courses live surgeries where hosts and guest jointly perform surgical treatments with ostaPek® material."
 draft: false
 ---
 

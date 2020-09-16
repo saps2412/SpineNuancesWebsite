@@ -1,6 +1,6 @@
 ---
 title: "ostaPek® Trabis"
-date: 2019-10-17T11:22:16+06:00
+date: 2020-09-17
 images: 
   - "images/showcase/trabis_instrument.jpg"
   - "images/showcase/trabis_set.jpg"
@@ -8,7 +8,7 @@ images:
   - "images/showcase/trabis_medium.jpg"
  
 # meta description
-description : "carbon composite cage for cervical corpectomy, vertebral body replacement with best-in-class bone to cage volume ratio for maximum bone graft."
+description : "ostaPek® carbon composite cages for cervical corpectomy, vertebral body replacement with best-in-class bone to cage volume ratio for maximum bone graft."
 
 # product Price
 price: "30.00"

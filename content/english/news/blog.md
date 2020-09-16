@@ -1,8 +1,8 @@
 ---
 title: "Blog"
-date: 2019-10-15T11:22:16+06:00
+date: 2020-09-16
 image: "images/showcase/blog.jpg"
-description : "this is a meta description"
+description : "Spine Nuances collection of interesting and relevant articles pertaining to spine surgery, materials used, surgical technique, etc."
 draft: false
 ---
 

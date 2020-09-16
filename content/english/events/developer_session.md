@@ -1,8 +1,8 @@
 ---
 title: "Developer Sessions"
-date: 2019-10-16T11:22:16+06:00
+date: 2020-09-16
 image: "images/showcase/developer.jpg"
-description : "this is a meta description"
+description : "Coligne courses developer sessions are about creating true value for the patient based on continuous improvement in spine surgery."
 draft: false
 ---
 

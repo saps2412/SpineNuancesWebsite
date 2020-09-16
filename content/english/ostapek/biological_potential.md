@@ -1,8 +1,8 @@
 ---
 title: "Biological Potential"
-date: 2019-10-17T11:22:16+06:00
+date: 2020-09-17
 image: "images/showcase/biopot.jpg"
-description : "this is a meta description"
+description : "ostapek® carbon composite material delivers superior results in terms of cell growth in comparison to PEEK and Titanium."
 draft: false
 ---
 

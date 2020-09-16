@@ -1,6 +1,6 @@
 ---
 title: "GII pedicle fixation"
-date: 2019-10-10T11:22:16+06:00
+date: 2020-09-10
 images: 
   - "images/showcase/eVos.jpg"
   - "images/showcase/eVos_tool.jpg"
@@ -8,7 +8,7 @@ images:
   - "images/showcase/eVos_construct.jpg"
 
 # meta description
-description : "GII eVos® pedicle fixation"
+description : "GII eVos® pedicle fixation with ostaPek® plates and Titanium/ostaPek® rods for supplemental spine stabilization."
 
 # product Price
 price: "30.00"
