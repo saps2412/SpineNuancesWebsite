@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "https://spinenuances.com"
-title = "SpineNuances"
+title = "Spine Nuances"
 theme = "vex-hugo"
 # post excert
 summarylength = "50"
@@ -108,7 +108,7 @@ weight = 6
 logo = "images/Logo.png"
 logo_width = "150px"
 # Meta data
-description = "SpineNuances website"
+description = "Spine Nuances website"
 author = "PS"
 # currency
 currency = "$"

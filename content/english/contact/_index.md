@@ -4,7 +4,7 @@ description : "this is a meta description"
 
 office:
   title : "Contact Details"
-  mobile : "+41(0)786689572"
+  mobile : "+41 78 668 95 72"
   email : "info@spinenuances.com"
   location : "Zurich, Switzerland"
 

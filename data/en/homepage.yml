@@ -4,7 +4,7 @@ banner:
   title : "Carbon composite technology for spine fusion"
   content : "ostaPek® implants introduce high-tech long fiber carbon composite material to spine fusion. 
   Based on fiber pattern design specific to each indication, surgeons and patients can now consider treatment options not available based on traditional methods and materials."
-  image : "images/VBR_new.jpg"
+  image : "images/VBR_new.webp"
   button:
    enable : true
    label : "Learn more about ostaPek®"
@@ -14,7 +14,7 @@ banner:
 features:
   enable : true
   title : "ostaPek® for the cervical spine"
-  image : "images/trabis.jpg"
+  image : "images/trabis.webp"
   text: "Trabis® corpectomy and ACIF interbody fusion cages"
 
   # feature at the left of the image
@@ -65,7 +65,7 @@ features:
 ############################# promo ############################
 promo:
   enable : true
-  image : "images/VBRsystemnew.png"
+  image : "images/VBRsystemnew.webp"
   title : "ostaPek® VBR for tumor"
   content : "ostaPek® VBR is designed for the most demanding spine tumor cases. 
   The contruct is versatile in terms of height and lordosis angle via stackable cages.
@@ -82,7 +82,7 @@ about_product:
   title : "ostaPek® for the lumbar spine"
   items:
     # about product item loop
-    - image : "images/cages.png"
+    - image : "images/cages.webp"
       title : "Interbody fusion cages"
       content : "The ostaPek® interbody fusion cages differ in shape but follow the same design principles: vertical struts for strength for primary stabilization, 
       maximised space for bone graft, large cage-graft surface in contact with the endplates and design features to facilitate surgical gestures during implantation for each approach."
@@ -93,7 +93,7 @@ about_product:
         link : "products"
         
     # about product item loop
-    - image : "images/pedicletool.jpg"
+    - image : "images/pedicletool.webp"
       title : "GII Pedicle fixation"
       content : "The GII system, initially cleared by the FDA in 1998 in stainless steel, 
                 includes orthogonal and poliaxial screws to be combined with either titanium or ostaPek® plates or titanium rods for the non-cervical spine."
@@ -105,7 +105,7 @@ about_product:
 ############################# surgery ############################
 instrument:
   enable : true
-  image : "images/instrument.png"
+  image : "images/instrument.webp"
   title : "Instruments in the surgeon's hands"
   content : "Only by deciphering the surgical gesture and its aim a functional and effective instrument can be created. 
   Since 1994, ostaPek® product development has moved hand-in-hand with instrument design and exploration of surgical techniques.
@@ -124,8 +124,8 @@ products:
 ################################## Subscription ###################
 subscription:
   enable : true
-  bg_image : "images/subscribe_small.jpg"
-  title : "SpineNuances Newsletter"
+  bg_image : "images/subscribe_small.webp"
+  title : "Spine Nuances Newsletter"
   content : "Be the first to know about ostaPek® product updates."
   placeholder : "Email"
 
