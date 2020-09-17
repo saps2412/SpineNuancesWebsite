@@ -1,7 +1,7 @@
 ---
 title: "Host & guest tours"
 date: 2020-09-14
-image: "images/showcase/guest.jpg"
+image: "images/showcase/guest.webp"
 description : "Coligne courses host and guest tours are about learning by observation of experts performing surgery."
 draft: false
 ---

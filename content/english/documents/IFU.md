@@ -1,6 +1,6 @@
 ---
 title: "Instruction for Use"
-date: 2020-09-17
+date: 2020-09-15
 image: "images/showcase/InForUse.jpg"
 description : "Downloadable information for use (IFU) documents for both ostaPek® cages and pedicle fixation systems."
 draft: false

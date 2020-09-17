@@ -1,7 +1,7 @@
 ---
 title: "Developer Sessions"
 date: 2020-09-16
-image: "images/showcase/developer.jpg"
+image: "images/showcase/developer.webp"
 description : "Coligne courses developer sessions are about creating true value for the patient based on continuous improvement in spine surgery."
 draft: false
 ---
