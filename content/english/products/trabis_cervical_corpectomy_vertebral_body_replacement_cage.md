@@ -21,7 +21,7 @@ sizes : ["small","medium","large"]
 draft: false
 ---
 
-ostaPek® corpectomy cages.
+[ostaPek®](https://spinenuances.com/ostapek) corpectomy cages.
 
 Trabis® cages are designed for anterior cervical corpectomy and fusion surgery with a focus on mechanical stability and maximized space for bone graft both at the endplates and laterally. They are radiolucent and therefore allow for precise radiological follow-up at the treated level.
 

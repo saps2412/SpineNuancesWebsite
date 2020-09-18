@@ -23,7 +23,7 @@ draft: false
 
 ostaPek® vertebral body replacement cages.
 
-The ostaPek® VBR system consists of one or multiple stackable cages to be used in the thoracolumbar spine for tumor or trauma. 
+The [ostaPek®](https://spinenuances.com/ostapek) VBR system consists of one or multiple stackable cages to be used in the thoracolumbar spine for tumor or trauma. 
 It is designed for strength for primary stabilization and radiolucency for radiological follow-up at the treated level. 
 An artificial pedicle provides a connection between cage construct and posterior fixation for a complete reconstruction of the spinal column.
 Multiple slots for the cage inserter permit anterior, posterior or lateral surgical approach.

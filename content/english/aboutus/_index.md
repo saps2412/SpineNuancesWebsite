@@ -7,7 +7,7 @@ draft: false
 
 ## Spine Nuances LLC, USA
 
-Spine Nuances is the brainchild of a long-standing Coligne development engineer. Based on the outstanding performance of ostaPek® cages and plates during the past 30 years in Europe, 
+Spine Nuances is the brainchild of a long-standing Coligne development engineer. Based on the outstanding performance of [ostaPek®](https://spinenuances.com/ostapek) cages and plates during the past 30 years in Europe, 
 Spine Nuances focus is to establish the ostaPek® material as well as all [Coligne](http://www.coligne.com/international/home.html) products in the North American market as one of the leading brands 
 for spine fusion. 
 
@@ -27,4 +27,5 @@ Working closely with the spine community and introducing broad expertise into a 
 Coligne maintains its new way of thinking by encouraging exchange between different generations and professionals coming from various fields.
 Know-how grows. Treatment technology continuously improves. This is the “Coligne strategy in spine”.
 
-Coligne headquarters are in Zurich, Switzerland, with a distribution and education office in Paris, France and a biomaterial lab in Boulder Colorado USA.
+[Coligne](http://www.coligne.com/international/home.html) headquarters are in Zurich, Switzerland, with [NexisColigne](https://nexiscoligne.fr/en/home-en/) being a distribution and education office in Paris, France, and a biomaterial lab in Boulder Colorado USA.
+ 

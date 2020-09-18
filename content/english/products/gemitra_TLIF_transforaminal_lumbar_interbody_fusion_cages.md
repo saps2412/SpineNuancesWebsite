@@ -21,7 +21,7 @@ sizes : ["small","medium","large"]
 draft: false
 ---
 
-ostaPek® transforaminal lumbar interbody fusion cages.
+[ostaPek®](https://spinenuances.com/ostapek) transforaminal lumbar interbody fusion cages.
 
 The ostaPek® gemitra cages are specifically designed to be translated on the transverse plane to provide an evenly distributed support at the endplates. Two or more cages may be used to maximize the surface area in contact with the endplates.
 

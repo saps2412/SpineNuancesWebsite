@@ -21,7 +21,7 @@ sizes : ["small","medium","large"]
 draft: false
 ---
 
-ostaPek® extraforaminal and transforaminal lumbar interbody fusion cages.
+[ostaPek®](https://spinenuances.com/ostapek) extraforaminal and transforaminal lumbar interbody fusion cages.
 
 The ostaPek® erriva 3 cage is the latest design of the Coligne transforaminal lumbar interbody fusion cages. A specifically engineered interface with the cage inserter provides strength and control during implantation. Final positioning of the cage is achieved with easy-to-use instrumentation designed for this type of cage.
 

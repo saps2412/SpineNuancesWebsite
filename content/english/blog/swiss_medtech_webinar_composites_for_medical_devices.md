@@ -6,7 +6,7 @@ description: "Swiss Medtech webinar on composites in medical devices."
 draft: false
 ---
 
-Swiss Medtech is offering a webinar free of charge medtech@noon 7 October 2020 from 12:00 to 13:00 (CET).
+Swiss Medtech is offering a webinar free of charge called medtech@noon 7 October 2020 from 12:00 to 13:00 (CET).
 
 An expert panel will answer questions on the advantages of composites based on their tailor-made material combination.
 A particular focus will be given to the implementation of composites in medical devices under the current regulatory environment.
