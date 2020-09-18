@@ -1,7 +1,7 @@
 ---
 title: "Scientific Publications"
 date: 2020-09-17
-image: "images/showcase/publications.webp"
+image: "images/showcase/publications.jpg"
 description : "Peer-reviewed clinical and scientific publications on the use of ostaPek® cage and pedicle fixation systems for spine fusion."
 draft: false
 ---

@@ -4,7 +4,7 @@ date: 2020-09-10
 images: 
   - "images/showcase/eVos.jpg"
   - "images/showcase/eVos_tool.jpg"
-  - "images/showcase/eVos_combo.webp"
+  - "images/showcase/eVos_combo.jpg"
   - "images/showcase/eVos_construct.jpg"
 
 # meta description
