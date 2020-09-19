@@ -124,7 +124,7 @@ products:
 ################################## Subscription ###################
 subscription:
   enable : true
-  bg_image : "images/subscribe.jpg"
+  bg_image : "images/subscribe.png"
   title : "Spine Nuances Newsletter"
   content : "Be the first to know about ostaPek® product updates."
   placeholder : "Email"
