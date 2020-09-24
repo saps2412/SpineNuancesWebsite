@@ -135,9 +135,17 @@ preloader = "" # use .png , .svg or .gif format
 # map_marker = "images/marker.png"
 
 ############################# social icons ##########################
-# [[params.social]]
-# icon = "tf-facebook" # themify icon pack : https://themify.me/themify-icons
-# link = "#"
+[[params.social]]
+icon = "tf-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.linkedin.com/company/spine-nuances"
+
+[[params.social]]
+icon = "tf-ion-social-reddit" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "tf-facebook" # themify icon pack : https://themify.me/themify-icons
+link = "#"
 
 # [[params.social]]
 # icon = "tf-twitter" # themify icon pack : https://themify.me/themify-icons
@@ -148,20 +156,12 @@ icon = "tf-ion-social-youtube" # themify icon pack : https://themify.me/themify-
 link = "#"
 
 [[params.social]]
-icon = "tf-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "https://www.linkedin.com/company/spine-nuances"
-
-[[params.social]]
 icon = "tf-ion-social-pinterest" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
 # [[params.social]]
 # icon = "tf-ion-social-instagram" # themify icon pack : https://themify.me/themify-icons
 # link = "#"
-
-[[params.social]]
-icon = "tf-ion-social-reddit" # themify icon pack : https://themify.me/themify-icons
-link = "#"
 
 ################################### English language #####################################
 [Languages.en]

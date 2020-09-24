@@ -8,7 +8,8 @@ draft: false
 
 [Patrick](https://www.linkedin.com/in/patrick-stepanek-72742443) has fifteen years of management experience in the aerospace and mass customization industry.
 
-Prior to becoming Spine Nuances' CEO, he's setup and lead [Cimpress'](https://cimpress.com) global cross-functional research and engineering organization as well as business units in the aviation and carbon composite aerospace sectors.
+Prior to becoming Spine Nuances' CEO, he has lead [Cimpress'](https://cimpress.com) global cross-functional research and engineering organization, business units in aviation and the carbon composite aerospace industry.
 
-Patrick holds an MBA in Global Management from [Thunderbird School of Management](https://thunderbird.asu.edu), as well as a PhD in Aerospace Engineering in cooperation with [Airbus](https://www.airbus.com). 
+Patrick holds an MBA in Global Management from [Thunderbird School of Management](https://thunderbird.asu.edu), and a PhD in Manufacturing Automation in cooperation with [Airbus](https://www.airbus.com).
 
+He is also a sports-enthusiast who loves to play with high-tech materials be it on a bike or skis.

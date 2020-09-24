@@ -6,7 +6,7 @@ description : "Spine Nuances About Us"
 draft: false
 ---
 
-Spine Nuances is the brainchild of a long-standing Coligne development engineer, Vittoria Brighenti. Based on the outstanding performance of [ostaPek®](https://spinenuances.com/ostapek) cages and plates during the past 30 years in Europe, 
+Spine Nuances is the brainchild of a long-standing Coligne development engineer, Vittoria Brighenti. Based on the outstanding performance of [ostaPek®](https://spinenuances.com/ostapek) implants during the past 30 years in Europe, 
 Spine Nuances focus is to establish the ostaPek® material as well as all [Coligne](http://www.coligne.com/international/home.html) products in the North American market as one of the leading brands 
 for spine fusion. 
 

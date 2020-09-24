@@ -3,8 +3,8 @@ title: "ostaPek® interbody fusion PLIF"
 date: 2020-09-12
 images: 
   - "images/showcase/PLIF_bullets.jpg"
+  - "images/showcase/PLIF_xray.jpg"
   - "images/showcase/PLIF.jpg"
-  - "images/showcase/PLIF_small.jpg"
   - "images/showcase/PLIF_side.jpg"
 
 # meta description

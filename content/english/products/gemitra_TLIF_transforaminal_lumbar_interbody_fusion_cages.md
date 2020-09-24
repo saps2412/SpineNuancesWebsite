@@ -3,7 +3,7 @@ title: "ostaPek® interbody fusion gemitra"
 date: 2020-09-11
 images: 
   - "images/showcase/gemitra.jpg"
-  - "images/showcase/gemitra_sideways.jpg"
+  - "images/showcase/gemitra_xray.jpg"
   - "images/showcase/gemitra_top.jpg"
   - "images/showcase/gemitra_tool.jpg"
 

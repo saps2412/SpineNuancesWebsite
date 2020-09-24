@@ -3,6 +3,7 @@ title: "ostaPek® interbody fusion erriva"
 date: 2020-09-14
 images: 
   - "images/showcase/erriva3.jpg"
+  - "images/showcase/erriva_xray.jpg"
   - "images/showcase/erriva.jpg"
   - "images/showcase/erriva_only.jpg"
   - "images/showcase/erriva_tool.jpg"

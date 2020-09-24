@@ -3,8 +3,8 @@ title: "ostaPek® VBR"
 date: 2020-09-15
 images: 
   - "images/showcase/VBR.jpg"
+  - "images/showcase/VBR_xray.jpg"
   - "images/showcase/VBR_system.jpg"
-  - "images/showcase/VBR_single.jpg"
   - "images/showcase/VBR_chain.jpg"
 
 # meta description

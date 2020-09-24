@@ -4,9 +4,9 @@ date: 2020-09-13
 image: "images/showcase/ALIF.jpg"
 images: 
   - "images/showcase/ALIF.jpg"
+  - "images/showcase/ALIF_xray.jpg"
   - "images/showcase/ALIF_only.jpg"
   - "images/showcase/ALIF_side.jpg"
-  - "images/showcase/ALIF_new.jpg"
 
 # meta description
 description : "ostaPek® anterior lumbar interbody fusion (ALIF) cages for spine fusion."
