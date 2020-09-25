@@ -141,11 +141,11 @@ link = "https://www.linkedin.com/company/spine-nuances"
 
 [[params.social]]
 icon = "tf-ion-social-reddit" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.reddit.com/user/Spine-Nuances"
 
 [[params.social]]
 icon = "tf-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/spinenuances"
 
 # [[params.social]]
 # icon = "tf-twitter" # themify icon pack : https://themify.me/themify-icons
@@ -153,11 +153,11 @@ link = "#"
 
 [[params.social]]
 icon = "tf-ion-social-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.youtube.com/channel/UCnPlZB5BN0a106w8nUalJ5g?view_as=public"
 
 [[params.social]]
 icon = "tf-ion-social-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.pinterest.ch/spinenuances"
 
 # [[params.social]]
 # icon = "tf-ion-social-instagram" # themify icon pack : https://themify.me/themify-icons

@@ -1,7 +1,7 @@
 ---
 title: "Spine Nuances LLC, USA"
 date: 2020-09-17
-image: "images/showcase/VBR.jpg"
+image: "images/showcase/ostapek.jpg"
 description : "Spine Nuances About Us"
 draft: false
 ---
