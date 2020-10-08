@@ -22,6 +22,20 @@ MF Sigot-Luizard: [Biological evaluation of the ostaPek (carbon PEKEKK) composit
 
 G Barbanti Brodano, C Di Bona, A Gasbarrini, M Tognon, S Boriani, P Parisini: [Carbon fiber reinforced polymer (CFRP) cage induces better cells adhesion, spreading and proliferation than PolyEtherEtherKetone (PEEK) cage.](https://saps2412.github.io/publications/Composite%20Barbanti%20Brodano%202007.pdf) European Cells and Materials. 2007; 14(Suppl.1):19
 
+## ostaPek® VBR
+
+AC Disch, A Luzzati, I Melcher, KD Schaser, F Feraboli, W Schmoelz: [Three-dimensional stiffness in a thoracolumbar en-bloc spondylectomy model: a biomechanical in vitro study.](https://saps2412.github.io/publications/VBR%20Disch%202007.pdf) [Clinical Biomechanics](https://www.sciencedirect.com/science/article/abs/pii/S0268003307001325). 2007; 22:957-64
+
+AC Disch, KD Schaser, I Melcher, A Luzzati, F Feraboli, W Schmoelz: [En-bloc spondylectomy reconstruction in a biomechanical in vitro study.](https://saps2412.github.io/publications/VBR%20Disch%202008.pdf) [Eur Spine J](https://www.springer.com/journal/586). 2008; 17(5):715-25
+
+AC Disch, KD Schaser, I Melcher, F Feraboli, W Schmoelz, C Druschel, A Luzzati: [Oncosurgical results of multilevel thoracolumbar en-bloc spondylectomy and reconstruction with a carbon composite vertebral body replacement system.](https://saps2412.github.io/publications/VBR%20Disch%202011.pdf) [Spine](https://journals.lww.com/spinejournal/Abstract/2011/05010/Oncosurgical_Results_of_Multilevel_Thoracolumbar.16.aspx). 2011;36(10):E647-55
+
+C Druschel, AC Disch, I Melcher, T Engelhardt, A Luzzati, NP Haas, KD Schaser: [Surgical management of recurrent thoracolumbar spinal sarcoma with 4 level total en-bloc spondylectomy: description of technique and report of two cases.](https://saps2412.github.io/publications/VBR%20Druschel%202012.pdf) [Eur Spine J](https://www.springer.com/journal/586). 2012; 21(1):1-9
+
+AD Luzzati, SP Shah, FS Gagliano, GG Perrucchini, W Fontanella, M Alloisio: [Four and five level en-bloc spondylectomy for malignant spinal tumors.](https://saps2412.github.io/publications/VBR%20Luzzati%202014.pdf) [Spine](https://journals.lww.com/spinejournal/Abstract/2014/01150/Four__and_Five__Level_En_Bloc_Spondylectomy_for.19.aspx). 2014; 39(2):E129-39
+
+AD Luzzati, SP Shah, FS Gagliano, GG Perrucchini, G Scotto, M Alloisio: [Multilevel en-bloc spondylectomy for tumors of the thoracic and lumbar spine is challenging but rewarding.](https://saps2412.github.io/publications/VBR%20Luzzati%202014%202.pdf) Clin Orthop Relat res. 2014; Epub 17 May.
+
 ## Trabis®
 
 H Person, R Seizeur, E Laloux, A Linge: [Effectiveness of the carbon composite cage in cervical corpectomy. Retrospective analysis of 50 cases.](https://saps2412.github.io/publications/Trabis%20Person%202004.pdf) Spineweek 2004. May 30-June 5 2004. Porto, Portugal
@@ -79,20 +93,6 @@ A. Kurzbuch, D. Recoules-Arche: [Minimal invasive lumbar spine revision surgery 
 ## ostaPek® gemitra interbody fusion cages
 
 J Commarmond: [Unilateral vs bilateral posterior lumbar interbody fusion. Advantages and limitations of interbody space restoration.](https://saps2412.github.io/publications/Gemitra%20Commarmond%202003.pdf) Eurospine. October 1-4 2003. Prague, Czech Republic.
-
-## ostaPek® VBR
-
-AC Disch, A Luzzati, I Melcher, KD Schaser, F Feraboli, W Schmoelz: [Three-dimensional stiffness in a thoracolumbar en-bloc spondylectomy model: a biomechanical in vitro study.](https://saps2412.github.io/publications/VBR%20Disch%202007.pdf) [Clinical Biomechanics](https://www.sciencedirect.com/science/article/abs/pii/S0268003307001325). 2007; 22:957-64
-
-AC Disch, KD Schaser, I Melcher, A Luzzati, F Feraboli, W Schmoelz: [En-bloc spondylectomy reconstruction in a biomechanical in vitro study.](https://saps2412.github.io/publications/VBR%20Disch%202008.pdf) [Eur Spine J](https://www.springer.com/journal/586). 2008; 17(5):715-25
-
-AC Disch, KD Schaser, I Melcher, F Feraboli, W Schmoelz, C Druschel, A Luzzati: [Oncosurgical results of multilevel thoracolumbar en-bloc spondylectomy and reconstruction with a carbon composite vertebral body replacement system.](https://saps2412.github.io/publications/VBR%20Disch%202011.pdf) [Spine](https://journals.lww.com/spinejournal/Abstract/2011/05010/Oncosurgical_Results_of_Multilevel_Thoracolumbar.16.aspx). 2011;36(10):E647-55
-
-C Druschel, AC Disch, I Melcher, T Engelhardt, A Luzzati, NP Haas, KD Schaser: [Surgical management of recurrent thoracolumbar spinal sarcoma with 4 level total en-bloc spondylectomy: description of technique and report of two cases.](https://saps2412.github.io/publications/VBR%20Druschel%202012.pdf) [Eur Spine J](https://www.springer.com/journal/586). 2012; 21(1):1-9
-
-AD Luzzati, SP Shah, FS Gagliano, GG Perrucchini, W Fontanella, M Alloisio: [Four and five level en-bloc spondylectomy for malignant spinal tumors.](https://saps2412.github.io/publications/VBR%20Luzzati%202014.pdf) [Spine](https://journals.lww.com/spinejournal/Abstract/2014/01150/Four__and_Five__Level_En_Bloc_Spondylectomy_for.19.aspx). 2014; 39(2):E129-39
-
-AD Luzzati, SP Shah, FS Gagliano, GG Perrucchini, G Scotto, M Alloisio: [Multilevel en-bloc spondylectomy for tumors of the thoracic and lumbar spine is challenging but rewarding.](https://saps2412.github.io/publications/VBR%20Luzzati%202014%202.pdf) Clin Orthop Relat res. 2014; Epub 17 May.
 
 ## GII pedicle fixation
 

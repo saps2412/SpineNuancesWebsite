@@ -5,6 +5,7 @@ banner:
   content : "ostaPek® implants introduce high-tech long fiber carbon composite material to spine fusion. 
   Based on fiber pattern design specific to each indication, surgeons and patients can now consider treatment options not available based on traditional methods and materials."
   image : "images/VBR_new.jpg"
+  text: "Image of VBR stack" #alt attribute for image
   button:
    enable : true
    label : "Learn more about ostaPek®"
@@ -71,6 +72,7 @@ promo:
   The contruct is versatile in terms of height and lordosis angle via stackable cages.
   The artificial pedicles allow a complete reconstruction of the spinal column and protect the spinal cord. 
   Radiolucency of the material makes both radiological treatment and post-operative visual assessment possible."
+  text: "Image of VBR cages and artificial pedicle" #alt attribute for image
   button:
         enable : true
         label : "Learn More"
@@ -86,6 +88,7 @@ about_product:
       title : "Interbody fusion cages"
       content : "The ostaPek® interbody fusion cages differ in shape but follow the same design principles: vertical struts for strength for primary stabilization, 
       maximised space for bone graft, large cage-graft surface in contact with the endplates and design features to facilitate surgical gestures during implantation for each approach."
+      text: "Image of ostaPek® lumbar cages" #alt attribute for image
       
       button:
         enable : true
@@ -96,7 +99,8 @@ about_product:
     - image : "images/pedicletool.jpg"
       title : "GII Pedicle fixation"
       content : "The GII system, initially cleared by the FDA in 1998 in stainless steel, 
-                includes orthogonal and poliaxial screws to be combined with either titanium or ostaPek® plates or titanium rods for the non-cervical spine."
+      includes orthogonal and poliaxial screws to be combined with either titanium or ostaPek® plates or titanium rods for the non-cervical spine."
+      text: "Image of pedicle fixation system plates, rods and screws" #alt attribute for image
       button:
         enable : true
         label : "Learn More"
@@ -110,6 +114,7 @@ instrument:
   content : "Only by deciphering the surgical gesture and its aim a functional and effective instrument can be created. 
   Since 1994, ostaPek® product development has moved hand-in-hand with instrument design and exploration of surgical techniques.
   International courses and discussion sessions are organized yearly."
+  text: "Image of surgeon with instrument in hand" #alt attribute for image
   button:
         enable : true
         label : "Learn More about Coligne Courses"

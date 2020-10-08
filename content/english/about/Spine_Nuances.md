@@ -1,5 +1,5 @@
 ---
-title: "Spine Nuances LLC, USA"
+title: "Spine Nuances, USA"
 date: 2020-09-17
 image: "images/showcase/ostapek.jpg"
 description : "Spine Nuances About Us"

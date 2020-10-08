@@ -29,11 +29,11 @@
       <div class="col-md-6 order-md-1 order-2 align-self-center text-center text-md-left">
         <div class="content">
           <h4 class="subheading">{{ .Title | markdownify }}</h4>
-          <!-- <p>{{ .Summary }}</p> -->
-		  <div class="content">
+          <p>{{ .Summary }}</p>
+		  <!-- <div class="content">
           {{.Content}}
-          </div>
-          <!-- <a href="{{ .Permalink }}" class="btn btn-main">{{ i18n "read_more" }}</a> -->
+          </div> -->
+          <a href="{{ .Permalink }}" class="btn btn-main">{{ i18n "read_more" }}</a>
         </div>
       </div>
       <div class="col-md-6 order-md-2 order-1 text-center mb-5 mb-lg-0">
