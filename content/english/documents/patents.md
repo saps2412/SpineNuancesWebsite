@@ -1,5 +1,5 @@
 ---
-title: "Patents"
+title: "Coligne Patents"
 date: 2020-09-16
 image: "images/showcase/patents.jpg"
 description : "Coligne's patent list for implants, instrumentation, design and technology for both ostaPek® cage and pedicle fixation systems"

@@ -3,6 +3,7 @@ title: "Stability & Stimulation"
 date: 2020-09-15
 image: "images/showcase/polevault.jpg"
 description : "ostapek® carbon composite cages meet mechanical strength requirements whilst allowing for active stimulation of the bone cells."
+<!-- text: "Image of elastic polevault deformation" #alt attribute for image -->
 draft: false
 ---
 

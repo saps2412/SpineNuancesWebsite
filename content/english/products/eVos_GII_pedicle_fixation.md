@@ -28,7 +28,7 @@ The longitudinal elements are Titanium rods, [ostaPek®](https://spinenuances.co
 Clinically used in Europe since 1994 (eVos system) and 2007 (flexStaas system). 
 Cleared by the FDA under codes MNH, KWP and MNI since 1998 -- 510(k) [K98082](https://www.accessdata.fda.gov/cdrh_docs/pdf/K980852.pdf), [K032604](https://www.accessdata.fda.gov/cdrh_docs/pdf3/K032604.pdf), [K051089](https://www.accessdata.fda.gov/cdrh_docs/pdf5/K051089.pdf) and [K083567](https://www.accessdata.fda.gov/cdrh_docs/pdf8/K083567.pdf).
 
-The GII pedicle fixation is [patented](https://spinenuances.com/download/patents), has been developed in the USA and is manufactured in Switzerland.
+The GII pedicle fixation is [patented](https://spinenuances.com/documents/patents), has been developed in the USA and is manufactured in Switzerland.
 
 The GII spinal fixation system when used as a pedicle screw system in the non-cervical posterior spine,  is to be used in skeletally mature patients as an adjunct to fusion using autograft and/or allograft for one or more of the following:
 (1) Degenerative or severe spondylolisthesis (Grades 3 and 4) of the fifth lumbar/first sacral (L5-S1) joint with objective evidence of neurologic impairment,
@@ -51,4 +51,4 @@ The GII pedicle screws are available in diameter from 4.75 mm to 8.5 mm and diff
 
 For complete details on the use of the GII pedicle fixation system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_GII_spinal_fixation_system_IFU_2020-05.pdf).
 
-[Peer-reviewed clinical publications on the GII pedicle fixation system](https://spinenuances.com/download/publications)
+[Peer-reviewed clinical publications on the GII pedicle fixation system](https://spinenuances.com/documents/publications)

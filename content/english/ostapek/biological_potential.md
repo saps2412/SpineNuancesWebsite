@@ -2,7 +2,8 @@
 title: "Biological Potential"
 date: 2020-09-17
 image: "images/showcase/biopot.jpg"
-description : "ostapek® carbon composite material delivers superior results in terms of cell growth in comparison to PEEK and Titanium."
+description : "ostaPek® carbon composite material delivers superior results in terms of cell growth in comparison to PEEK and Titanium."
+<!-- text: "X-ray of bone fusion results with ostaPek® cage" #alt attribute for image -->
 draft: false
 ---
 

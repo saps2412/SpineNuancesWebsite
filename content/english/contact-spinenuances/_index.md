@@ -1,5 +1,5 @@
 ---
-title: "Contact us"
+title: "Write Us"
 date: 2020-09-16
 description : "Contact details and contact form Spine Nuances."
 
