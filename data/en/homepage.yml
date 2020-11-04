@@ -23,7 +23,7 @@ features:
     # feature item loop (D)
   - title : "Innovation"
     icon : "tf-ion-ios-checkmark-outline"
-    content : "Trabis® and ACIF cages have been cleared by the FDA for cervical indication in 2018, respectively, 2017."
+    content : "Trabis® and ACIF cages have been cleared by the FDA for cervical indication in 2018."
     # content : "Proven best-in-class bone growth with no coating."
     
     # feature item loop (D, TR, TU)

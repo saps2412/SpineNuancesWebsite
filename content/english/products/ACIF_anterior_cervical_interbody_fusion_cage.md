@@ -31,7 +31,7 @@ ACIF cages have been developed in the USA and are manufactured in Switzerland.
 
 The ACIF system is indicated for use as an intervertebral body fusion device in skeletally mature patients at one or two contiguous levels of the cervical spine (C2-T1) to facilitate fusion in case of degenerative disc disease (DDD) defined as discogenic pain with degeneration of the disc confirmed by patient history and radiographic studies. The ACIF implants are placed via an anterior approach using autogenous bone graft and/or allograft comprised of cancellous and/or corticocancellous bone graft. The ACIF implants are to be used with supplemental fixation. Patients should have at least six weeks of non-operative treatment prior to surgery.
 
-Examples of indications are Myelopathy and Cervical Disk Herniation.
+Examples of indications are Myelopathy and Cervical Disc Herniation.
 
 The ACIF cage has a trapezoidal footprint of different sizes, multiple heights, and lordotic angle of 0° and 5°. Cages with a domed shape are available as well.
 

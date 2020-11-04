@@ -47,7 +47,7 @@ The GII spinal fixation system when used as a hook and sacral/iliac screw fixati
 (7) Spinal tumor, and/or
 (8) Failed previous fusion (pseudoarthrosis).
 
-The GII pedicle screws are available in diameter from 4.75 mm to 8.5 mm and different length from 30 mm to 80 mm. The GII pedicle plates are available in various lengths with both slots and half-slots.
+The GII pedicle screws are available in diameter from 4.75 mm to 8.5 mm and different length from 30 mm to 80 mm. The GII pedicle rods and plates are available in various lengths. The GII pedicle plates come both sloted and half-sloted.
 
 For complete details on the use of the GII pedicle fixation system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_GII_spinal_fixation_system_IFU_2020-05.pdf).
 

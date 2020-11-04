@@ -74,21 +74,21 @@ M Bisserié, JP Elsig, K Uehlinger, E Laloux, F Sgier: [Posterior lumbar interbo
 
 ## ostaPek® erriva interbody fusion cages
 
-Dr Recoules-Arche, D Alcaix: [ELIF at L5-S1 with composite cages. Extraforaminal lumbar interbody fusion.](https://saps2412.github.io/publications/ELIF%20Recoules%202003.pdf) Eurospine. October 1-4 2003. Prague, Czech Republic
-
-D Recoules-Arche, D Alcaix, T Somon: [The unilateral ELIF for treatment of post-discectomy disc disease.](https://saps2412.github.io/publications/ELIF%20Recoules%202007.pdf) Eurospine. October 2-6 2007. Brussels, Belgium
-
-D Recoules-Arche, D Alcaix, T Somon: [Unilateral ELIF. Surgical technique, fusion assessment by CT scan on 75 cases.](https://saps2412.github.io/publications/ELIF%20Recoules%202008.pdf) Spineweek. May 26-31 2008. Geneva, Switzerland
-
-D Recoules-Arche, T Somon, DL Kaech: [ELIF through a muscle sparing unilateral approach: biological and radiological follow-up.](https://saps2412.github.io/publications/ELIF%20Recoules%202014.pdf) EJOST. 2014; 24:50-3
-
-D Recoules-Arche, C Druschel, P Fayada, L Vinikoff, AC Disch: [Unilateral extraforaminal lumbar interbody fusion (ELIF): surgical technique and clinical outcome in 107 patients.](https://saps2412.github.io/publications/ELIF%20Recoules%202016.pdf) [Clinical Spine Surgery V29(3)](https://journals.lww.com/jspinaldisorders/Abstract/2016/04000/Unilateral_Extraforaminal_Lumbar_Interbody_Fusion.17.aspx). April 2016
+A. Kurzbuch, D. Recoules-Arche: [Minimal invasive lumbar spine revision surgery at distance from the dura and postsurgical scar tissue: Extraforaminal Lumbar Interbody Fusion. (ELIF).](https://saps2412.github.io/publications/ELIF%20Kurzbuch%202018.pdf) J Clin Neurosci. Jan 2018; 47:332-336
 
 A.R. Kurzbuch, D. Kaech, P. Baranowski, A. Baranowska, D. Recoules-Arche: [Extraforaminal Lumbar Interbody Fusion at the L5-S1 Level: Technical Considerations and Feasibility.](https://saps2412.github.io/publications/ELIF%20Kurzbuch%202016.pdf) J Neurol Surg A. Thieme E-Journals. 2016
 
 A.R. Kurzbuch, D. Recoules-Arche: [Epidural Fibrosis Seen from a Different Angle: Extraforaminal Lumbar Interbody Fusion.](https://saps2412.github.io/publications/ELIF%20Kurzbuch%202017.pdf) J Neurol Surg A Centr Eur Neurosurg. Jan 2017; 78(1):82-86
 
-A. Kurzbuch, D. Recoules-Arche: [Minimal invasive lumbar spine revision surgery at distance from the dura and postsurgical scar tissue: Extraforaminal Lumbar Interbody Fusion. (ELIF).](https://saps2412.github.io/publications/ELIF%20Kurzbuch%202018.pdf) J Clin Neurosci. Jan 2018; 47:332-336
+D Recoules-Arche, D Alcaix, T Somon: [The unilateral ELIF for treatment of post-discectomy disc disease.](https://saps2412.github.io/publications/ELIF%20Recoules%202007.pdf) Eurospine. October 2-6 2007. Brussels, Belgium
+
+D Recoules-Arche, D Alcaix, T Somon: [Unilateral ELIF. Surgical technique, fusion assessment by CT scan on 75 cases.](https://saps2412.github.io/publications/ELIF%20Recoules%202008.pdf) Spineweek. May 26-31 2008. Geneva, Switzerland
+
+D Recoules-Arche, D Alcaix: [ELIF at L5-S1 with composite cages. Extraforaminal lumbar interbody fusion.](https://saps2412.github.io/publications/ELIF%20Recoules%202003.pdf) Eurospine. October 1-4 2003. Prague, Czech Republic
+
+D Recoules-Arche, C Druschel, P Fayada, L Vinikoff, AC Disch: [Unilateral extraforaminal lumbar interbody fusion (ELIF): surgical technique and clinical outcome in 107 patients.](https://saps2412.github.io/publications/ELIF%20Recoules%202016.pdf) [Clinical Spine Surgery V29(3)](https://journals.lww.com/jspinaldisorders/Abstract/2016/04000/Unilateral_Extraforaminal_Lumbar_Interbody_Fusion.17.aspx). April 2016
+
+D Recoules-Arche, T Somon, DL Kaech: [ELIF through a muscle sparing unilateral approach: biological and radiological follow-up.](https://saps2412.github.io/publications/ELIF%20Recoules%202014.pdf) EJOST. 2014; 24:50-3
 
 ## ostaPek® gemitra interbody fusion cages
 

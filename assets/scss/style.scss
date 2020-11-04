@@ -1,9 +1,9 @@
 @import 'mixins';
 
 // Variables
-$primary-font: 'Gravur Condensed',
+$primary-font: 'Helvetica',
 sans-serif;
-$secondary-font: 'Gravur Condensed',
+$secondary-font: 'Helvetica',
 serif;
 $primary-color: #f04e30;
 $icon-font: 'themefisher-font' !important;
@@ -46,7 +46,7 @@ h6 {
 
 h1,
 .h1 {
-  color: #005290;
+  color: #005cc1;
   font-size: 44px;
   line-height: 56px;
 }

@@ -5,7 +5,7 @@ description : "Spine Nuances Terms and Conditions."
 draft: false
 ---
 
-These Terms and Conditions outline the rules and regulations for the use of Spine Nnuances's website, located at www.spinenuances.com.
+These Terms and Conditions outline the rules and regulations for the use of Spine Nuances's website, located at www.spinenuances.com.
 
 By accessing this website we assume you accept these Terms and Conditions. Do not continue to use this website if you do not agree to accept all of the Terms and Conditions stated on this page.
 

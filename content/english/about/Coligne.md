@@ -6,7 +6,7 @@ description : "Coligne About Us"
 draft: false
 ---
 
-[Coligne](http://www.coligne.com/international/home.html) was founded in Switerland in 1993 based on Robert Lange's desire to provide surgeons and their patients with improved methods and materials for spine surgery. 
+[Coligne](http://www.coligne.com/international/home.html) was founded in Switzerland in 1993 based on Robert Lange's desire to provide surgeons and their patients with improved methods and materials for spine surgery. 
 
 Driven by this pioneering spirit, Robert has focused Coligne on exploring the details of both surgical technique and the development of a new bio-material, [ostaPek®](https://spinenuances.com/ostapek) carbon composite. 
 Long lasting relationships with clients based on trust and respect have allowed Coligne to establish itself as one of the technology leaders for 

@@ -13,7 +13,7 @@ disableLanguages = ["fr", "ja"] # disable language from here
 
 # CSS Plugins
 [[params.plugins.css]]
-link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
+link = "https://fonts.googleapis.com/css?family=Helvetica"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -105,8 +105,8 @@ weight = 6
 
 ########################### Default parameters ##########################
 [params]
-logo = "images/Logo.png"
-logo_width = "150px"
+logo = "images/LogoNew.png"
+logo_width = "225px"
 # Meta data
 description = "Spine Nuances provides long fiber carbon composite implants for spine fusion."
 author = "PS"
