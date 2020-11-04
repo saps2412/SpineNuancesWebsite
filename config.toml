@@ -13,7 +13,7 @@ disableLanguages = ["fr", "ja"] # disable language from here
 
 # CSS Plugins
 [[params.plugins.css]]
-link = "https://fonts.googleapis.com/css?family=Helvetica"
+link = "https://fonts.googleapis.com/css?family=Helvetica:400,700"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
