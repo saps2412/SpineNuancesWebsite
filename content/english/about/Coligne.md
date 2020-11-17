@@ -1,7 +1,7 @@
 ---
 title: "Coligne AG, Switzerland"
 date: 2020-09-14
-image: "images/showcase/VBR_construct_small.jpg"
+image: "images/showcase/coligne_logo.jpg"
 description : "Coligne About Us"
 draft: false
 ---
