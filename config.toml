@@ -14,6 +14,8 @@ disableLanguages = ["fr", "ja"] # disable language from here
 # CSS Plugins
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Helvetica:400,700"
+# [[params.plugins.css]]
+# link = "https://fonts.googleapis.com/icon?family=Material+Icons"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -48,8 +50,8 @@ URL = "products"
 weight = 3
 
 [[menu.main]]
-name = "Events"
-URL = "events"
+name = "Courses"
+URL = "courses"
 weight = 4
 
 [[menu.main]]
@@ -136,15 +138,15 @@ preloader = "" # use .png , .svg or .gif format
 
 ############################# social icons ##########################
 [[params.social]]
-icon = "tf-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "https://www.linkedin.com/company/spine-nuances"
+icon = "tf-ion-social-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.linkedin.com/company/spinenuances"
 
 [[params.social]]
 icon = "tf-ion-social-reddit" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.reddit.com/user/Spine-Nuances"
 
 [[params.social]]
-icon = "tf-facebook" # themify icon pack : https://themify.me/themify-icons
+icon = "tf-ion-social-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.facebook.com/spinenuances"
 
 # [[params.social]]

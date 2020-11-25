@@ -22,7 +22,7 @@ features:
   left_side:
     # feature item loop (D)
   - title : "Innovation"
-    icon : "tf-ion-ios-checkmark-outline"
+    icon : "tf-ion-android-bulb"
     content : "Trabis® and ACIF cages have been cleared by the FDA for cervical indication in 2018."
     # content : "Proven best-in-class bone growth with no coating."
     
@@ -34,7 +34,7 @@ features:
     
     # feature item loop (TU)
   - title : "Radiolucency"
-    icon : "tf-ion-ios-checkmark-outline"
+    icon : "tf-ion-nuclear"
     content : "ostaPek® is radiolucent and allows for 100% clear post-operative visual assessment."
     # content : "Fully permeable to X-Ray radiation."
 
@@ -47,19 +47,19 @@ features:
   right_side:
     # feature item loop
   - title : "Safety"
-    icon : "tf-ion-ios-checkmark-outline"
+    icon : "tf-ion-android-checkmark-circle"
     content : "Both Trabis® and ACIF cages have been in clinical use in Europe since more than 20 years. Safety and effectiveness have been proven in thousands of procedures and described in multiple peer-reviewed publications."
     # content : "Modulus of elasticity close to bone preserves remodeling."
 
     # feature item loop
   - title : "Strength"
-    icon : "tf-ion-ios-analytics"
+    icon : "tf-ion-ios-pulse-strong"
     content : "ostaPek® cages are engineered to resist cervical loads from the earliest phases of the fusion process."
     # content : "Cage designed for both maximum primary stability and fusion. Best-in-class bone to cage volume ratio for maximum bone graft."
 
     # feature item loop
   - title : "Control"
-    icon : "tf-ion-ios-checkmark-outline"
+    icon : "tf-ion-gear-a"
     content : "Minimum surgical instrumentation is required. Cage inserters are designed to allow for full spatial control during insertion."
     # content : "Orientable inserter, through preparation, size selection, cage insertion, 1.5mm height steps."
 
