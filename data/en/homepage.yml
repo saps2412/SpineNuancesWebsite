@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "Carbon composite technology for spine fusion"
-  content : "ostaPek® implants introduce high-tech long fiber carbon composite material to spine fusion. 
+  content : "ostaPek® implants introduce high-performance long fiber carbon composite material to spine fusion. 
   Based on fiber pattern design specific to each indication, surgeons and patients can now consider treatment options not available based on traditional methods and materials."
   image : "images/VBR_new.jpg"
   text: "Image of VBR stack" #alt attribute for image
@@ -23,7 +23,7 @@ features:
     # feature item loop (D)
   - title : "Innovation"
     icon : "tf-ion-android-bulb"
-    content : "Trabis® and ACIF cages have been cleared by the FDA for cervical indication in 2018."
+    content : "Trabis® and ACIF spine cages have been cleared by the FDA for cervical indication in 2018."
     # content : "Proven best-in-class bone growth with no coating."
     
     # feature item loop (D, TR, TU)
@@ -35,7 +35,7 @@ features:
     # feature item loop (TU)
   - title : "Radiolucency"
     icon : "tf-ion-nuclear"
-    content : "ostaPek® is radiolucent and allows for 100% clear post-operative visual assessment."
+    content : "ostaPek® carbon composite is radiolucent and allows for 100% clear post-operative visual assessment."
     # content : "Fully permeable to X-Ray radiation."
 
     button:
@@ -48,7 +48,7 @@ features:
     # feature item loop
   - title : "Safety"
     icon : "tf-ion-android-checkmark-circle"
-    content : "Both Trabis® and ACIF cages have been in clinical use in Europe since more than 20 years. Safety and effectiveness have been proven in thousands of procedures and described in multiple peer-reviewed publications."
+    content : "Both Trabis® and ACIF spine cages have been in clinical use in Europe since more than 20 years. Safety and effectiveness have been proven in thousands of procedures and described in multiple peer-reviewed publications."
     # content : "Modulus of elasticity close to bone preserves remodeling."
 
     # feature item loop
@@ -123,7 +123,7 @@ instrument:
 #################################### Products ########################
 products:
   enable : true
-  title : "ostaPek® cages and pedicle fixation products"
+  title : "ostaPek® spine cages and pedicle fixation products"
 
 
 ################################## Subscription ###################

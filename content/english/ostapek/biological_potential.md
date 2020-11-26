@@ -7,7 +7,7 @@ description : "ostaPek® carbon composite material delivers superior results in 
 draft: false
 ---
 
-Carbon composite implants show five times more cell growth compared to PEEK [[Barbanti Brodano, 2007](https://saps2412.github.io/publications/Composite%20Barbanti%20Brodano%202007.pdf)]. 
+Carbon composite spine implants show five times more cell growth compared to PEEK [[Barbanti Brodano, 2007](https://saps2412.github.io/publications/Composite%20Barbanti%20Brodano%202007.pdf)]. 
 Human osseous cells are distributed continuously and homogeneously on the carbon composite implant surfaces compared to multi-layered discontinuous cell clusters on PEEK.
 
 Moreover, even in comparison to titanium surfaces carbon composite implants show improved results in terms of cellular density and viability [[Sigot-Luizard, 2000](https://saps2412.github.io/publications/Composite%20Sigot%20Luizard%202000.pdf)].
