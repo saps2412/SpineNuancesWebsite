@@ -7,7 +7,7 @@ office:
   title : "Contact Details"
   mobile : "+41 78 668 95 72"
   email : "info@spinenuances.com"
-  location : "Zurich, Switzerland"
+  location : "North Brunswick, USA"
 
 # location google maps
 opennig_hour:
