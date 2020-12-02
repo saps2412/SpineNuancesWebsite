@@ -24,7 +24,7 @@ En Bloc spondylectomy: one to multilevel. Tricks of the trade.
 Biomechanical aspects of defect reconstructions using carbon-composite fixations.  
 [Prof. Dr. Klaus-Dieter Schaser](https://www.leading-medicine-guide.com/en/medical-experts/klaus-dieter-schaser-dresden)
 
-A detailed agenda is avaiable [here](https://www.dropbox.com/s/y4lac3v76qxvnro/Programa%20Webinar%20GEER%20Dismeval%202020.pdf?dl=0). 
+A detailed agenda is available [here](https://www.dropbox.com/s/y4lac3v76qxvnro/Programa%20Webinar%20GEER%20Dismeval%202020.pdf?dl=0). 
 
 Sign up for the webinar at [dismeval s.l. - distribuciones medicas](http://dismeval.com/registro-webinar).
 
