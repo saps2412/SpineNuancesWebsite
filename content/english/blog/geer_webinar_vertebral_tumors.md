@@ -13,7 +13,7 @@ As part of their 34th National Congress, [GEER](https://www.ncbi.nlm.nih.gov/pmc
 Four global thought leaders will be presenting on spine tumors:
   
 Strategy and planning of en bloc resection of vertebral tumors and their reconstruction.  
-[Prof. Dr. Juan Antonio Martin Benlloch](https://www.researchgate.net/profile/Juan_Antonio_Martin-Benlloch)
+[Dr. Juan Antonio Martin Benlloch](https://www.researchgate.net/profile/Juan_Antonio_Martin-Benlloch)
 
 Technical aspects and surgical results of carbon composite reconstructions following multi-segmental en bloc excisions.  
 [Prof. Dr. Alexander Disch](https://www.researchgate.net/profile/Alexander_Disch)
