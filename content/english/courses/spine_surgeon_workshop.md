@@ -1,7 +1,7 @@
 ---
 title: "Spine Surgeon Workshop"
 date: 2020-09-17
-image: "images/showcase/surgeon.jpg"
+image: "images/showcase/surgeon_velez.jpg"
 description : "Coligne courses spine surgeon workshops are hands-on sessions to explore ostaPek® carbon composite nuances during surgical treatment."
 draft: false
 ---
