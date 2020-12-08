@@ -1,7 +1,7 @@
 ---
 title: "Robert Lange, CEO Coligne"
 date: 2020-09-13
-image: "images/showcase/RobertLange.jpg"
+image: "images/showcase/robertlange.jpg"
 description : "Summary Curriculum Vitae Robert Lange."
 draft: false
 ---

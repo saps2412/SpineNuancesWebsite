@@ -17,5 +17,5 @@ Working closely with the spine community and introducing broad expertise into a 
 Coligne maintains its new way of thinking by encouraging exchange between different generations and professionals coming from various fields.
 Know-how grows. Treatment technology continuously improves. This is the “Coligne strategy in spine”.
 
-Coligne headquarters are in Zurich, Switzerland, with [NexisColigne](https://nexiscoligne.fr/en/home-en/) being a distribution and education office in Paris, France, and a biomaterial lab in Boulder Colorado USA.
+Coligne headquarters are in Zurich, Switzerland, with [nexiscoligne](https://nexiscoligne.fr/en/home-en/) being a distribution and education office in Paris, France, and a biomaterial lab in Boulder, Colorado, USA.
  
