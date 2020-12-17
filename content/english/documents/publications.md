@@ -6,7 +6,7 @@ description : "Peer-reviewed clinical and scientific publications on the use of 
 draft: false
 ---
 
-Since 1999, clinical use of Coligne products has been presented in international congresses, and was published in peer-reviewed clinical and scientific publications.
+Since 1999, clinical use of [Coligne](http://www.coligne.com/international/home.html) products has been presented in international congresses, and was published in peer-reviewed clinical and scientific publications.
 
 <!--more-->
 

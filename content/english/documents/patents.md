@@ -6,7 +6,8 @@ description : "Coligne's patent list for implants, instrumentation, design and t
 draft: false
 ---
 
-Over the years, Coligne's innovative approach has lead to international patents for implants, instrumentation, design and technology for both ostaPek® cage and pedicle fixation systems.
+Over the years, [Coligne's](http://www.coligne.com/international/home.html) innovative approach has lead to international patents for implants, instrumentation, 
+design and technology for both [ostaPek®](https://spinenuances.com/ostapek) cage and pedicle fixation systems.
 
 <!--more-->
 

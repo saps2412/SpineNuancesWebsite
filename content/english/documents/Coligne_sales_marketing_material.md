@@ -6,7 +6,7 @@ description : "Downloadable Coligne sales and marketing material."
 draft: false
 ---
 
-Sales and marketing material for both ostaPek® cages, pedicle fixation systems and Coligne courses.
+Sales and marketing material for both [ostaPek®](https://spinenuances.com/ostapek) cages, pedicle fixation systems and [Coligne courses](https://spinenuances.com/courses).
 
 <!--more-->
 
