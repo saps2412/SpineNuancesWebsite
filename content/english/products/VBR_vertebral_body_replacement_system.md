@@ -1,8 +1,9 @@
 ---
 title: "ostaPek® vertebral body replacement VBR"
 date: 2020-09-15
-images: 
-  - "images/showcase/VBR.jpg"
+images:
+  - "images/showcase/VBR_construct.jpg"
+#  - "images/showcase/VBR.jpg"
   - "images/showcase/VBR_xray.jpg"
   - "images/showcase/VBR_system.jpg"
   - "images/showcase/VBR_chain.jpg"
