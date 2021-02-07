@@ -118,7 +118,7 @@ instrument:
   button:
         enable : true
         label : "Learn More about Coligne Courses"
-        link : "events"
+        link : "courses"
 
 #################################### Products ########################
 products:
