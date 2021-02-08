@@ -9,13 +9,13 @@
         <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .text }}">
       </div>
       <div class="col-md-6 align-self-center text-center text-md-left">
-        <div class="content">
-          <h1 class="font-weight-bold mb-10">{{ .title | markdownify }}</h1>
-          <p class="mb-4">{{ .content | markdownify }}</p>
+        <div class="block">
+          <h1 class="font-weight-bold text-white mb-10">{{ .title | markdownify }}</h1>
+          <p class="text-white mb-4">{{ .content | markdownify }}</p>
 		  <!-- include button -->
 		  {{ if .button.enable }}
 		  {{ with .button }}
-		  <a href="{{.link|absLangURL}}" class="btn btn-main">{{.label}}</a>
+		  <a href="{{.link|absLangURL}}" class="btn btn-alt">{{.label}}</a>
 		  {{ end }}
 		  {{ end }}
         </div>

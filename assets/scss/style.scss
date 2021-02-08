@@ -5,7 +5,7 @@ $primary-font: 'Josefin',
 sans-serif;
 $secondary-font: 'Droid',
 serif;
-$primary-color: #f04e30;
+$primary-color: #ff6c0c;
 $icon-font: 'themefisher-font' !important;
 // $icon-font: 'material';
 
@@ -16,7 +16,7 @@ body {
   font-size: 14px;
   font-weight: 300;
   line-height: 25px;
-  color: #3b4045;
+  color: #000000;
   font-family: $primary-font;
   -webkit-font-smoothing: antialiased;
 }
@@ -47,7 +47,7 @@ h6 {
 
 h1,
 .h1 {
-  color: #005cc1;
+  color: #0071ce;
   font-size: 44px;
   line-height: 56px;
 }
@@ -98,7 +98,8 @@ a {
 }
 
 .bg-orange {
-  background: $primary-color;
+  background: rgb (244,92,37);
+  background: linear-gradient(90deg, rgba(244,92,37,25) 0%, rgba(246,77,115,2) 100%);
 }
 
 .bg-opacity {
@@ -111,7 +112,7 @@ a {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.3);
   }
 }
 
@@ -157,17 +158,18 @@ a:active {
 /*--
     custom heading
 --*/
+
 .text-center {
   text-align: center;
 }
 
 .heading {
   text-align: center;
-  color: #777777;
+  color: #000000;
   padding-bottom: 70px;
 
   h2 {
-    color: #3c3c3c;
+    color: #000000;
     padding-bottom: 15px;
     text-transform: capitalize;
     font-weight: 700;
@@ -183,7 +185,7 @@ a:active {
 }
 
 .subheading {
-  color: #3c3c3c;
+  color: #000000;
   padding-bottom: 15px;
   text-transform: capitalize;
   font-weight: 500;
@@ -202,13 +204,30 @@ a:active {
   padding: 15px 40px;
   display: inline-block;
   background-color: $primary-color;
-  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.5);
+  /*-- box-shadow: 0 15px 40px rgba(0, 0, 0, 0.5); --*/
   background-image: linear-gradient(bottom, rgba(255, 239, 206, 0) 0%, rgba(255, 239, 206, 0.25) 100%);
 
   &:hover,
   &:focus {
     background-color: $primary-color;
     color: #fff;
+  }
+}
+
+.btn-alt {
+  color: #000;
+  border-radius: 30px;
+  font-size: 18px;
+  padding: 15px 40px;
+  display: inline-block;
+  background-color: #fff;
+  /*-- box-shadow: 0 15px 40px rgba(0, 0, 0, 0.5); --*/
+  background-image: linear-gradient(bottom, rgba(255, 239, 206, 0) 0%, rgba(255, 239, 206, 0.25) 100%);
+
+  &:hover,
+  &:focus {
+    background-color: #fff;
+    color: #000;
   }
 }
 
@@ -391,7 +410,7 @@ a:active {
     call-to-action start
 --*/
 .call-to-action {
-  background-attachment: fixed;
+  /*--background-attachment: fixed;--*/
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -422,6 +441,7 @@ a:active {
 /*=================================================================
   Footer section
 ==================================================================*/
+
 .social-icon {
   padding: 10px 0 35px;
 }
@@ -444,7 +464,7 @@ a:active {
 }
 
 .social-icon ul li a:hover {
-  background: #005290;
+  background: #000000;
 }
 
 .social-icon ul li a:hover i {
@@ -453,7 +473,7 @@ a:active {
 }
 
 .social-icon ul li a i {
-  color: #55606a;
+  color: #000000;
   display: inline-block;
   font-size: 32px;
   line-height: 70px;
@@ -466,30 +486,30 @@ a:active {
   a {
     font-size: 14;
     font-weight: 700;
-    color: #444;
+    color: #fff;
     padding: 10px;
   }
 }
 
 footer {
   text-align: center;
-  background: #e0e0e0;
+  background: #000000;
   padding: 50px 0px;
 
   .footer-logo {
-    color: #555;
+    color: #fff;
     display: block;
   }
 
   p.copyright-text {
     font-weight: 300;
     font-size: 12px;
-    color: #888;
+    color: #fff;
     letter-spacing: 3px;
     margin-top: 15px;
 
     a {
-      color: #282828;
+      color: #000000;
 
       &:hover {
         text-decoration: none;
@@ -499,6 +519,7 @@ footer {
 }
 
 // product single
+
 p.price {
   font-size: 30px;
   font-family: $secondary-font;
@@ -523,7 +544,7 @@ s.price {
 
   li,
   a {
-    color: #282828;
+    color: #000000;
     font-size: 18px;
   }
 }

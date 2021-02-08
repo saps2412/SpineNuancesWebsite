@@ -16,7 +16,7 @@
 				</div>	  
         <div class="block">
           <a href="{{ site.BaseURL | relLangURL }}" class="mb-4 d-inline-block">
-		  {{ if site.Params.logo }} <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" 
+		  {{ if site.Params.logo }} <img src="{{ site.Params.inv_logo | absURL }}" alt="{{ site.Title }}" 
 		  {{with site.Params.logo_width}} width="{{.}}"{{end}}> {{ else }} {{ .Title }} {{ end }}</a>
           <ul class="mt-2 list-inline footer-menu">
             {{ range site.Menus.footer }}

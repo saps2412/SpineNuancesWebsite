@@ -108,6 +108,7 @@ weight = 6
 ########################### Default parameters ##########################
 [params]
 logo = "images/LogoNew.png"
+inv_logo = "images/nu_logo_inverted.png"
 logo_width = "225px"
 # Meta data
 description = "Spine Nuances provides long fiber carbon composite implants for spine fusion."
@@ -172,7 +173,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-# copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright @ 2021 Spine Nuances. All rights reserved."
 
 
 ################################### French language #####################################

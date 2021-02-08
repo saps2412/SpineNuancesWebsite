@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Carbon composite technology for spine fusion"
+  title : "Carbon composite technology for spine fusion."
   content : "ostaPek® implants introduce high-performance long fiber carbon composite material to spine fusion. 
   Based on fiber pattern design specific to each indication, surgeons and patients can now consider treatment options not available based on traditional methods and materials."
   image : "images/VBR_new.jpg"
@@ -14,9 +14,9 @@ banner:
 ############################# Feature ############################
 features:
   enable : true
-  title : "ostaPek® for the cervical spine"
+  title : "ostaPek® for the cervical spine."
   image : "images/trabis.jpg"
-  text: "Trabis® corpectomy and ACIF interbody fusion cages"
+  text: "trabis® corpectomy and ACIF interbody fusion cages"
 
   # feature at the left of the image
   left_side:
@@ -67,7 +67,7 @@ features:
 promo:
   enable : true
   image : "images/VBRsystemnew.png"
-  title : "ostaPek® VBR for tumor"
+  title : "ostaPek® VBR for tumor."
   content : "ostaPek® VBR is designed for the most demanding spine tumor cases. 
   The contruct is versatile in terms of height and lordosis angle via stackable cages.
   The artificial pedicles allow a complete reconstruction of the spinal column and protect the spinal cord. 
@@ -75,13 +75,13 @@ promo:
   text: "Image of VBR cages and artificial pedicle" #alt attribute for image
   button:
         enable : true
-        label : "Learn More"
+        label : "Learn more about ostaPek® VBR"
         link : "products/vbr_vertebral_body_replacement_system"
 
 ############################# About Product #######################
 about_product:
   enable : true
-  title : "ostaPek® for the lumbar spine"
+  title : "ostaPek® for the lumbar spine."
   items:
     # about product item loop
     - image : "images/cages.jpg"
@@ -92,7 +92,7 @@ about_product:
       
       button:
         enable : true
-        label : "Learn More"
+        label : "Learn more about ostaPek® interbody fusion cages"
         link : "products"
         
     # about product item loop
@@ -103,33 +103,33 @@ about_product:
       text: "Image of pedicle fixation system plates, rods and screws" #alt attribute for image
       button:
         enable : true
-        label : "Learn More"
+        label : "Learn more about GII pedicle fixation"
         link : "products/evos_gii_pedicle_fixation"
 
 ############################# surgery ############################
 instrument:
   enable : true
   image : "images/instrument.jpg"
-  title : "Instruments in the surgeon's hands"
+  title : "Instruments in the surgeon's hands."
   content : "Only by deciphering the surgical gesture and its aim a functional and effective instrument can be created. 
   Since 1994, ostaPek® product development has moved hand-in-hand with instrument design and exploration of surgical techniques.
   International courses and discussion sessions are organized yearly."
   text: "Image of surgeon with instrument in hand" #alt attribute for image
   button:
         enable : true
-        label : "Learn More about Coligne Courses"
+        label : "Learn more about Coligne courses"
         link : "courses"
 
 #################################### Products ########################
 products:
   enable : true
-  title : "ostaPek® spine cages and pedicle fixation products"
+  title : "ostaPek® spine cages and pedicle fixation products."
 
 
 ################################## Subscription ###################
 subscription:
   enable : true
-  bg_image : "images/subscribe.jpg"
+  bg_image : "images/subscribe_highres.jpg"
   title : "Spine Nuances Newsletter"
   content : "Be the first to know about ostaPek® product updates."
   placeholder : "Email"
