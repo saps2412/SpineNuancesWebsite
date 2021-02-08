@@ -463,6 +463,16 @@ a:active {
   transition: all 400ms ease-out 0s;
 }
 
+.social-icon ul li a i {
+  color: #000000;
+  display: inline-block;
+  font-size: 32px;
+  line-height: 70px;
+  margin: 0;
+  opacity: 1;
+  transition: all 400ms ease-out 0s;
+}
+
 .social-icon ul li a:hover {
   background: #000000;
 }
@@ -470,16 +480,6 @@ a:active {
 .social-icon ul li a:hover i {
   color: #fff;
   opacity: 1;
-}
-
-.social-icon ul li a i {
-  color: #000000;
-  display: inline-block;
-  font-size: 32px;
-  line-height: 70px;
-  margin: 0;
-  opacity: 0.3;
-  transition: all 400ms ease-out 0s;
 }
 
 .footer-menu {
