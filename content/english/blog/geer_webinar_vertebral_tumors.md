@@ -2,6 +2,9 @@
 title: "GEER webinar on Vertrebal Tumors"
 date: 2020-11-28
 image: "images/showcase/geer_logo_en.png"
+images: 
+  - "images/showcase/geer_logo_en.png"
+  
 description: "Webinar on Vertebral Tumors: Considerations in Resection and Reconstruction"
 draft: false
 ---

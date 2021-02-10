@@ -2,6 +2,9 @@
 title: "Spine Nuances open for business"
 date: 2020-11-27
 image: "images/showcase/nu_init_announcement.jpg"
+images: 
+  - "images/showcase/nu_init_announcement.jpg"
+  
 description: "Announcement of Spine Nuances business foundation."
 draft: false
 ---

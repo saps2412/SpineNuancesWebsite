@@ -2,6 +2,9 @@
 title: "Composites for Medical Devices"
 date: 2020-09-17
 image: "images/showcase/logo_swissmedtech.jpg"
+images: 
+  - "images/showcase/logo_swissmedtech.jpg"
+  
 description: "Swiss Medtech webinar on composites in medical devices."
 draft: false
 ---

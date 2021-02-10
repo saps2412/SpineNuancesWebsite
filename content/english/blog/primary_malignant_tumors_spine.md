@@ -2,6 +2,9 @@
 title: "Primary malignant spine tumors"
 date: 2020-12-21
 image: "images/showcase/publication.jpg"
+images: 
+  - "images/showcase/publication.jpg"
+  
 description: "Thieme publication on treatment and surgical techniques for primary malignant tumors of the spine"
 draft: false
 ---
