@@ -4,8 +4,8 @@ date: 2020-12-22
 image: "images/showcase/trabis_set.jpg"
 images: 
   - "images/showcase/trabis_set.jpg"
-  - "images/showcase/trabis_2.jpg"
-  - "images/showcase/trabis_3.jpg"
+  - "images/showcase/trabis_case1.jpg"
+  - "images/showcase/trabis_case2.JPG"
   - "images/showcase/trabis_graft.jpg"
   
 description: "Thieme publication on treatment and surgical techniques for primary malignant tumors of the spine"
