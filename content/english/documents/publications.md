@@ -16,11 +16,13 @@ Since 1999, clinical use of [Coligne](http://www.coligne.com/international/home.
 
 K Choi and al.: The elastic moduli of human subchondral, trabecular and cortical bone tissue and the size-dependency of cortical bone modulus. J Biomech. 1990;23(11):1103-13 -->
 
-MF Sigot-Luizard: [Biological evaluation of the ostaPek (carbon PEKEKK) composite used in spinal surgery.](https://saps2412.github.io/publications/Composite%20Sigot%20Luizard%202000.pdf) Rachis, J Vertebral Pathology, Spinal Surgery. May 2000; 12(1)
-
 <!-- HM Frost: Bone’s mechanostat: a 2003 update. The anatomical record. Part A. Discoveries in molecular, cellular and evolutionary biology. 275(2):1081-101 -->
 
+F Galbuseraa, CM Bellini, F Anasettia, CCiavarroa, A Lovia, M Brayda-Brunoa: [Rigid and flexible spinal stabilization devices: A biomechanical comparison](https://saps2412.github.io/publications/Composite%20Galbusera%202011.pdf) Medical Engineering & Physics. 2011; 33:490–496
+
 G Barbanti Brodano, C Di Bona, A Gasbarrini, M Tognon, S Boriani, P Parisini: [Carbon fiber reinforced polymer (CFRP) cage induces better cells adhesion, spreading and proliferation than PolyEtherEtherKetone (PEEK) cage.](https://saps2412.github.io/publications/Composite%20Barbanti%20Brodano%202007.pdf) European Cells and Materials. 2007; 14(Suppl.1):19
+
+MF Sigot-Luizard: [Biological evaluation of the ostaPek (carbon PEKEKK) composite used in spinal surgery.](https://saps2412.github.io/publications/Composite%20Sigot%20Luizard%202000.pdf) Rachis, J Vertebral Pathology, Spinal Surgery. May 2000; 12(1)
 
 ## ostaPek® VBR
 
