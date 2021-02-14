@@ -12,6 +12,8 @@ Sales and marketing material for [ostaPek®](https://spinenuances.com/ostapek) c
 
 ## ostaPek® carbon composite material
 -----
+
+- [What is ostaPek®?](https://saps2412.github.io/sales_mktg/what_is_ostaPek_and_why.pdf)
  
 ## Trabis® cervical corpectomy cage system
 -----
