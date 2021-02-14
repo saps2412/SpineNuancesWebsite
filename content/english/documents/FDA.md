@@ -10,9 +10,13 @@ List of relevant pre-market notifications according to section 510(k) of the Foo
 
 <!--more-->
 
-### Trabis® 
+### Trabis® cervical corpectomy cage system
 
 Cleared by the FDA under PLR code in 2018 [510(k) K173893](https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173893.pdf).
+
+### ostaPek® VBR
+
+Cleared by the FDA under MQP code in 2008 [510(k) K072326](https://www.accessdata.fda.gov/cdrh_docs/pdf7/K072326.pdf).
 
 ### ACIF cage system
 
@@ -21,10 +25,6 @@ Cleared by the FDA under ODP code in 2017 [510(k) K173148](https://www.accessdat
 ### ostaPek® interbody fusion cages - ALIF, PLIF, TLIF and ELIF
 
 ALIF cage cleared by the FDA under MAX code in 2018 [510(k) K181963](https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181963.pdf).
-
-### ostaPek® VBR
-
-Cleared by the FDA under MQP code in 2008 [510(k) K072326](https://www.accessdata.fda.gov/cdrh_docs/pdf7/K072326.pdf).
 
 ### GII pedicle fixation
 
