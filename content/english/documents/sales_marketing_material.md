@@ -74,9 +74,9 @@ Sales and marketing material for [ostaPek®](https://spinenuances.com/ostapek) c
 ## coAlliance Courses
 -----
 
-- [coAlliance Course Book](https://saps2412.github.io/courses/coligne_courses.pdf)
+- [coAlliance Course Book](https://saps2412.github.io/courses/coligne_coalliance_book.pdf)
 
-- [coAlliance Course Brochure](https://saps2412.github.io/courses/coligne_courses.pdf)
+- [coAlliance Course Brochure](https://saps2412.github.io/courses/coligne_coalliance_brochure.pdf)
 
 
 ## Coligne 
