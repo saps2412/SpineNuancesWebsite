@@ -10,7 +10,7 @@ List of relevant pre-market notifications according to section 510(k) of the Foo
 
 <!--more-->
 
-### Trabis® cervical corpectomy cage system
+### trabis™ cervical corpectomy cage system
 
 Cleared by the FDA under PLR code in 2018 [510(k) K173893](https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173893.pdf).
 

@@ -38,7 +38,7 @@ AD Luzzati, SP Shah, FS Gagliano, GG Perrucchini, W Fontanella, M Alloisio: [Fou
 
 AD Luzzati, SP Shah, FS Gagliano, GG Perrucchini, G Scotto, M Alloisio: [Multilevel en-bloc spondylectomy for tumors of the thoracic and lumbar spine is challenging but rewarding.](https://saps2412.github.io/publications/VBR%20Luzzati%202014%202.pdf) Clin Orthop Relat res. 2014; Epub 17 May.
 
-## Trabis®
+## trabis™
 
 H Person, R Seizeur, E Laloux, A Linge: [Effectiveness of the carbon composite cage in cervical corpectomy. Retrospective analysis of 50 cases.](https://saps2412.github.io/publications/Trabis%20Person%202004.pdf) Spineweek 2004. May 30-June 5 2004. Porto, Portugal
 

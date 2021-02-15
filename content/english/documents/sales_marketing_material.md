@@ -15,14 +15,14 @@ Sales and marketing material for [ostaPek®](https://spinenuances.com/ostapek) c
 
 - [What is ostaPek®?](https://saps2412.github.io/sales_mktg/what_is_ostaPek_and_why.pdf)
  
-## Trabis® cervical corpectomy cage system
+## trabis™ cervical corpectomy cage system
 -----
 
-- [Trabis® Product Brochure](https://saps2412.github.io/sales_mktg/trabis_cervical_corpectomy.pdf)
+- [trabis™ Product Brochure](https://saps2412.github.io/sales_mktg/trabis_cervical_corpectomy.pdf)
 
-- [Trabis® FDA 510(k) Clearance](https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173893.pdf)
+- [trabis™ FDA 510(k) Clearance](https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173893.pdf)
  
-- [Trabis® IFU](https://saps2412.github.io/IFUs/US_Trabis_IFU_2018-04.pdf) 
+- [trabis™ IFU](https://saps2412.github.io/IFUs/US_Trabis_IFU_2018-04.pdf) 
 
 ## ostaPek® VBR
 -----

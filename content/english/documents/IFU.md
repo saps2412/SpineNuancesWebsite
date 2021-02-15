@@ -10,7 +10,7 @@ Detailed information for both [ostaPek®](https://spinenuances.com/ostapek) cage
 
 <!--more-->
 
-### [Trabis®](https://saps2412.github.io/IFUs/US_Trabis_IFU_2018-04.pdf) 
+### [trabis™](https://saps2412.github.io/IFUs/US_Trabis_IFU_2018-04.pdf) 
 
 ### [ACIF cage system](https://saps2412.github.io/IFUs/US_ACIF_IFU_2017-09.pdf)
 
