@@ -28,4 +28,4 @@ paths are found, new directions to explore.
 Open to surgeons and health care
 professionals working with Coligne products and technology.
 
-For complete details on all available Coligne Courses refer to the [coAlliance brochure](https://saps2412.github.io/courses/coligne_courses.pdf).
+For complete details on all available Coligne Courses refer to the [coAlliance brochure](https://saps2412.github.io/courses/coligne_coalliance_brochure.pdf).

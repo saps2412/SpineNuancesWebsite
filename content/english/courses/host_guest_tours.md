@@ -32,4 +32,4 @@ friendship.
 
 Contact us about Host & Guest Tours for the your subject of interest.
 
-or complete details on all available Coligne Courses refer to the [coAlliance brochure](https://saps2412.github.io/courses/coligne_courses.pdf).
+or complete details on all available Coligne Courses refer to the [coAlliance brochure](https://saps2412.github.io/courses/coligne_coalliance_brochure.pdf).
