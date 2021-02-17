@@ -8,7 +8,7 @@ images:
   - "images/showcase/trabis_case2.JPG"
   - "images/showcase/trabis_graft.jpg"
   
-description: "Thieme publication on treatment and surgical techniques for primary malignant tumors of the spine"
+description: "ostaPek® Carbon Composite Trabis® Cervical Corpectomy ACIF Lumbar Interbody Fusion Cages US market"
 draft: false
 ---
 
