@@ -21,7 +21,7 @@ They point, hold, review.
 The poetry of this dance is present only in the hands. 
 Both incremental improvements to existing systems as well as the development of completely new instruments begin like this…
 
-You can find a complete set of impressions of instruments in the surgeon's hands during spine surgery [here](https://youtu.be/jmdyqYtp-Js). 
+You can find a complete set of impressions of instruments in the surgeon's hands during spine surgery [here](https://youtu.be/dvfD0uHR3Hk). 
 
 ---
 
