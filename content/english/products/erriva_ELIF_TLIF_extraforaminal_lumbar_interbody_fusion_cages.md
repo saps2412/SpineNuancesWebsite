@@ -1,14 +1,14 @@
 ---
-title: "ostaPek® interbody fusion erriva"
+title: "ostaPek® interbody fusion erriva 3"
 date: 2020-09-14
 images: 
   - "images/showcase/erriva3_instrument.jpg"
-  - "images/showcase/erriva3_bulletshape.jpeg"
+  - "images/showcase/erriva3_bulletshape.jpg"
   - "images/showcase/erriva3_case.jpg"
-  - "images/showcase/erriva3_bullet.jpeg"
+  - "images/showcase/erriva3_bullet.jpg"
 
 # meta description
-description : "ostaPek® erriva extraforaminal and transforaminal lumbar interbody fusion (ELIF) and (TLIF) cages for spine fusion."
+description : "ostaPek® erriva transforaminal lumbar interbody fusion (ELIF) and (TLIF) cages for spine fusion."
 
 # product Price
 price: "30.00"
@@ -21,7 +21,7 @@ sizes : ["small","medium","large"]
 draft: false
 ---
 
-[ostaPek®](https://spinenuances.com/ostapek) extraforaminal and transforaminal lumbar interbody fusion cages.
+[ostaPek®](https://spinenuances.com/ostapek) transforaminal lumbar interbody fusion cages.
 
 The ostaPek® erriva 3 cage is the latest design of the Coligne transforaminal lumbar interbody fusion cages. 
 Gentle bulleting and tapering of the ostaPek® erriva 3 cage combined with ventral placement allows sagittal correction after implantation through a small, foraminal annulotomy.

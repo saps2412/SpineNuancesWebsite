@@ -25,7 +25,7 @@ It is also continuously monitored according to the regulatory requirements of [I
 More than 100’000 patients treated with ostaPek® implants over 25 years in Europe and the United States show the safety of the biomaterial. 
 Bio-compatibility is an absolute requirement for medical implants, but what else can ostaPek® bring? 
 
-In 2007, a study performed at [Istituti Orpededici Rizzoli](http://www.ior.it), Bologna, Italy 
+In 2007, a study performed at [Istituto Ortopedico Rizzoli](http://www.ior.it/en/curarsi-al-rizzoli), Bologna, Italy 
 described a rate of cell growth 5 times higher in carbon composite material compared to PEEK [[Barbanti Brodano, 2007](https://saps2412.github.io/publications/Composite%20Barbanti%20Brodano%202007.pdf)], 
 and a continuous and homogeneous distribution of human osseous cells on the carbon composite implant surfaces compared to multi-layered discontinuous cell clusters on PEEK.
 
