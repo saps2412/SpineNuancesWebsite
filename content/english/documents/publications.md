@@ -22,7 +22,22 @@ F Galbuseraa, CM Bellini, F Anasettia, CCiavarroa, A Lovia, M Brayda-Brunoa: [Ri
 
 G Barbanti Brodano, C Di Bona, A Gasbarrini, M Tognon, S Boriani, P Parisini: [Carbon fiber reinforced polymer (CFRP) cage induces better cells adhesion, spreading and proliferation than PolyEtherEtherKetone (PEEK) cage.](https://saps2412.github.io/publications/Composite%20Barbanti%20Brodano%202007.pdf) European Cells and Materials. 2007; 14(Suppl.1):19
 
+- SUMMARY - Engineered osteoblast cells were seeded on PEEK and CFRP vertebral cages.
+Cell adhesion and proliferation at 84 hours was five time higher on carbon composite than PEEK. 
+The observation of the living cells directly on the cages showed a different distribution of the cells on the two different biomaterials. 
+On the carbon composite cage the cells were homogeneously distributed as a continuous monolayer, while on the PEEK cage the cells were layered in a
+discontinuous mode, distributed in non-homogeneous ways, and associated in clusters. 
+
 MF Sigot-Luizard: [Biological evaluation of the ostaPek (carbon PEKEKK) composite used in spinal surgery.](https://saps2412.github.io/publications/Composite%20Sigot%20Luizard%202000.pdf) Rachis, J Vertebral Pathology, Spinal Surgery. May 2000; 12(1)
+
+R Petersen: [Carbon Fiber Biocompatibility for Implants](https://www.mdpi.com/2079-6439/4/1/1) MDPI, Fibers, Jan 2016, 4(1)
+
+- SUMMARY - Carbon fibers with a density close to bone for better stress transfer and electrical properties that
+enhance tissue formation potentially have multiple advantages when developing high-strength
+biomaterials. Results showed that for carbon-fiber-reinforced composite osseointegration in terms of percent bone area
+for distances from the implant surface of 0.1mm was four times higher compared to Titanium.
+
+-----
 
 ## ostaPek® VBR
 
@@ -38,9 +53,21 @@ AD Luzzati, SP Shah, FS Gagliano, GG Perrucchini, W Fontanella, M Alloisio: [Fou
 
 AD Luzzati, SP Shah, FS Gagliano, GG Perrucchini, G Scotto, M Alloisio: [Multilevel en-bloc spondylectomy for tumors of the thoracic and lumbar spine is challenging but rewarding.](https://saps2412.github.io/publications/VBR%20Luzzati%202014%202.pdf) Clin Orthop Relat res. 2014; Epub 17 May.
 
-## trabis™
+-----
+
+## Trabis™
 
 H Person, R Seizeur, E Laloux, A Linge: [Effectiveness of the carbon composite cage in cervical corpectomy. Retrospective analysis of 50 cases.](https://saps2412.github.io/publications/Trabis%20Person%202004.pdf) Spineweek 2004. May 30-June 5 2004. Porto, Portugal
+
+- SUMMARY - The ostaPek® cervical corpectomy cage constructs achieved primary stability of the anterior column, utilizing small
+fragments of bone, which reduces trauma at the graft harvest site. Bone bridging was observed throughout the
+implant in the standard x-ray. Initial fusion was achieved on all 50 patients. The implant seemed satisfactory for the
+following reasons: (1) The bio-material’s long carbon fibers are aligned in the sagittal plane, according to the normal trajectory of the
+dominant bone trabeculae, and the load that both a vertebral body and cage must bear. (2) This provides primary anterior column support.
+(3) Radiolucency with no artifacts for MRI and minimal artifacts for CT. (4) Ample space for morcelized autologous bone. A large
+segment of the iliac crest, with its known complications, is not required. (5) A convincing bone fusion through the cage can be
+observed, leaving a live bone bridge at the anterior column. (6) Long carbon fiber is flexible and should allow physiological
+load of the bone tissue over time.
 
 G Vermeesch, P Lauweryns, H Person, E Laloux: [ostaPek cage reconstruction after cervical corpectomy for advanced cervical spondylosis: a retrospective multicentric study.](https://saps2412.github.io/publications/Trabis%20Vermeersch%202005.pdf) The Pellenberg Orthopaedic Yearbook 2005/2006
 
@@ -48,9 +75,13 @@ Cawley DT, et al.: [Long-term outcomes with carbon fiber cage reconstruction in 
 
 Cawley DT, et al.: [Carbon-fibre cage reconstruction in anterior cervical corpectomy for multilevel cervical spondylosis: mid-term outcomes.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6626739) [J Spine Surg](https://www.thespinejournalonline.com). 2019; 5(2):251-258
 
+-----
+
 ## ACIF
 
 JP Elsig, F Sgier: [Anterior cervical interboy fusion (ACIF) with carbon composite cages.](https://saps2412.github.io/publications/ACIF_Elsig_1999.pdf) Rivista di Neuroradiologia. 1999; 12(Suppl.1):125-7
+
+- SUMMARY - ostaPek® carbon composite anterior cervical interbody fusion (ACIF) cages can be associated with a 98% fusion rate, very low morbidity and a clinical failure rate of only 2%.
 
 M Payer, D May, A Reverdin, E Tessitore: [Implantation of an empty carbon composite ostaPek frame cage after single level anterior cervical discectomy in the treatment of cervical disc herniation: radiological and clinical evaluation of a new technique.](https://saps2412.github.io/publications/ACIF_Payern_2003.pdf) [J Neurosurg](https://thejns.org/spine/view/journals/j-neurosurg-spine/98/2/article-p143.xml). March 2003; 98(Suppl.2):143-8
 
@@ -58,15 +89,22 @@ JP Elsig, F Sgier, K E Warden: [Anterior cervical interbody fusion using PEKEKK 
 
 K W Han, JS Kim, KH Kim, YW Cho, IC Lee, SD Bae: [Anterior cervical interbody fusion with the carbon composite ostaPek frame cage in degenerative cervical diseases.](https://saps2412.github.io/publications/ACIF_Han_2005.pdf) J Korean Neurosurg Soc. 2005; 37:422-6
 
+-----
+
 ## ostaPek® interbody fusion cages - ALIF
 
 E Laloux, JP Elsig: [Anterior lumbar interbody fusion (ALIF) with carbon composite cages.](https://saps2412.github.io/publications/ALIF%20Laloux%201999.pdf) Rivista di Neuroradiologia. 1999; 12(Suppl.1):111-4
 
 JP Elsig, E Laloux, M Bisserié, KE Warden: [ostaPek cages in lumbar interbody fusion. PLIF vs ALIF: patient outcome in 331 cases.](https://saps2412.github.io/publications/ALIF%20PLIF%20Elsig%202002%20Poster.pdf) 53rd Annual meeting DGNC. June 2-5 2002. Halle (Saale), Germany
 
+- SUMMARY - The presence of fusion in follow-up x-ray studies for the PLIF patients was found in 99% (154/156) at 12 months and 98% (85/87)
+at 24 months. For the ALIF patients, fusion was found in 99% (163/164) at 12 months and 100% (77/77) at 24 months.
+
 JP Elsig, E Laloux, J Commarmond, M Bisserié, KE Warden: [Lumbar interbody fusion with PEKEKK composite cages.](https://saps2412.github.io/publications/ALIF%20PLIF%20Elsig%202002.pdf) Chapter 14, Spinal restabilization procedures. Edited by DL Kaech and JR Jinkins. Elsevier 2002
 
 TM Markwalder, M Wenger, JP Elsig, E Laloux: [The wilhelm tell technique for anterior lumbar interbody fusion, technical note.](https://saps2412.github.io/publications/ALIF%20Markwalder%202003.pdf) [J Neurosurg](https://thejns.org/spine/view/journals/j-neurosurg-spine/98/2/article-p222.xml). 2003; 98(Suppl.2):222-5
+
+-----
 
 ## ostaPek® interbody fusion cages - PLIF
 
@@ -74,7 +112,10 @@ S Agazzi, A Reverdin, D May: [Posterior lumbar interbody fusion with cages: an i
 
 M Bisserié, JP Elsig, K Uehlinger, E Laloux, F Sgier: [Posterior lumbar interbody fusion (PLIF) with carbon composite cages.](https://saps2412.github.io/publications/PLIF%20Bisserie%201999.pdf) Rivista Di Neuroradiologia. 1999;12(Suppl.1):103-6
 
-## ostaPek® erriva interbody fusion cages
+- SUMMARY - PLIF with ostaPek® cages with or without posterior instrumentation is associated with a fusion rate of 92.5%. Negative clinical results were found for only 6% of the patients.
+-----
+
+## ostaPek® Erriva interbody fusion cages
 
 A. Kurzbuch, D. Recoules-Arche: [Minimal invasive lumbar spine revision surgery at distance from the dura and postsurgical scar tissue: Extraforaminal Lumbar Interbody Fusion. (ELIF).](https://saps2412.github.io/publications/ELIF%20Kurzbuch%202018.pdf) J Clin Neurosci. Jan 2018; 47:332-336
 
@@ -86,16 +127,32 @@ D Recoules-Arche, D Alcaix, T Somon: [The unilateral ELIF for treatment of post-
 
 D Recoules-Arche, D Alcaix, T Somon: [Unilateral ELIF. Surgical technique, fusion assessment by CT scan on 75 cases.](https://saps2412.github.io/publications/ELIF%20Recoules%202008.pdf) Spineweek. May 26-31 2008. Geneva, Switzerland
 
+- SUMMARY - In 73 of 75 cases, fusion was achieved. Only 2 cases could be discussed. No case of pseudoarthrosis has been observed. 
+Fusion was assessed by a CT scan protocol at the 6th month with axial, coronal and oblique sagittal reconstruction slides at the same angle as the cages.
+The ELIF is a maximally effective and minimally invasive alternative to more traditional lumbar fusion operations achieving results which meet or exceed standard anterior and posterior fusions.
+The major assets are (1) respect of the anatomical structures, (2) no vascular or neural complications, (3) minimal blood loss (less than 50 cc in all patients), (4) shortened surgery time (mean time 105 min),
+(5) significant reduction of post-op pain and long term sequelae, (6) ability to utilize pedicle fixation through same incision, and (7) ability to perform procedure at L5-S1.
+
 D Recoules-Arche, D Alcaix: [ELIF at L5-S1 with composite cages. Extraforaminal lumbar interbody fusion.](https://saps2412.github.io/publications/ELIF%20Recoules%202003.pdf) Eurospine. October 1-4 2003. Prague, Czech Republic
 
 D Recoules-Arche, C Druschel, P Fayada, L Vinikoff, AC Disch: [Unilateral extraforaminal lumbar interbody fusion (ELIF): surgical technique and clinical outcome in 107 patients.](https://saps2412.github.io/publications/ELIF%20Recoules%202016.pdf) [Clinical Spine Surgery V29(3)](https://journals.lww.com/jspinaldisorders/Abstract/2016/04000/Unilateral_Extraforaminal_Lumbar_Interbody_Fusion.17.aspx). April 2016
 
 D Recoules-Arche, T Somon, DL Kaech: [ELIF through a muscle sparing unilateral approach: biological and radiological follow-up.](https://saps2412.github.io/publications/ELIF%20Recoules%202014.pdf) EJOST. 2014; 24:50-3
 
-## ostaPek® gemitra interbody fusion cages
+-----
+
+## ostaPek® Gemitra interbody fusion cages
 
 J Commarmond: [Unilateral vs bilateral posterior lumbar interbody fusion. Advantages and limitations of interbody space restoration.](https://saps2412.github.io/publications/Gemitra%20Commarmond%202003.pdf) Eurospine. October 1-4 2003. Prague, Czech Republic.
+
+-----
 
 ## GII pedicle fixation
 
 F Sgier, JP Elsig, J Commarmond, JP Rakover: [Carbon composite pedicle fixation and interbody cages. Retrospective analysis of 40 cases at 5 years.](https://saps2412.github.io/publications/GII%20Sgier%202004.pdf) Spineweek. May 30-June 5 2004. Porto, Portugal
+
+- SUMMARY - The ostaPek®ek PLIF cage and lumbar plating procedure was found to fuse spinal motion segments in a safe and
+reliable manner, remaining stable more than five years for a broad series of patients and pathologies. The ability to
+observe bone through or around the composite devices was an asset. Soft tissue could be observed adjacent to
+the implant with MRI. The long fiber composite’s varying strength, stiffness and anisotropic properties may be
+appropriate in more complex constructs of the spine.

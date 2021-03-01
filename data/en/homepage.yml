@@ -16,14 +16,14 @@ features:
   enable : true
   title : "ostaPek® for the cervical spine."
   image : "images/trabis.jpg"
-  text: "trabis™ corpectomy and ACIF interbody fusion cages"
+  text: "Trabis™ corpectomy and ACIF interbody fusion cages"
 
   # feature at the left of the image
   left_side:
     # feature item loop (D)
   - title : "Innovation"
     icon : "tf-ion-android-bulb"
-    content : "trabis™ and ACIF spine cages have been cleared by the FDA for cervical indication in 2018."
+    content : "Trabis™ and ACIF spine cages have been cleared by the FDA for cervical indication in 2018."
     # content : "Proven best-in-class bone growth with no coating."
     
     # feature item loop (D, TR, TU)
@@ -48,7 +48,7 @@ features:
     # feature item loop
   - title : "Safety"
     icon : "tf-ion-android-checkmark-circle"
-    content : "Both trabis™ and ACIF spine cages have been in clinical use in Europe since more than 20 years. Safety and effectiveness have been proven in thousands of procedures and described in multiple peer-reviewed publications."
+    content : "Both Trabis™ and ACIF spine cages have been in clinical use in Europe since more than 20 years. Safety and effectiveness have been proven in thousands of procedures and described in multiple peer-reviewed publications."
     # content : "Modulus of elasticity close to bone preserves remodeling."
 
     # feature item loop
