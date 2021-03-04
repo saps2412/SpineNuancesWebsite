@@ -30,7 +30,9 @@ described a rate of cell growth 5 times higher in carbon composite material comp
 and a continuous and homogeneous distribution of human osseous cells on the carbon composite implant surfaces compared to multi-layered discontinuous cell clusters on PEEK.
 
 In comparison to titanium surfaces, ostaPek® implants show improved results in terms of cellular density and viability of human osseous cells, 
-without needing a coating [[Sigot-Luizard, 2000](https://saps2412.github.io/publications/Composite%20Sigot%20Luizard%202000.pdf)].
+without needing a coating [[Sigot-Luizard, 2000](https://saps2412.github.io/publications/Composite%20Sigot%20Luizard%202000.pdf)]. 
+
+Moreover, [[Petersen, 2016](https://www.mdpi.com/2079-6439/4/1/1)] showed that osseointegration in terms of percent bone area for distances from the implant surface of 0.1mm was four times higher for carbon-fiber-reinforced composite compared to Titanium.
 
 Switching from the material surface to the actual implants, “more space for bone” is a key design principle for the [ostaPek® intervertebral cages](https://spinenuances.com/products). 
 Thin walls and a light architecture allow for a large volume of bone graft within the cage and a maximized surface of graft in contact with the end plates.
