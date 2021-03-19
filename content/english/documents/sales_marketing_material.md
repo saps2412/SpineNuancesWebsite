@@ -18,7 +18,7 @@ Sales and marketing material for [ostaPek®](https://saps2412.github.io/sales_mk
  
 ## Trabis™ cervical corpectomy cage system
 
-- [Trabis™ Product Brochure](https://saps2412.github.io/sales_mktg/trabis_cervical_corpectomy.pdf)
+- [Trabis™ Product Brochure](https://saps2412.github.io/sales_mktg/Trabis_Cervical_Corpectomy.pdf)
 
 - [Trabis™ FDA 510(k) Clearance](https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173893.pdf)
  
@@ -35,6 +35,8 @@ Sales and marketing material for [ostaPek®](https://saps2412.github.io/sales_mk
 -----
 
 ## ACIF ostaPek® interbody fusion cage system
+
+- [ACIF / ACDF Product Brochure](https://saps2412.github.io/sales_mktg/ACIF_ACDF_Cervical_Interbody_Fusion.pdf)
 
 - [ACIF FDA 510(k) Clearance](https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173148.pdf)
 
