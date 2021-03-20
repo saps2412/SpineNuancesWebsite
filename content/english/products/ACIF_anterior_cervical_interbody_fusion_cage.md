@@ -37,4 +37,6 @@ The ACIF cage has a trapezoidal footprint of different sizes, multiple heights, 
 
 For complete details on the use of the ACIF system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_ACIF_IFU_2017-09.pdf).
 
-[Peer-reviewed clinical publications on the ACIF system](https://spinenuances.com/documents/publications)
+ostaPek® carbon composite [ACIF / ACDF Product Brochure](https://saps2412.github.io/sales_mktg/ACIF_ACDF_Cervical_Interbody_Fusion.pdf).
+
+[Peer-reviewed clinical publications](https://spinenuances.com/documents/publications) on the ACIF system.

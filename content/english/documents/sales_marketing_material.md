@@ -54,6 +54,8 @@ Sales and marketing material for [ostaPek®](https://saps2412.github.io/sales_mk
 
 ## PLIF ostaPek® interbody fusion cage system
 
+- [PLIF Product Brochure](https://saps2412.github.io/sales_mktg/PLIF_Posterior_Lumbar_Interbody_Fusion.pdf)
+
 - [PLIF FDA 510(k) Clearance](https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181963.pdf)
 
 - [PLIF IFU](https://saps2412.github.io/IFUs/US_ostaPek_Interbody_Fusion_Cages_IFU_2018-10.pdf)

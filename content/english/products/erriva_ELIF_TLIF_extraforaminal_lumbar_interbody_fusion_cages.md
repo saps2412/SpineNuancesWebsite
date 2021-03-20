@@ -40,4 +40,4 @@ The erriva™ cage is available in different lengths 4 heights.
 
 For complete details on the use of the erriva™ system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_ostaPek_Interbody_Fusion_Cages_IFU_2018-10.pdf).
 
-[Peer-reviewed clinical publications on the ELIF system](https://spinenuances.com/documents/publications)
+[Peer-reviewed clinical publications](https://spinenuances.com/documents/publications) on the ELIF system.

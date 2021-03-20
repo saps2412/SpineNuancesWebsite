@@ -38,4 +38,6 @@ Different combinations of width and length are available to cover the range of a
 
 For complete details on the use of the PLIF system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_ostaPek_Interbody_Fusion_Cages_IFU_2018-10.pdf).
 
-[Peer-reviewed clinical publications on the PLIF system](https://spinenuances.com/documents/publications)
+ostaPek® carbon composite [PLIF Product Brochure](https://saps2412.github.io/sales_mktg/PLIF_Posterior_Lumbar_Interbody_Fusion.pdf).
+
+[Peer-reviewed clinical publications](https://spinenuances.com/documents/publications) on the PLIF system.

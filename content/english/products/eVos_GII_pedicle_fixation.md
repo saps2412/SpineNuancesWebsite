@@ -51,4 +51,4 @@ The GII pedicle screws are available in diameter from 4.75 mm to 8.5 mm and diff
 
 For complete details on the use of the GII pedicle fixation system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_GII_spinal_fixation_system_IFU_2020-05.pdf).
 
-[Peer-reviewed clinical publications on the GII pedicle fixation system](https://spinenuances.com/documents/publications)
+[Peer-reviewed clinical publications](https://spinenuances.com/documents/publications) on the GII pedicle fixation system.

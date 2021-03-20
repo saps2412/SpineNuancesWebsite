@@ -38,4 +38,6 @@ Trabis™ cages are available in 1.5 mm increments from 17.6 mm to 25.1 mm and 2
 
 For complete details on the use of Trabis™ refer to the valid [Information for Use](https://saps2412.github.io/IFUs/US_Trabis_IFU_2018-04.pdf).
 
-[Peer-reviewed clinical publications on the Trabis™ system](https://spinenuances.com/documents/publications)
+ostaPek® carbon composite [Trabis™ Product Brochure](https://saps2412.github.io/sales_mktg/trabis_cervical_corpectomy.pdf).
+
+[Peer-reviewed clinical publications](https://spinenuances.com/documents/publications) on the Trabis™ system.
