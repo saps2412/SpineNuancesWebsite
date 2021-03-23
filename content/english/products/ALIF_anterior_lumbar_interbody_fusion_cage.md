@@ -39,4 +39,6 @@ The ALIF cage is available in two widths, 30 mm and 35 mm, and two lengths, 20 m
 
 For complete details on the use of the ALIF system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_ostaPek_Interbody_Fusion_Cages_IFU_2018-10.pdf).
 
+ostaPek® carbon composite [ALIF Product Brochure](https://saps2412.github.io/sales_mktg/ALIF_Anterior_Lumbar_Interbody_Fusion.pdf).
+
 [Peer-reviewed clinical publications](https://spinenuances.com/documents/publications) on the ALIF system.

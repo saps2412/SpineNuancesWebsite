@@ -46,6 +46,8 @@ Sales and marketing material for [ostaPek®](https://saps2412.github.io/sales_mk
 
 ## ALIF ostaPek® interbody fusion cage system
 
+- [ALIF Product Brochure](https://saps2412.github.io/sales_mktg/ALIF_Anterior_Lumbar_Interbody_Fusion.pdf)
+
 - [ALIF FDA 510(k) Clearance](https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181963.pdf)
 
 - [ALIF IFU](https://saps2412.github.io/IFUs/US_ostaPek_Interbody_Fusion_Cages_IFU_2018-10.pdf)
@@ -62,7 +64,9 @@ Sales and marketing material for [ostaPek®](https://saps2412.github.io/sales_mk
 
 -----
 
-## TLIF ostaPek® interbody fusion cage system
+## Gemitra™ TLIF ostaPek® interbody fusion cage system
+
+- [Gemitra™ TLIF Product Brochure](https://saps2412.github.io/sales_mktg/Gemitra_TLIF_Transforaminal_Lumbar_Interbody_Fusion.pdf)
 
 - [TLIF FDA 510(k) Clearance](https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181963.pdf)
 
@@ -70,7 +74,7 @@ Sales and marketing material for [ostaPek®](https://saps2412.github.io/sales_mk
 
 -----
 
-## ELIF ostaPek® interbody fusion cage system
+## Erriva™ ELIF ostaPek® interbody fusion cage system
 
 - [ELIF FDA 510(k) Clearance](https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181963.pdf)
 
@@ -86,11 +90,11 @@ Sales and marketing material for [ostaPek®](https://saps2412.github.io/sales_mk
 
 -----
 
-## coAlliance Courses
+## Coalliance Courses
 
-- [coAlliance Course Book](https://saps2412.github.io/courses/coligne_coalliance_book.pdf)
+- [Coalliance Course Book](https://saps2412.github.io/courses/coligne_coalliance_book.pdf)
 
-- [coAlliance Course Brochure](https://saps2412.github.io/courses/coligne_coalliance_brochure.pdf)
+- [Coalliance Course Brochure](https://saps2412.github.io/courses/coligne_coalliance_brochure.pdf)
 
 -----
 

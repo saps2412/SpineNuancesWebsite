@@ -141,7 +141,7 @@ D Recoules-Arche, T Somon, DL Kaech: [ELIF through a muscle sparing unilateral a
 
 -----
 
-## ostaPek® Gemitra interbody fusion cages
+## ostaPek® Gemitra™ TLIF interbody fusion cages
 
 J Commarmond: [Unilateral vs bilateral posterior lumbar interbody fusion. Advantages and limitations of interbody space restoration.](https://saps2412.github.io/publications/Gemitra%20Commarmond%202003.pdf) Eurospine. October 1-4 2003. Prague, Czech Republic.
 
