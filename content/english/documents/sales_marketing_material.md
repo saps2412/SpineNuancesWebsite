@@ -14,6 +14,8 @@ Sales and marketing material for [ostaPek®](https://saps2412.github.io/sales_mk
 
 - [What is ostaPek®?](https://saps2412.github.io/sales_mktg/what_is_ostaPek_and_why.pdf)
 
+- [ostaPek® carbon composite - Biological Potential](https://spinenuances.com/blog/ostapek_carbon_composite_part_one_biology)
+
 -----
  
 ## Trabis™ cervical corpectomy cage system
@@ -27,6 +29,8 @@ Sales and marketing material for [ostaPek®](https://saps2412.github.io/sales_mk
 -----
 
 ## ostaPek® VBR
+
+- [ostaPek® VBR Product Brochure - coming soon](https://saps2412.github.io/sales_mktg/ostapek_VBR_vertebral_body_replacement.pdf)
 
 - [VBR FDA 510(k) Clearance](https://www.accessdata.fda.gov/cdrh_docs/pdf7/K072326.pdf)
 
@@ -76,6 +80,10 @@ Sales and marketing material for [ostaPek®](https://saps2412.github.io/sales_mk
 
 ## Erriva™ ELIF ostaPek® interbody fusion cage system
 
+- [Erriva™ ELIF Product Brochure - coming soon](https://saps2412.github.io/sales_mktg/Erriva_ELIF_Extraforaminal_Lumbar_Interbody_Fusion.pdf)
+
+- [Erriva3™ TLIF Product Brochure - coming soon](https://saps2412.github.io/sales_mktg/Erriva3_ELIF_Extraforaminal_Lumbar_Interbody_Fusion.pdf)
+
 - [ELIF FDA 510(k) Clearance](https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181963.pdf)
 
 - [ELIF IFU](https://saps2412.github.io/IFUs/US_ostaPek_Interbody_Fusion_Cages_IFU_2018-10.pdf)
@@ -83,6 +91,8 @@ Sales and marketing material for [ostaPek®](https://saps2412.github.io/sales_mk
 -----
 
 ## GII pedicle fixation
+
+- [GII Product Brochure - coming soon](https://saps2412.github.io/sales_mktg/GII_pedicle_fixation.pdf)
 
 - FDA 510(k) Clearances - [Titanium plates](https://www.accessdata.fda.gov/cdrh_docs/pdf/K980852.pdf), [Titanium rods](https://www.accessdata.fda.gov/cdrh_docs/pdf3/K032604.pdf), [ostaPek® plates](https://www.accessdata.fda.gov/cdrh_docs/pdf5/K051089.pdf), [Polyaxial screws](https://www.accessdata.fda.gov/cdrh_docs/pdf8/K083567.pdf)
 
