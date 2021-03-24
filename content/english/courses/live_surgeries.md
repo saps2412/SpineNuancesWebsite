@@ -1,7 +1,13 @@
 ---
 title: "Live Surgeries"
 date: 2020-09-15
-image: "images/showcase/livesurgery.jpg"
+image: "images/showcase/livesurgery_new.jpg"
+images: 
+  - "images/showcase/livesurgery_new.jpg"
+  - "images/showcase/ls_I.jpg"
+  - "images/showcase/ls_II.jpg"
+  - "images/showcase/ls_III.jpg"
+
 description : "Coligne courses live surgeries where hosts and guest jointly perform surgical treatments with ostaPek® material."
 draft: false
 ---

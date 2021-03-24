@@ -2,6 +2,12 @@
 title: "Developer Sessions"
 date: 2020-09-16
 image: "images/showcase/developer.jpg"
+images: 
+  - "images/showcase/developer.jpg"
+  - "images/showcase/ds_I.jpg"
+  - "images/showcase/ds_II.jpg"
+  - "images/showcase/ds_III.jpg"
+  
 description : "Developer sessions are about creating true value for the patient based on continuous improvement in spine surgery."
 draft: false
 ---
