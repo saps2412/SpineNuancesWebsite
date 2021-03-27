@@ -1,5 +1,5 @@
 ---
-title: "Robert Velez, MD NexisColigne"
+title: "Robert Velez, Managing Director NexisColigne"
 date: 2020-09-11
 image: "images/showcase/RobertVelez.jpg"
 description : "Summary Curriculum Vitae Robert Velez."
