@@ -7,6 +7,7 @@ images:
   - "images/showcase/fusion_progression_postop-min.jpg"
   - "images/showcase/fusion_progression_6months-min.jpg"
   - "images/showcase/fusion_progression_12months-min.jpg"
+  - "images/showcase/ostaPekACIFoscar-min.jpg"
   
 description: "ostaPek® ACIF ACDF Carbon Composite Cervical Interbody Fusion C6-C7 canine spine"
 draft: false
@@ -18,14 +19,14 @@ He was diagnosed with chronic progressive Caudal Cervical Spondylomyelopathy.
 
 <!--more-->
 
-Jacky was treated with a 12mm x 5mm [ostaPek® ACIF/ACDF cage](https://spinenuances.com/products/acif_anterior_cervical_interbody_fusion_cage), normally used in humans. 
-Additional stabilization was also performed using Compact UniLock plates. The surgeon harvested cancellous bone graft from the dog’s humeral head. 
-This was placed inside the ostaPek® cage and anterior to the plate. Jacky recovered completely. 
+Jacky was treated with a 12mm x 5mm [ACIF/ACDF cage](https://spinenuances.com/products/acif_anterior_cervical_interbody_fusion_cage), in ostaPek® carbon composite which is normally used in humans
+and designed for optimal space to carry living bone. 
+Additional stabilization was also performed using Compact UniLock plates. The surgeon harvested cancellous bone graft from the dog’s humeral head, placing it inside the ostaPek® cage and anterior to the plate. Jacky recovered completely. 
 
-At 6 and 12 months, post-op x-ray images show progressive bony fusion growing through the [ostaPek®](https://spinenuances.com/ostapek) cage. 
+At 6 and 12 months, post-op x-ray images show progressive bony fusion growing through the [ostaPek®](https://spinenuances.com/ostapek) carbon composite cage. 
 Two years after surgery, Jacky was diagnosed with an aggressive bone tumor in one pelvic limb. He underwent euthanasia and his owner allowed this study.
 
-The specimen shows that living bone spans through the ostaPek® cage in complete ossification, linking the C6-C7 vertebrae of the cervical spine.
+The specimen shows that living bone spans through the ostaPek® carbon composite cage in complete ossification, linking the C6-C7 vertebrae of the cervical spine.
 
 -----
 
@@ -37,8 +38,8 @@ no coatings required and its mechanical properties are tailored to ensure primar
 The thin wall cage design enables unparalleled graft to cage volume ratio and the open three-strut cage architecgture matches vertebral endplates and lowers the risk of subsidence whilst
 the large lateral and transverse bone ports allow for optimal fusion.
 
-The ostaPek® ACIF/ACDF is available in a number of sizes to provide ease of use, flat or domed, lots of space for graft and optimal match of intervertebral space. 
-Just select the right sized trial, verify the fit and then place the ACIF/ACDF cage filled with the medium of choice. 
+The ostaPek® ACIF/ACDF cage is available in a number of sizes to provide ease of use, flat or domed, lots of space for graft and optimal match of intervertebral space. 
+Just select the right sized trial, verify the fit and then place the ACIF/ACDF implant filled with the medium of choice. 
 
 Gold-markers confirm the implant position and the material is fully radiolucent for high quality diagnostic follow up with CT, MRI and plane x-ray.
 
