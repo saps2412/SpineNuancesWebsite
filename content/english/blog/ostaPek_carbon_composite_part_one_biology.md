@@ -8,7 +8,7 @@ images:
   - "images/showcase/trabis_graft.jpg"
   - "images/showcase/ostaPekMat.jpg"
   
-description: "ostaPek Carbon Composite Spine Fusion"
+description: "ostaPek Carbon Composite Spine Fusion Biology"
 draft: false
 ---
 
