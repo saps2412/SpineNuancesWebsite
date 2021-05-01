@@ -7,7 +7,7 @@ draft: false
 ---
 
 Over the years, [Coligne's](http://www.coligne.com/international/home.html) innovative approach has lead to international patents for implants, instrumentation, 
-design and technology for both [ostaPek®](https://spinenuances.com/ostapek) cage and pedicle fixation systems.
+design and technology for both [ostaPek®](https://spinenuances.com/ostapek_carbon_composite) cage and pedicle fixation systems.
 
 <!--more-->
 

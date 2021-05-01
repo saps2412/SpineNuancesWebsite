@@ -24,14 +24,14 @@ draft: false
 
 ostaPek® vertebral body replacement cages.
 
-The [ostaPek®](https://spinenuances.com/ostapek) VBR system consists of one or multiple stackable cages to be used in the thoracolumbar spine for tumor or trauma. 
+The [ostaPek®](https://spinenuances.com/ostapek_carbon_composite) VBR system consists of one or multiple stackable cages to be used in the thoracolumbar spine for tumor or trauma. 
 It is designed for strength for primary stabilization and radiolucency for radiological follow-up at the treated level. 
 An artificial pedicle provides a connection between cage construct and posterior fixation for a complete reconstruction of the spinal column.
 Multiple slots for the cage inserter permit anterior, posterior or lateral surgical approach.
 
 Clinically used in Europe since 2004. Cleared by the FDA under MQP code in 2008 [510(k) K072326](https://www.accessdata.fda.gov/cdrh_docs/pdf7/K072326.pdf).
 
-ostaPek® VBR technology is [patented](https://spinenuances.com/documents/patents), has been developed in the USA and is manufactured in Switzerland.
+ostaPek® VBR technology is [patented](https://spinenuances.com/documents/spine_fusion_patents), has been developed in the USA and is manufactured in Switzerland.
 
 The coLigne ostaPek® VBR system are vertebral body (partial or total) replacement (VBR) devices intended for use in the thoracolumbar spine (T1-L5) to replace and restore height to a collapsed, damaged, or unstable vertebral body or portion thereof, due to tumor, trauma, or disease.
 The system is to be used in association with bone graft and supplemental spinal fixation, i.e. the [GII system](https://spinenuances.com/products/evos_gii_pedicle_fixation). 
@@ -42,4 +42,4 @@ The ostaPek® vertebral body replacement cages are available in various sizes wi
 
 For complete details on the use of the ostaPek® VBR system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_VBR_System_IFU_2020-05.pdf).
 
-[Peer-reviewed clinical publications](https://spinenuances.com/documents/publications) on the ostaPek® VBR system.
+[Peer-reviewed clinical publications](https://spinenuances.com/documents/spine_fusion_publications) on the ostaPek® VBR system.

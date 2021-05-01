@@ -21,7 +21,7 @@ sizes : ["small","medium","large"]
 draft: false
 ---
 
-[ostaPek®](https://spinenuances.com/ostapek) posterior lumbar interbody fusion cages.
+[ostaPek®](https://spinenuances.com/ostapek_carbon_composite) posterior lumbar interbody fusion cages.
 
 The PLIF cages are designed for the posterior lumbar discectomy and fusion surgery. The evolution of the cage with the bullet design facilitates the insertion.
 
@@ -40,4 +40,4 @@ For complete details on the use of the PLIF system refer to the valid  [Informat
 
 ostaPek® carbon composite [PLIF Product Brochure](https://saps2412.github.io/sales_mktg/PLIF_Posterior_Lumbar_Interbody_Fusion.pdf).
 
-[Peer-reviewed clinical publications](https://spinenuances.com/documents/publications) on the PLIF system.
+[Peer-reviewed clinical publications](https://spinenuances.com/documents/spine_fusion_publications) on the PLIF system.

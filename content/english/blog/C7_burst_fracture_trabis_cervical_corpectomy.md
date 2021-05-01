@@ -18,7 +18,7 @@ Pre-op images illustrate the case of a polytraumatized 19-year-old woman involve
 <!--more-->
 
 Patient was treated with a 17.2mm [Trabis™ Cervical Corpectomy](https://spinenuances.com/products/trabis_cervical_corpectomy_vertebral_body_replacement_cage) cage 
-made of [ostaPek® carbon composite](https://spinenuances.com/ostapek) in combination with an anterior plate for primary stabilization.
+made of [ostaPek® carbon composite](https://spinenuances.com/ostapek_carbon_composite) in combination with an anterior plate for primary stabilization.
 
 Post-op images (7 days after surgery) show good root canal release, cage/graft area matches vertebral endplates well and lowers the risk of subsidence. The posterior wall alignment of C7 is restore in a satisfactory way. The domed shape of the upper part of the implant is optimally congruent with the lower part of C6. Complete disappearance of motoric disorders.
 

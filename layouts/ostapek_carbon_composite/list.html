@@ -7,7 +7,7 @@
         <h1 class="font-weight-bold">{{.Title}}</h1>
       </div>
     </div>
-    {{ range $index, $element := (where .Site.RegularPages "Section" "ostapek") }}
+    {{ range $index, $element := (where .Site.RegularPages "Section" "ostapek_carbon_composite") }}
     {{- if ne (mod $index 2) 1 }}
     <div class="row mb-40">
       <div class="col-md-6 text-center mb-5 mb-lg-0">

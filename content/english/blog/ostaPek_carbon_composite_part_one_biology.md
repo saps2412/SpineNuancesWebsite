@@ -37,7 +37,7 @@ Moreover, [[Petersen, 2016](https://www.mdpi.com/2079-6439/4/1/1)] showed that o
 Switching from the material surface to the actual implants, “more space for bone” is a key design principle for the [ostaPek® intervertebral cages](https://spinenuances.com/products). 
 Thin walls and a light architecture allow for a large volume of bone graft within the cage and a maximized surface of graft in contact with the end plates.
 
-With the awareness that a successful spinal procedure is the result of multiple factors, we believe the [ostaPek® material](https://saps2412.github.io/sales_mktg/what_is_ostaPek_and_why.pdf) and implants have a relevant contribution in the fusion process, 
+With the awareness that a successful spinal procedure is the result of multiple factors, we have designed the [ostaPek® material](https://saps2412.github.io/sales_mktg/what_is_ostaPek_and_why.pdf) and implants to optimize the fusion process, 
 bringing a new level of function, security, and physiological satisfaction to the patients.
 
 ---

@@ -21,7 +21,7 @@ sizes : ["small","medium","large"]
 draft: false
 ---
 
-[ostaPek®](https://spinenuances.com/ostapek) anterior cervical interbody fusion cages.
+[ostaPek®](https://spinenuances.com/ostapek_carbon_composite) anterior cervical interbody fusion cages.
 
 ACIF cages are designed for anterior cervical discectomy and fusion surgery with a focus on mechanical stability and maximized space for bone graft. Vertical struts ensure intersomatic stability while the light ostaPek® architecture allows for a higher than 1:1 ratio between graft and cage material in contact with the endplates.
 
@@ -39,4 +39,4 @@ For complete details on the use of the ACIF system refer to the valid  [Informat
 
 ostaPek® carbon composite [ACIF / ACDF Product Brochure](https://saps2412.github.io/sales_mktg/ACIF_ACDF_Cervical_Interbody_Fusion.pdf).
 
-[Peer-reviewed clinical publications](https://spinenuances.com/documents/publications) on the ACIF system.
+[Peer-reviewed clinical publications](https://spinenuances.com/documents/spine_fusion_publications) on the ACIF system.

@@ -6,7 +6,7 @@ description : "Downloadable information for use (IFU) documents for both ostaPek
 draft: false
 ---
 
-Detailed information for both [ostaPek®](https://spinenuances.com/ostapek) cages and pedicle fixation systems intended use, precautions to be taken, risks and reprocessing instructions.
+Detailed information for both [ostaPek®](https://spinenuances.com/ostapek_carbon_composite) cages and pedicle fixation systems intended use, precautions to be taken, risks and reprocessing instructions.
 
 <!--more-->
 

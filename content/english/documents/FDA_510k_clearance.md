@@ -6,7 +6,7 @@ description : "Downloadable FDA clearance or 510(k) for both ostaPek® cages and
 draft: false
 ---
 
-List of relevant pre-market notifications according to section 510(k) of the Food, Drug and Cosmetic Act (FDA) for both [ostaPek®](https://spinenuances.com/ostapek) cages and pedicle fixation systems.
+List of relevant pre-market notifications according to section 510(k) of the Food, Drug and Cosmetic Act (FDA) for both [ostaPek®](https://spinenuances.com/ostapek_carbon_composite) cages and pedicle fixation systems.
 
 <!--more-->
 

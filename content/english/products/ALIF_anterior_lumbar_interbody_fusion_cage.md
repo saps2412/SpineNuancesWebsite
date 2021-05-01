@@ -22,7 +22,7 @@ sizes : ["small","medium","large"]
 draft: false
 ---
 
-[ostaPek®](https://spinenuances.com/ostapek) anterior lumbar interbody fusion cages.
+[ostaPek®](https://spinenuances.com/ostapek_carbon_composite) anterior lumbar interbody fusion cages.
 
 The ALIF cages are designed for the classical anterior lumbar discectomy and fusion surgery. They provide full anterior support and enable recreation of the desired lumbar lordosis at the treated level.
 
@@ -41,4 +41,4 @@ For complete details on the use of the ALIF system refer to the valid  [Informat
 
 ostaPek® carbon composite [ALIF Product Brochure](https://saps2412.github.io/sales_mktg/ALIF_Anterior_Lumbar_Interbody_Fusion.pdf).
 
-[Peer-reviewed clinical publications](https://spinenuances.com/documents/publications) on the ALIF system.
+[Peer-reviewed clinical publications](https://spinenuances.com/documents/spine_fusion_publications) on the ALIF system.

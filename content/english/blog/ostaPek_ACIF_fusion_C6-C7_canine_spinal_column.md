@@ -23,7 +23,7 @@ Jacky was treated with a 12mm x 5mm [ACIF/ACDF cage](https://spinenuances.com/pr
 and designed for optimal space to carry living bone. 
 Additional stabilization was also performed using Compact UniLock plates. The surgeon harvested cancellous bone graft from the dog’s humeral head, placing it inside the ostaPek® cage and anterior to the plate. Jacky recovered completely. 
 
-At 6 and 12 months, post-op x-ray images show progressive bony fusion growing through the [ostaPek®](https://spinenuances.com/ostapek) carbon composite cage. 
+At 6 and 12 months, post-op x-ray images show progressive bony fusion growing through the [ostaPek®](https://spinenuances.com/ostapek_carbon_composite) carbon composite cage. 
 Two years after surgery, Jacky was diagnosed with an aggressive bone tumor in one pelvic limb. He underwent euthanasia and his owner allowed this study.
 
 The specimen shows that living bone spans through the ostaPek® carbon composite cage in complete ossification, linking the C6-C7 vertebrae of the cervical spine.

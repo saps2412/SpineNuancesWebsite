@@ -8,7 +8,7 @@ draft: false
 
 [Coligne](http://www.coligne.com/international/home.html) was founded in Switzerland in 1993 based on Robert Lange's desire to provide surgeons and their patients with improved methods and materials for spine surgery. 
 
-Driven by this pioneering spirit, Robert has focused Coligne on exploring the details of both surgical technique and the development of a new bio-material, [ostaPek®](https://spinenuances.com/ostapek) carbon composite. 
+Driven by this pioneering spirit, Robert has focused Coligne on exploring the details of both surgical technique and the development of a new bio-material, [ostaPek®](https://spinenuances.com/ostapek_carbon_composite) carbon composite. 
 Long lasting relationships with clients based on trust and respect have allowed Coligne to establish itself as one of the technology leaders for 
 spine fusion in Europe today both in terms of surgical technique as well as implant material. 
 

@@ -7,7 +7,7 @@ draft: false
 ---
 
 List of relevant quality management and assurance system certifications for [Coligne](http://www.coligne.com/international/home.html) as the manufacturer of 
-both [ostaPek®](https://spinenuances.com/ostapek) cages and pedicle fixation systems.
+both [ostaPek®](https://spinenuances.com/ostapek_carbon_composite) cages and pedicle fixation systems.
 
 <!--more-->
 

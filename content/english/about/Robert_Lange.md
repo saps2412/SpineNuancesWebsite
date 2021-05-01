@@ -6,7 +6,7 @@ description : "Summary Curriculum Vitae Robert Lange."
 draft: false
 ---
 
-Next to being [Coligne's](http://www.coligne.com/international/home.html) CEO and Founder, Robert has lead the design team for both the [ostaPek®](https://spinenuances.com/ostapek) carbon composite material and all ostaPek® [cages and pedicles fixation systems](https://spinenuances.com/products). 
+Next to being [Coligne's](http://www.coligne.com/international/home.html) CEO and Founder, Robert has lead the design team for both the [ostaPek®](https://spinenuances.com/ostapek_carbon_composite) carbon composite material and all ostaPek® [cages and pedicles fixation systems](https://spinenuances.com/products). 
 He has been involved with the entire program since its creation (1990), first in France and Switzerland, and then in Europe and the United States.
 
 Robert has personally worked with some of the pioneer surgeons in spinal fixation incl. [Prof. Raymond Roy Camille](https://de.wikipedia.org/wiki/Raymond_Roy-Camille) 

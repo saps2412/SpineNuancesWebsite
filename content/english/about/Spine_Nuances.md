@@ -7,7 +7,7 @@ draft: false
 ---
 
 Spine Nuances is the brainchild of a long-standing Coligne development engineer, Vittoria Brighenti. 
-Based on the outstanding performance of [ostaPek®](https://spinenuances.com/ostapek) carbon composite implants during the past 30 years in Europe, 
+Based on the outstanding performance of [ostaPek®](https://spinenuances.com/ostapek_carbon_composite) carbon composite implants during the past 30 years in Europe, 
 Spine Nuances' is all about establishing the ostaPek® carbon composite technology including all [Coligne](http://www.coligne.com/international/home.html) products in the North American market as one of the leading brands 
 for spine fusion. 
 
