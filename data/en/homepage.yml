@@ -9,7 +9,7 @@ banner:
   button:
    enable : true
    label : "Learn more about ostaPek®"
-   link : "ostapek"
+   link : "ostapek_carbon_composite"
 
 ############################# Feature ############################
 features:

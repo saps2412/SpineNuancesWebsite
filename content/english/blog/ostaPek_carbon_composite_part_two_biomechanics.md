@@ -21,7 +21,7 @@ at least three areas playing a major role in spine fusion: [biology](https://spi
 
 <!--more-->
 
-In our first post on ostaPek® carbon composite we have covered [biology](https://spinenuances.com/blog/ostapek_carbon_composite_part_one_biology). 
+In our first post on ostaPek® carbon composite we have covered [biology](https://spinenuances.com/ostapek_carbon_composite). 
 Today we will start discussing biomechanics.
 
 The role of spinal implants changes over time during the bone fusion process, to the point of having conflicting missions. 

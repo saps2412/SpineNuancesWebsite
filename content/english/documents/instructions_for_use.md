@@ -10,6 +10,11 @@ Detailed information for both [ostaPek®](https://spinenuances.com/ostapek_carbo
 
 <!--more-->
 
+<!-- Preoperative instructions to the patient are essential. The patient should be made aware of the limitations of the implant and potential adverse effects of the surgery. 
+The patient should be instructed to limit postoperative activities as this will reduce the risk of bent, broken or loose implants. 
+The patient must be made aware that implants may bend, break or loosen even though restrictions in activity are followed.
+Postoperative evaluation of the fusion and implant status is necessary. After the fusion, implant does not have to be removed. -->
+
 ### [Trabis™](https://saps2412.github.io/IFUs/US_Trabis_IFU_2018-04.pdf)
 
 -----
