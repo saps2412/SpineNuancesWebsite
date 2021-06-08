@@ -106,9 +106,9 @@ Sales and marketing material for [ostaPek®](https://saps2412.github.io/sales_mk
 
 ## Erriva™ ELIF & Erriva™ 3 TLIF ostaPek® interbody fusion cage system
 
-- Erriva™ ELIF Product Brochure [available upon request](https://spinenuances.com/contact-spinenuances)
+- [Erriva™ ELIF Product Brochure](https://saps2412.github.io/sales_mktg/Erriva_ELIF_Extraforaminal_Lumbar_Interbody_Fusion.pdf)
 
-- Erriva™ 3 TLIF Product Brochure [available upon request](https://spinenuances.com/contact-spinenuances)
+- [Erriva™ 3 TLIF Product Brochure](https://saps2412.github.io/sales_mktg/Erriva3_TLIF_Transforaminal_Lumbar_Interbody_Fusion.pdf)
 
 - Erriva™ ELIF & Erriva™ 3 TLIF Surgical Technique [available upon request](https://spinenuances.com/contact-spinenuances)
 
