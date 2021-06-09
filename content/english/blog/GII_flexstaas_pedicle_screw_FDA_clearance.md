@@ -13,9 +13,9 @@ draft: false
 ---
 
 [Spine Nuances](https://spinenuances.com/) is excited to announce that the [GII pedicle fixation](https://spinenuances.com/products/GII_pedicle_fixation) system now includes 
-the next generation flexStaas pedicle screw that was recently cleared by the FDA for US market.
+the next generation flexStaas pedicle screw that was recently cleared by the FDA for the US market.
 
-The flexStaas pedicle screw system is intended to provide immobilization and stabilization of spinal segments in skeletally mature patients as an adjunct to fusion. 
+The flexStaas pedicle screw as part of the Coligne GII spinal fixation system is intended to provide immobilization and stabilization of spinal segments in skeletally mature patients as an adjunct to fusion. 
 The poly-axial flexStaas pedicle screw features (1) a tulip design with a large docking surface and click grip for a fast and strong connection, 
 (2) double helix cancellous thread with a self-tapping tip for fast and precise screw placement and (3) an increased resistance to torque. 
 The set screw has (1) a wide self-aligning thread that facilitates set screw positioning and tightening and 
