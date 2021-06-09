@@ -12,7 +12,7 @@ description: "flexstaas pedicle screw GII FDA clearance 510(k)"
 draft: false
 ---
 
-[Spine Nuances](https://spinenuances.com/) is excited to announce that the [GII pedicle fixation](https://spinenuances.com/products/evos_gii_pedicle_fixation) system now includes 
+[Spine Nuances](https://spinenuances.com/) is excited to announce that the [GII pedicle fixation](https://spinenuances.com/products/GII_pedicle_fixation) system now includes 
 the next generation flexStaas pedicle screw that was recently cleared by the FDA for US market.
 
 The flexStaas pedicle screw system is intended to provide immobilization and stabilization of spinal segments in skeletally mature patients as an adjunct to fusion. 
