@@ -38,10 +38,12 @@ ALIF cage cleared by the FDA under MAX code in 2018 [510(k) K181963](https://www
 
 Cleared by the FDA under codes MNH, KWP and MNI in 1998.
 
-GII: titanium plates [510(k) K980852](https://www.accessdata.fda.gov/cdrh_docs/pdf/K980852.pdf)
+GII: titanium plates [510(k) K980852](https://www.accessdata.fda.gov/cdrh_docs/pdf/K980852.pdf),
 
-GII: titanium rods [510(k) K032604](https://www.accessdata.fda.gov/cdrh_docs/pdf3/K032604.pdf)
+GII: titanium rods [510(k) K032604](https://www.accessdata.fda.gov/cdrh_docs/pdf3/K032604.pdf),
 
-GII: ostaPek plates [510(k) K051089](https://www.accessdata.fda.gov/cdrh_docs/pdf5/K051089.pdf)
+GII: ostaPek plates [510(k) K051089](https://www.accessdata.fda.gov/cdrh_docs/pdf5/K051089.pdf),
 
-GII: polyaxial screws [510(k) K083567](https://www.accessdata.fda.gov/cdrh_docs/pdf8/K083567.pdf)
+GII: polyaxial screws [510(k) K083567](https://www.accessdata.fda.gov/cdrh_docs/pdf8/K083567.pdf) and
+
+GII: flexStaas pedicle screws [510(K) K210306](https://www.accessdata.fda.gov/cdrh_docs/pdf21/K210306.pdf).

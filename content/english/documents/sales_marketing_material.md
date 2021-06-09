@@ -36,7 +36,7 @@ Sales and marketing material for [ostaPek®](https://saps2412.github.io/sales_mk
 
 ## ostaPek® VBR
 
-- ostaPek® VBR Product Brochure [available upon request](https://spinenuances.com/contact-spinenuances)
+- [ostaPek® VBR Product Brochure](https://saps2412.github.io/sales_mktg/VBR_Vertebral_Body_Replacement.pdf)
 
 - ostaPek® VBR Surgical Technique [available upon request](https://spinenuances.com/contact-spinenuances)
 
