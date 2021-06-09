@@ -23,15 +23,17 @@ The set screw has (1) a wide self-aligning thread that facilitates set screw pos
 
 <!--more-->
 
-The flexStaas pedicle screw system, when used with Coligne Titanium rods and transverse connectors, is intended for use in the non-cervical posterior spine, 
-in skeletally mature patients, as an adjunct to fusion using autograft and/or allograft, it is intended for use for one or more of the following: 
+The flexStaas pedicle screw part of the Coligne GII Spinal Fixation System is intended to provide immobilization and stabilization of spinal segments in skeletally mature patients as an adjunct to fusion. 
+It is intended for use in the non-cervical posterior spine, in skeletally-mature patients, as an adjunct to fusion using autograft and/or allograft. 
+The GII Spinal Fixation System is intended for use for one or more of the following: 
 (1) degenerative disc disease (defined as discogenic back pain with degeneration of the disc confirmed by history and radiographic studies), 
 (2) degenerative spondylolisthesis with objective evidence of neurologic impairment, (3) fracture, (4) dislocation, (5) spinal stenosis, 
-(6) deformities or curvatures (i.e. scoliosis, kyphosis, and/or lordosis), (7) spinal tumor, and/or (8) failed previous fusion (pseudoarthrosis).
+(6) deformities or curvatures (i.e. scoliosis, kyphosis, and/or lordosis), (7) spinal tumor, and/or (8) failed previous fusion (pseudoarthrosis). 
 
-When used for posterior non-cervical pedicle screw fixation in pediatric patients, the flexStaas pedicle screw system, when used with Coligne titanium rods and transverse connectors, 
-is indicated as an adjunct to fusion to treat adolescent idiopathic scoliosis. Additionally, the system is intended to treat pediatric patients diagnosed with the following conditions: 
-spondylolisthesis/spondylolysis and fracture caused by tumor and/or trauma. This system is intended to be used with autograft and/or allograft. Pediatric pedicle screw fixation is limited to a posterior approach.
+When used for posterior non-cervical pedicle screw fixation in pediatric patients, the Coligne GII Spinal Fixation System is indicated as an adjunct to fusion to treat adolescent idiopathic scoliosis. 
+Additionally, the system is intended to treat pediatric patients diagnosed with the following conditions: spondylolisthesis/spondylolysis and fracture caused by tumor and/or trauma. 
+
+The system is intended to be used with autograft and/or allograft. Pediatric pedicle screw fixation is limited to a posterior approach. 
 
 ---
 
