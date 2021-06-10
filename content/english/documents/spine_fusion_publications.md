@@ -115,7 +115,7 @@ M Bisserié, JP Elsig, K Uehlinger, E Laloux, F Sgier: [Posterior lumbar interbo
 - SUMMARY - PLIF with ostaPek® cages with or without posterior instrumentation is associated with a fusion rate of 92.5%. Negative clinical results were found for only 6% of the patients.
 -----
 
-## ostaPek® Erriva interbody fusion cages
+## ostaPek® Erriva™ interbody fusion cages - ELIF & TLIF
 
 A. Kurzbuch, D. Recoules-Arche: [Minimal invasive lumbar spine revision surgery at distance from the dura and postsurgical scar tissue: Extraforaminal Lumbar Interbody Fusion. (ELIF).](https://saps2412.github.io/publications/ELIF%20Kurzbuch%202018.pdf) J Clin Neurosci. Jan 2018; 47:332-336
 
@@ -141,13 +141,13 @@ D Recoules-Arche, T Somon, DL Kaech: [ELIF through a muscle sparing unilateral a
 
 -----
 
-## ostaPek® Gemitra™ TLIF interbody fusion cages
+## ostaPek® Gemitra™ interbody fusion cages - TLIF
 
 J Commarmond: [Unilateral vs bilateral posterior lumbar interbody fusion. Advantages and limitations of interbody space restoration.](https://saps2412.github.io/publications/Gemitra%20Commarmond%202003.pdf) Eurospine. October 1-4 2003. Prague, Czech Republic.
 
 -----
 
-## GII pedicle fixation
+## GII spinal fixation system
 
 F Sgier, JP Elsig, J Commarmond, JP Rakover: [Carbon composite pedicle fixation and interbody cages. Retrospective analysis of 40 cases at 5 years.](https://saps2412.github.io/publications/GII%20Sgier%202004.pdf) Spineweek. May 30-June 5 2004. Porto, Portugal
 

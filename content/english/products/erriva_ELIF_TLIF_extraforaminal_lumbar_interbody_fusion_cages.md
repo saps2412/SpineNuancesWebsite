@@ -1,5 +1,5 @@
 ---
-title: "ostaPek® interbody fusion Erriva™ ELIF TLIF"
+title: "ostaPek® interbody fusion Erriva™ ELIF & TLIF"
 date: 2020-09-14
 images: 
   - "images/showcase/erriva3_instrument.jpg"
@@ -21,7 +21,7 @@ sizes : ["small","medium","large"]
 draft: false
 ---
 
-[ostaPek®](https://spinenuances.com/ostapek_carbon_composite) transforaminal lumbar interbody fusion cages.
+[ostaPek®](https://spinenuances.com/ostapek_carbon_composite) extraforaminal & transforaminal lumbar interbody fusion cages.
 
 The ostaPek® Erriva™ 3 cage is the latest design of the Coligne transforaminal lumbar interbody fusion cages. 
 Gentle bulleting and tapering of the ostaPek® Erriva™ 3 cage combined with ventral placement allows sagittal correction after implantation through a small, foraminal annulotomy.
@@ -36,8 +36,12 @@ The ostaPek erriva Interbody Fusion Cages are placed via a posterior or postero-
 
 Examples of indications discogenic lombalgy of 1 or 2 levels with foraminal stenosis, second recidive of foraminal disc herniation.
 
-The Erriva™ cage is available in different lengths 4 heights.
+The Erriva™ 3 cage is available in different lengths and heights.
 
-For complete details on the use of the Erriva™ system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_ostaPek_Interbody_Fusion_Cages_IFU_2018-10.pdf).
+For complete details on the use of the Erriva™ systems refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_ostaPek_Interbody_Fusion_Cages_IFU_2018-10.pdf).
 
-[Peer-reviewed clinical publications](https://spinenuances.com/documents/spine_fusion_publications) on the ELIF system.
+ostaPek® carbon composite [Erriva™ ELIF Product Brochure](https://saps2412.github.io/sales_mktg/Erriva_ELIF_Extraforaminal_Lumbar_Interbody_Fusion.pdf).
+
+ostaPek® carbon composite [Erriva™ 3 TLIF Product Brochure](https://saps2412.github.io/sales_mktg/Erriva3_TLIF_Transforaminal_Lumbar_Interbody_Fusion.pdf).
+
+[Peer-reviewed clinical publications](https://spinenuances.com/documents/spine_fusion_publications) on the Erriva™ systems.

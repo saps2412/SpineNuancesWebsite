@@ -1,5 +1,5 @@
 ---
-title: "GII pedicle fixation"
+title: "GII spinal fixation system"
 date: 2020-09-10
 images: 
  - "images/showcase/flexstaas_construct_main-min.jpg"
@@ -49,5 +49,7 @@ The flexStaas pedicle screws are available as polyaxial or monoaxial screws in d
 The GII pedicle rods and plates are available in various lengths. The GII pedicle plates come both sloted and half-sloted.
 
 For complete details on the use of the GII pedicle fixation system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_GII_spinal_fixation_system_IFU_2020-05.pdf).
+
+GII Spinal Fixation System [Product Brochure](https://saps2412.github.io/sales_mktg/GII_Spinal_Fixation_System.pdf).
 
 [Peer-reviewed clinical publications](https://spinenuances.com/documents/spine_fusion_publications) on the GII pedicle fixation system.

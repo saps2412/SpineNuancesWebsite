@@ -97,7 +97,7 @@ about_product:
         
     # about product item loop
     - image : "images/flexstaas_construct-min.jpg"
-      title : "GII Pedicle fixation"
+      title : "GII spinal fixation system"
       content : "The GII system, initially cleared by the FDA in 1998 in stainless steel and just complemented by the flexStaas pedicle screw, 
       includes orthogonal and poliaxial screws to be combined with either titanium or ostaPek® plates or titanium rods for the non-cervical spine."
       text: "Image of pedicle fixation system plates, rods and screws" #alt attribute for image

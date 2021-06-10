@@ -120,9 +120,9 @@ Sales and marketing material for [ostaPek®](https://saps2412.github.io/sales_mk
 
 -----
 
-## GII pedicle fixation
+## GII spinal fixation system
 
-- GII Product Brochure [available upon request](https://spinenuances.com/contact-spinenuances)
+- [GII Product Brochure](https://saps2412.github.io/sales_mktg/GII_Spinal_Fixation_System.pdf)
 
 - GII Surgical Technique [available upon request](https://spinenuances.com/contact-spinenuances)
 
@@ -131,8 +131,8 @@ Sales and marketing material for [ostaPek®](https://saps2412.github.io/sales_mk
 - FDA 510(k) Clearances - [Titanium plates](https://www.accessdata.fda.gov/cdrh_docs/pdf/K980852.pdf), 
 [Titanium rods](https://www.accessdata.fda.gov/cdrh_docs/pdf3/K032604.pdf), 
 [ostaPek® plates](https://www.accessdata.fda.gov/cdrh_docs/pdf5/K051089.pdf), 
-[Polyaxial screws](https://www.accessdata.fda.gov/cdrh_docs/pdf8/K083567.pdf) and 
-[flexStaas polyaxial pedicle screw](https://www.accessdata.fda.gov/cdrh_docs/pdf21/K210306.pdf)
+[GII polyaxial screws](https://www.accessdata.fda.gov/cdrh_docs/pdf8/K083567.pdf) and 
+[flexStaas polyaxial pedicle screws](https://www.accessdata.fda.gov/cdrh_docs/pdf21/K210306.pdf)
 
 - [GII pedicle fixation IFU](https://saps2412.github.io/IFUs/US_GII_spinal_fixation_system_IFU_2020-05.pdf)
 

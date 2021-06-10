@@ -42,4 +42,6 @@ The ostaPek® vertebral body replacement cages are available in various sizes wi
 
 For complete details on the use of the ostaPek® VBR system refer to the valid  [Information for Use](https://saps2412.github.io/IFUs/US_VBR_System_IFU_2020-05.pdf).
 
+ostaPek® VBR [Product Brochure](https://saps2412.github.io/sales_mktg/VBR_Vertebral_Body_Replacement.pdf).
+
 [Peer-reviewed clinical publications](https://spinenuances.com/documents/spine_fusion_publications) on the ostaPek® VBR system.
