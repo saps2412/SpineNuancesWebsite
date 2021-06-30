@@ -21,11 +21,9 @@ we gather the leading lights in spinal disciplines to advance your knowledge of 
 
 -----
 
-## NSpine 5th Main Conference
+## NSpine 5th Virtual Main Conference
 
 - 13th - 16th July 2021
-
-- Alfândega Conference Centre, Porto, Portugal
 
 -----
 
@@ -33,13 +31,13 @@ we gather the leading lights in spinal disciplines to advance your knowledge of 
 
 - ### 1st NSpine Advanced Anterior Scoliosis Techniques Course 
 
-- 17th & 18th July 2021
+- 17th July 2021
 
 - IRCAD Training Centre, Strasbourg, France
 
 - ### 1st NSpine Advanced 360 Lumbar Reconstructive Course
 
-- 17th & 18th July 2021
+- 18th July 2021
 
 - IRCAD Training Centre, Strasbourg, France
 
