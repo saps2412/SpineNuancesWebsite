@@ -15,12 +15,13 @@ draft: false
 All things spinal. Anatomy as a living language.
 
 Hidden behind a somewhat generic title, “[Spinal Anatomy, Modern Concepts](https://www.springer.com/gp/book/9783030209247),” we discover pearls for anyone
-interested in the spine. It is edited by [Prof. Jean Marc Vital](https://www.linkedin.com/in/jean-marc-vital/?originalSubdomain=fr) and 
+interested in the spine. It is edited by [Prof. Jean Marc Vital](https://courses.eccelearning.com/faculty/dr-jean-marc-vital) and 
 [Dr. Derek Thomas Cawley](https://www.researchgate.net/profile/Derek-Cawley), both from the
 [University of Bordeaux](https://www.chu-bordeaux.fr), with its long established tradition that combines the study of spine surgery,
 anatomy and physiology. In Bordeaux, these subjects seem inseparable and must be continuously renewed.
-Vibrantly written, magnificently illustrated, to plunge inside is to find what chapter authors, [Dimeglio]() and
-[Bonnel]() call, anatomy as a “living language” and to explore its “inexhaustible fecundity.” That is, the spine’s
+Vibrantly written, magnificently illustrated, to plunge inside is to find what chapter authors, [Dimeglio](https://courses.eccelearning.com/faculty/prof-alain-dimeglio) and
+[Bonnel](https://www.taylorfrancis.com/chapters/edit/10.1201/9780429352416-7/normal-abnormal-development-growth-spine-thoracic-cage-federico-canavese-fran%C3%A7ois-bonnel-alain-dimeglio) 
+call, anatomy as a “living language” and to explore its “inexhaustible fecundity.” That is, the spine’s
 incessant capacity to adapt and transform. The authors remind us that anatomy, as a story, has been told
 “since the origin of humans.” And yet still, from each generation’s technology and prospective, it must be
 told again and again.
