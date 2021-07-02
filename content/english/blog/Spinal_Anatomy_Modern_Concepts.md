@@ -47,7 +47,7 @@ They provide a look back, that in places extends
 through the origins of humankind, some 525 million years, when spinal columns first wandered the earth.
 From the lizard’s crawl to the biped’s standing up to be human, we see how the spine’s functional elements
 unfolded through the ages and how they are used, this from the vantage points of several fields. There are
-also the stories of cutting-edge technology, the usage of noble laureate [Georges Charpak’s](https://en.wikipedia.org/wiki/Georges_Charpak) work to model
+also the stories of cutting-edge technology, the usage of Nobel laureate [Georges Charpak’s](https://en.wikipedia.org/wiki/Georges_Charpak) work to model
 the spine in three dimensions with little radiation. In many spots, chapter authors close their section to
 expose limitations of today’s understanding, the questions unanswered still. These are part reflection, part
 call for action, a story to be written.
