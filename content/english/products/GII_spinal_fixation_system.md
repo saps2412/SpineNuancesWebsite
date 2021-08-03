@@ -22,7 +22,7 @@ draft: false
 ---
 
 The GII pedicle fixation system is designed for the thoracolumbar and sacral spine with different longitudinal elements according to the specific needs of each patient. 
-The Titanium pedicle screws used as anchors are orthogonal or poliaxial. 
+The Titanium pedicle screws used as anchors are orthogonal or polyaxial. 
 The longitudinal elements are Titanium rods, [ostaPek®](https://spinenuances.com/ostapek_carbon_composite) plates or Titanium plates. Multiple connectors and extenders are available to complement the pedicle fixation system.
 
 Clinically used in Europe since 1994 (eVos system) and 2007 (flexStaas system). 

@@ -69,7 +69,7 @@ promo:
   image : "images/VBRsystemnew.png"
   title : "ostaPek® VBR for tumor."
   content : "ostaPek® VBR is designed for the most demanding spine tumor cases. 
-  The contruct is versatile in terms of height and lordosis angle via stackable cages.
+  The construct is versatile in terms of height and lordosis angle via stackable cages.
   The artificial pedicles allow a complete reconstruction of the spinal column and protect the spinal cord. 
   Radiolucency of the material makes both radiological treatment and post-operative visual assessment possible."
   text: "Image of VBR cages and artificial pedicle" #alt attribute for image
@@ -99,12 +99,12 @@ about_product:
     - image : "images/flexstaas_construct-min.jpg"
       title : "GII spinal fixation system"
       content : "The GII system, initially cleared by the FDA in 1998 in stainless steel and just complemented by the flexStaas pedicle screw, 
-      includes orthogonal and poliaxial screws to be combined with either titanium or ostaPek® plates or titanium rods for the non-cervical spine."
+      includes orthogonal and polyaxial screws to be combined with either titanium or ostaPek® plates or titanium rods for the non-cervical spine."
       text: "Image of pedicle fixation system plates, rods and screws" #alt attribute for image
       button:
         enable : true
-        label : "Learn more about GII pedicle fixation"
-        link : "products/GII_pedicle_fixation"
+        label : "Learn more about GII spinal fixation"
+        link : "products/gii_spinal_fixation_system"
 
 ############################# surgery ############################
 instrument:
@@ -123,7 +123,7 @@ instrument:
 #################################### Products ########################
 products:
   enable : true
-  title : "ostaPek® spine cages and pedicle fixation products."
+  title : "ostaPek® spine cages and spinal fixation products."
 
 
 ################################## Subscription ###################

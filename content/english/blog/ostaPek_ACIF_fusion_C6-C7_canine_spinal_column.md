@@ -35,7 +35,7 @@ The specimen shows that living bone spans through the ostaPek® carbon composite
 ostaPek® ACIF/ACDF implants are made of [ostaPek® carbon composite](https://saps2412.github.io/sales_mktg/what_is_ostaPek_and_why.pdf) which is [intrinsically osteophilic](https://spinenuances.com/blog/ostapek_carbon_composite_part_one_biology), 
 no coatings required and its mechanical properties are tailored to ensure primary stability and promote remodeling.
 
-The thin wall cage design enables unparalleled graft to cage volume ratio and the open three-strut cage architecgture matches vertebral endplates and lowers the risk of subsidence whilst
+The thin wall cage design enables unparalleled graft to cage volume ratio and the open three-strut cage architecture matches vertebral endplates and lowers the risk of subsidence whilst
 the large lateral and transverse bone ports allow for optimal fusion.
 
 The ostaPek® ACIF/ACDF cage is available in a number of sizes to provide ease of use, flat or domed, lots of space for graft and optimal match of intervertebral space. 

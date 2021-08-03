@@ -79,7 +79,7 @@ The limitations and prohibitions of liability set in this section and elsewhere 
 As long as the website and the information on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
 
 ## Consent
-By using our website, you hereby consent to our Privacey Policy and agree to its Terms and Conditions.
+By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
 
 ## Dispute Resolution and Arbitration
 Any dispute concerning the scope, meaning, or implementation of these Terms and Conditions, or any matter contained herein or related hereto, 

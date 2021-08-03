@@ -1,5 +1,5 @@
 ---
-title: "GEER webinar on Vertrebal Tumors"
+title: "GEER webinar on Vertebral Tumors"
 date: 2020-11-28
 image: "images/showcase/geer_logo_en.png"
 images: 

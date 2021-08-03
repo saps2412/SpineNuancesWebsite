@@ -34,7 +34,7 @@ Clinically used in Europe since 2004. Cleared by the FDA under MQP code in 2008 
 ostaPek® VBR technology is [patented](https://spinenuances.com/documents/spine_fusion_patents), has been developed in the USA and is manufactured in Switzerland.
 
 The coLigne ostaPek® VBR system are vertebral body (partial or total) replacement (VBR) devices intended for use in the thoracolumbar spine (T1-L5) to replace and restore height to a collapsed, damaged, or unstable vertebral body or portion thereof, due to tumor, trauma, or disease.
-The system is to be used in association with bone graft and supplemental spinal fixation, i.e. the [GII system](https://spinenuances.com/products/GII_pedicle_fixation). 
+The system is to be used in association with bone graft and supplemental spinal fixation, i.e. the [GII system](https://spinenuances.com/products/gii_spinal_fixation_system). 
 
 Examples of indications are Tumor and Trauma.
 
