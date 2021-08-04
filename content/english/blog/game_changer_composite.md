@@ -22,7 +22,7 @@ In this manner composite materials are designed to leverage the ‘best’ parts
 <!--more-->
 
 Today, material properties of artificial high-performance composites are [tailored specifically to each application](https://spinenuances.com/products) 
-by embedding continuous or fragments of high-strength carbon fibers in a host [polymer](https://en.wikipedia.org/wiki/Polymer) matrix. 
+by embedding continuous or fragments of high-strength carbon fibers in a host [polymer matrix](https://www.polymerexpert.biz/industries/173-composites). 
 
 ## What roles do fiber & matrix play?
 
@@ -30,7 +30,7 @@ The structural properties of composite depend primarily on the fiber reinforceme
 By orienting [carbon fiber](https://www.innovativecomposite.com/what-is-carbon-fiber) bundles in the direction of the primary load pathway, engineers can [design for optimal, application specific mechanical properties](https://spinenuances.com/ostapek_carbon_composite) 
 such as strength, stability, and fatigue resistance while allowing for complex load-bearing thin-wall geometries. 
 
-The [resin matrix](https://en.wikipedia.org/wiki/Matrix_(composite)) instead holds the fibers in place, transfers load between fibers, gives the composite material its outer contour and determines the surface quality. 
+The [resin matrix](https://www.compositesworld.com/articles/the-matrix) instead holds the fibers in place, transfers load between fibers, gives the composite material its outer contour and determines the surface quality. 
 
 ## Self-Healing Composite Materials
 
@@ -47,7 +47,7 @@ similar to how a rope is made by twisting together individual fibers to make yar
 
 The bone in our body is also considered to be a composite material made up of high elastic modulus mineral ‘fibers’ 
 embedded in a low elastic modulus organic matrix permeated with pores filled with liquids. 
-Based on this structural setup [bones are able to continuously re-model based on the stresses placed on our body](https://en.wikipedia.org/wiki/Bone_remodeling). 
+Based on this structural setup [bones are able to continuously re-model based on the stresses placed on our body](https://onlinelibrary.wiley.com/doi/10.1002/ar.1092190104). 
 In this manner the density of our bones is increased in high-stress areas and decreased in areas that are used less. 
 
 ---
