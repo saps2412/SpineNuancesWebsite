@@ -21,34 +21,42 @@ we gather the leading lights in spinal disciplines to advance your knowledge of 
 
 -----
 
-## NSpine 5th Virtual Main Conference
+## NSpine 5th Master  Class
 
-- 13th - 16th July 2021
+- 17 - 21 January 2022
+
+- Kulm Hotel, Arosa, Switzerland
 
 -----
 
 ## NSpine Combined Cadaveric and Live Tissue Workshop Series
 
-- ### 1st NSpine Advanced Anterior Scoliosis Techniques Course 
+- ### 2nd NSpine Advanced Anterior Scoliosis Techniques Course
 
-- 17th July 2021
+- 27 - 29 May 2022
 
 - IRCAD Training Centre, Strasbourg, France
 
-- ### 1st NSpine Advanced 360 Lumbar Reconstructive Course
+- ### 2nd NSpine Advanced 360 Lumbar Reconstructive Course
 
-- 18th July 2021
+- 27 - 29 May 2022
+
+- IRCAD Training Centre, Strasbourg, France
+
+- ### 2nd NSpine Advanced Surgical Techniques and Complications Management Course
+
+- 27 - 29 May 2022
 
 - IRCAD Training Centre, Strasbourg, France
 
 -----
 
-## NSpine Advanced Surgical Techniques and Complications Management Course
+## NSpine 6th Main Conference
 
-- 28th & 29th October 2021
+- 31 May - 3 June 2022
 
-- IRCAD Training Centre, Strasbourg, France
+- Sheraton Hotel, Porto, Portugal
 
 -----
 
-For complete details on all NSpine Courses and Conferences refer to the [NSpine 2021](https://www.nspine.com).
+For complete details on all NSpine Courses and Conferences refer to the [NSpine 2022](https://www.nspine.com).
