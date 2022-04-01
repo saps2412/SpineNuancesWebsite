@@ -1,6 +1,6 @@
 ---
-title: "Vittoria Brighenti, CEO & Founder"
-date: 2020-09-15
+title: "Vittoria Brighenti, CEO"
+date: 2020-09-16
 image: "images/showcase/VittoriaBrighenti.jpg"
 description : "Summary Curriculum Vitae Vittoria Brighenti."
 draft: false

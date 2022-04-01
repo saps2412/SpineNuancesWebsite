@@ -1,6 +1,6 @@
 ---
-title: "Patrick Stepanek, Chairman & Founder"
-date: 2020-09-16
+title: "Patrick Stepanek, Chairman"
+date: 2020-09-15
 image: "images/showcase/PatrickStepanek.jpg"
 description : "Summary Curriculum Vitae Patrick Stepanek."
 draft: false
