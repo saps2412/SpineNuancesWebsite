@@ -1,5 +1,5 @@
 ---
-title: "Patrick Stepanek, CEO"
+title: "Patrick Stepanek, Chairman & Founder"
 date: 2020-09-16
 image: "images/showcase/PatrickStepanek.jpg"
 description : "Summary Curriculum Vitae Patrick Stepanek."

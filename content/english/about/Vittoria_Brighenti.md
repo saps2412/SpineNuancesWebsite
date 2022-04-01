@@ -1,5 +1,5 @@
 ---
-title: "Vittoria Brighenti, CCO"
+title: "Vittoria Brighenti, CEO & Founder"
 date: 2020-09-15
 image: "images/showcase/VittoriaBrighenti.jpg"
 description : "Summary Curriculum Vitae Vittoria Brighenti."
