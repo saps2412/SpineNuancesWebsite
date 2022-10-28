@@ -5,7 +5,7 @@ description : "Contact details and contact form Spine Nuances."
 
 office:
   title : "Contact Details"
-  mobile : "+41 78 668 95 72"
+  mobile : "+41 79 721 69 53"
   email : "info@spinenuances.com"
   location : "North Brunswick, USA"
 
