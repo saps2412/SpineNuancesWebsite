@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coligne Courses on Spine Nuances</title>
+    <link>https://spinenuances.com/courses/</link>
+    <description>Recent content in Coligne Courses on Spine Nuances</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright @ 2021 Spine Nuances. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://spinenuances.com/courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spine Surgeon Workshop</title>
+      <link>https://spinenuances.com/courses/spine_surgeon_workshop/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://spinenuances.com/courses/spine_surgeon_workshop/</guid>
+      <description>&lt;p&gt;Hands-on sessions on spine cadavers or in an anatomy lab, to explore ostaPek® carbon composite spine surgery or nuances to surgical approaches.
+Teachers and students flip role often during the same session. Participation and exchange.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Developer Sessions</title>
+      <link>https://spinenuances.com/courses/developer_session/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://spinenuances.com/courses/developer_session/</guid>
+      <description>&lt;p&gt;Every surgeon, nurse, sales assistant and technical person knows how to improve a system.
+But development is possible only via sustainable steps that really bring value. Discussions, sketches, case presentations are the starting point for change.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Live Surgeries</title>
+      <link>https://spinenuances.com/courses/live_surgeries/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://spinenuances.com/courses/live_surgeries/</guid>
+      <description>&lt;p&gt;In a few dense days, hosts and guests join for a spectrum of ostaPek® surgical treatments. Guests become part of the case work up.
+You&amp;rsquo;ll observe the hosts performing surgery and participate in the post-op briefings.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Host &amp; guest tours</title>
+      <link>https://spinenuances.com/courses/host_guest_tours/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://spinenuances.com/courses/host_guest_tours/</guid>
+      <description>&lt;p&gt;Some gestures, details, adjustments can only be learned by observing a colleague performing surgery, in a private and protected occasion.
+Change of settings and a different perspective on a patient always bring ideas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NSpine Courses and Conferences</title>
+      <link>https://spinenuances.com/courses/nspine/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://spinenuances.com/courses/nspine/</guid>
+      <description>&lt;p&gt;NSpine aspires to be the worlds most comprehensive spine review course;
+a unique learning environment which seeks to amalgamate the latest research and surgical practice in the treatment of the spine.
+Catering to all manner of professionals across the globe’s healthcare industry, from doctors and nurses through to anaesthetists and vets,
+we gather the leading lights in spinal disciplines to advance your knowledge of best practice procedures.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

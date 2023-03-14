@@ -37,7 +37,7 @@ We may consider and approve other link requests from organizations to our websit
 We will approve link requests from these organizations if we decide that: (a) the link will not make us look unfavorably to ourselves or to our accredited businesses; 
 (b) the organization does not have any negative records with us; and (c) the link is in the context of general resource information.
 
-If you are interested in linking to our website, please send us an e-mail at info@spinenuances.com. Please include your name, your organization, contact information as well as the URL of your site, 
+If you are interested in linking to our website, please send us an e-mail at spinenuances@gmail.com. Please include your name, your organization, contact information as well as the URL of your site, 
 a list of any URLs from which you intend to link to our website, and a list of the URLs on our site to which you would like to link.
 
 Approved organizations may hyperlink to our website by use of our corporate name or of any other description of our website being linked to that makes sense within the context and format of content on the linking party's site.
